@@ -1,0 +1,4650 @@
+﻿Year,Region,Student_Dropout_Value,Teacher_Data_Value
+1995,Portugal,21.3,
+1996,Portugal,33.1,
+1997,Portugal,35.7,
+1998,Portugal,35.6,
+1999,Portugal,36.0,
+2000,Portugal,36.8,34.8
+2001,Portugal,39.4,38.3
+2002,Portugal,37.4,41.6
+2003,Portugal,33.7,52.1
+2004,Portugal,33.8,57.3
+2005,Portugal,32.1,64.5
+2006,Portugal,31.1,81.8
+2007,Portugal,24.8,88.5
+2008,Portugal,21.0,101.0
+2009,Abrantes,20.8,117.5
+2009,Aguiar da Beira,7.7,12.5
+2009,Alandroal,14.3,22.2
+2009,Albergaria-a-Velha,15.5,72.1
+2009,Albufeira,21.4,30.5
+2009,Alcanena,19.8,100.0
+2009,Alcobaça,16.5,73.8
+2009,Alcochete,25.6,55.6
+2009,Alcoutim,40.0,6.3
+2009,Alcácer do Sal,19.4,41.7
+2009,Alenquer,17.6,54.9
+2009,Alfândega da Fé,30.3,37.5
+2009,Alijó,23.7,34.2
+2009,Aljezur,,15.4
+2009,Aljustrel,19.7,41.7
+2009,Almada,24.6,211.2
+2009,Almeida,22.3,84.2
+2009,Almeirim,17.5,106.5
+2009,Almodôvar,19.4,45.0
+2009,Alpiarça,20.5,42.9
+2009,Alter do Chão,27.5,35.3
+2009,Alvaiázere,19.1,85.7
+2009,Alvito,5.0,
+2009,Amadora,26.9,167.6
+2009,Amarante,8.5,37.8
+2009,Amares,19.5,33.3
+2009,Anadia,15.0,126.7
+2009,Angra do Heroísmo,,
+2009,Ansião,17.2,45.5
+2009,Arcos de Valdevez,13.5,69.7
+2009,Arganil,18.6,47.2
+2009,Armamar,,
+2009,Arouca,12.2,22.5
+2009,Arraiolos,13.7,29.6
+2009,Arronches,,10.0
+2009,Arruda dos Vinhos,19.1,46.7
+2009,Aveiro,21.4,123.7
+2009,Avis,14.2,18.2
+2009,Azambuja,27.6,34.1
+2009,Baião,30.3,5.1
+2009,Barcelos,14.7,48.1
+2009,Barrancos,,16.7
+2009,Barreiro,23.1,177.2
+2009,Batalha,22.7,37.8
+2009,Beja,24.3,111.0
+2009,Belmonte,19.5,137.5
+2009,Benavente,22.0,44.2
+2009,Bombarral,25.2,62.9
+2009,Borba,,35.7
+2009,Boticas,15.0,18.2
+2009,Braga,16.3,104.8
+2009,Bragança,21.7,152.9
+2009,Cabeceiras de Basto,18.1,14.0
+2009,Cadaval,24.5,23.5
+2009,Caldas da Rainha,22.4,109.5
+2009,Calheta [R.A.A.],,
+2009,Calheta [R.A.M.],,
+2009,Caminha,18.3,80.0
+2009,Campo Maior,15.1,19.0
+2009,Cantanhede,16.1,138.8
+2009,Carrazeda de Ansiães,12.1,54.5
+2009,Carregal do Sal,24.1,94.7
+2009,Cartaxo,14.6,154.5
+2009,Cascais,17.3,149.7
+2009,Castanheira de Pêra,,
+2009,Castelo Branco,17.5,173.1
+2009,Castelo de Paiva,21.3,5.8
+2009,Castelo de Vide,,40.0
+2009,Castro Daire,23.1,32.1
+2009,Castro Marim,,11.8
+2009,Castro Verde,13.3,42.9
+2009,Celorico da Beira,28.7,17.6
+2009,Celorico de Basto,12.3,16.7
+2009,Chamusca,26.0,80.0
+2009,Chaves,14.1,140.3
+2009,Cinfães,9.7,19.8
+2009,Coimbra,20.4,189.5
+2009,Condeixa-a-Nova,23.9,119.0
+2009,Constância,11.4,46.7
+2009,Coruche,15.3,107.1
+2009,Corvo,,
+2009,Covilhã,17.1,98.1
+2009,Crato,10.2,50.0
+2009,Cuba,31.9,37.5
+2009,Câmara de Lobos,,
+2009,Elvas,26.8,64.2
+2009,Entroncamento,19.9,147.4
+2009,Espinho,12.1,109.1
+2009,Esposende,13.0,86.9
+2009,Estarreja,15.6,104.3
+2009,Estremoz,17.0,62.8
+2009,Fafe,12.4,40.2
+2009,Faro,17.9,107.1
+2009,Felgueiras,12.4,22.9
+2009,Ferreira do Alentejo,5.7,50.0
+2009,Ferreira do Zêzere,23.4,20.8
+2009,Figueira da Foz,17.9,202.3
+2009,Figueira de Castelo Rodrigo,25.4,29.6
+2009,Figueiró dos Vinhos,18.9,100.0
+2009,Fornos de Algodres,19.6,11.5
+2009,Freixo de Espada à Cinta,,40.0
+2009,Fronteira,16.0,9.1
+2009,Funchal,,
+2009,Fundão,12.8,108.5
+2009,Gavião,,20.0
+2009,Golegã,37.0,150.0
+2009,Gondomar,16.4,86.9
+2009,Gouveia,17.2,76.5
+2009,Grândola,15.4,43.2
+2009,Guarda,17.4,168.6
+2009,Guimarães,17.0,48.8
+2009,Góis,,
+2009,Horta,,
+2009,Idanha-a-Nova,17.5,53.8
+2009,Lagoa,23.0,32.1
+2009,Lagoa [R.A.A.],,
+2009,Lagos,20.4,99.0
+2009,Lajes das Flores,,
+2009,Lajes do Pico,,
+2009,Lamego,14.8,82.9
+2009,Leiria,17.1,106.9
+2009,Lisboa,18.2,183.0
+2009,Loulé,22.2,54.0
+2009,Loures,23.4,130.6
+2009,Lourinhã,15.6,45.0
+2009,Lousada,21.6,15.9
+2009,Lousã,24.9,330.0
+2009,Macedo de Cavaleiros,22.3,93.3
+2009,Machico,,
+2009,Madalena,,
+2009,Mafra,20.4,44.4
+2009,Maia,21.6,167.9
+2009,Mangualde,16.6,95.1
+2009,Manteigas,12.4,10.0
+2009,Marco de Canaveses,14.2,14.1
+2009,Marinha Grande,14.2,94.6
+2009,Marvão,,
+2009,Matosinhos,21.2,163.0
+2009,Mação,22.1,35.0
+2009,Mealhada,16.4,134.6
+2009,Melgaço,17.6,25.0
+2009,Mesão Frio,15.5,16.0
+2009,Mira,23.5,178.6
+2009,Miranda do Corvo,21.3,70.4
+2009,Miranda do Douro,19.9,57.9
+2009,Mirandela,18.9,94.9
+2009,Mogadouro,35.3,90.9
+2009,Moimenta da Beira,17.1,40.0
+2009,Moita,24.8,109.6
+2009,Monchique,,36.4
+2009,Mondim de Basto,19.8,36.4
+2009,Monforte,,9.1
+2009,Montalegre,14.9,15.2
+2009,Montemor-o-Novo,24.7,67.6
+2009,Montemor-o-Velho,8.4,147.6
+2009,Montijo,20.8,114.7
+2009,Monção,12.4,63.3
+2009,Mora,35.4,40.0
+2009,Mortágua,14.9,114.3
+2009,Moura,17.7,49.0
+2009,Mourão,,9.1
+2009,Murtosa,4.8,50.0
+2009,Murça,14.2,100.0
+2009,Mértola,12.8,11.5
+2009,Mêda,24.1,40.0
+2009,Nazaré,23.8,44.0
+2009,Nelas,22.7,50.0
+2009,Nisa,20.0,36.8
+2009,Nordeste,,
+2009,Odemira,17.4,38.6
+2009,Odivelas,26.3,149.3
+2009,Oeiras,22.1,235.6
+2009,Oleiros,25.5,50.0
+2009,Olhão,13.6,66.4
+2009,Oliveira de Azeméis,11.0,50.7
+2009,Oliveira de Frades,17.0,35.3
+2009,Oliveira do Bairro,14.6,64.1
+2009,Oliveira do Hospital,26.4,38.6
+2009,Ourique,26.7,23.5
+2009,Ourém,22.0,50.8
+2009,Ovar,20.0,98.9
+2009,Palmela,22.3,37.7
+2009,Pampilhosa da Serra,0.0,11.1
+2009,Paredes,20.5,31.1
+2009,Paredes de Coura,7.9,8.8
+2009,Paços de Ferreira,14.4,18.2
+2009,Pedrógão Grande,19.7,33.3
+2009,Penacova,26.5,190.9
+2009,Penafiel,17.1,37.1
+2009,Penalva do Castelo,14.2,61.5
+2009,Penamacor,27.6,21.4
+2009,Penedono,,14.3
+2009,Penela,7.5,125.0
+2009,Peniche,21.7,130.2
+2009,Peso da Régua,19.1,89.3
+2009,Pinhel,28.8,68.4
+2009,Pombal,21.8,55.5
+2009,Ponta Delgada,,
+2009,Ponta do Sol,,
+2009,Ponte da Barca,16.8,66.7
+2009,Ponte de Lima,12.2,80.8
+2009,Ponte de Sor,9.2,61.8
+2009,Portalegre,19.5,98.5
+2009,Portel,3.3,22.2
+2009,Portimão,22.4,76.2
+2009,Porto,17.1,108.9
+2009,Porto Moniz,,
+2009,Porto Santo,,
+2009,Porto de Mós,14.4,33.3
+2009,Portugal,,93.1
+2009,Povoação,,
+2009,Proença-a-Nova,17.3,57.1
+2009,Póvoa de Lanhoso,19.5,80.6
+2009,Póvoa de Varzim,14.0,74.4
+2009,Redondo,25.7,35.0
+2009,Reguengos de Monsaraz,21.4,57.1
+2009,Resende,14.9,15.0
+2009,Ribeira Brava,,
+2009,Ribeira Grande,,
+2009,Ribeira de Pena,30.1,25.0
+2009,Rio Maior,16.1,55.1
+2009,Sabrosa,24.4,45.5
+2009,Sabugal,14.4,95.7
+2009,Salvaterra de Magos,22.7,34.2
+2009,Santa Comba Dão,21.4,73.7
+2009,Santa Cruz,,
+2009,Santa Cruz da Graciosa,,
+2009,Santa Cruz das Flores,,
+2009,Santa Maria da Feira,17.0,74.2
+2009,Santa Marta de Penaguião,,45.5
+2009,Santana,,
+2009,Santarém,13.6,86.2
+2009,Santiago do Cacém,16.7,77.6
+2009,Santo Tirso,15.3,56.6
+2009,Sardoal,8.7,40.0
+2009,Seia,11.7,75.9
+2009,Seixal,23.8,160.9
+2009,Sernancelhe,8.8,11.8
+2009,Serpa,17.8,31.5
+2009,Sertã,18.1,32.7
+2009,Sesimbra,25.5,90.9
+2009,Setúbal,20.0,184.9
+2009,Sever do Vouga,13.0,19.4
+2009,Silves,22.5,51.0
+2009,Sines,22.5,110.5
+2009,Sintra,24.7,137.4
+2009,Sobral de Monte Agraço,16.0,38.9
+2009,Soure,12.7,73.1
+2009,Sousel,,21.4
+2009,Sátão,14.0,61.3
+2009,São Brás de Alportel,10.6,39.5
+2009,São João da Madeira,12.4,58.0
+2009,São João da Pesqueira,16.8,35.3
+2009,São Pedro do Sul,13.6,58.0
+2009,São Roque do Pico,,
+2009,São Vicente,,
+2009,Tabuaço,16.0,19.0
+2009,Tarouca,35.1,35.3
+2009,Tavira,18.1,115.9
+2009,Terras de Bouro,17.0,8.8
+2009,Tomar,11.5,148.3
+2009,Tondela,16.8,74.5
+2009,Torre de Moncorvo,28.9,73.7
+2009,Torres Novas,14.4,97.0
+2009,Torres Vedras,17.7,70.3
+2009,Trancoso,15.2,44.1
+2009,Trofa,20.3,72.4
+2009,Tábua,28.4,55.0
+2009,Vagos,15.5,104.5
+2009,Vale de Cambra,17.6,87.5
+2009,Valença,14.5,51.6
+2009,Valongo,17.1,126.2
+2009,Valpaços,28.9,34.7
+2009,Velas,,
+2009,Vendas Novas,11.0,65.8
+2009,Viana do Alentejo,31.2,33.3
+2009,Viana do Castelo,15.9,93.3
+2009,Vidigueira,32.1,77.8
+2009,Vieira do Minho,21.8,37.5
+2009,Vila Flor,24.6,57.1
+2009,Vila Franca de Xira,17.9,109.0
+2009,Vila Franca do Campo,,
+2009,Vila Nova da Barquinha,7.2,100.0
+2009,Vila Nova de Cerveira,22.6,26.7
+2009,Vila Nova de Famalicão,18.5,41.3
+2009,Vila Nova de Foz Côa,27.2,133.3
+2009,Vila Nova de Gaia,16.2,126.3
+2009,Vila Nova de Paiva,20.8,29.6
+2009,Vila Nova de Poiares,27.4,114.3
+2009,Vila Pouca de Aguiar,28.0,52.2
+2009,Vila Real,20.5,128.7
+2009,Vila Real de Santo António,21.4,47.8
+2009,Vila Velha de Ródão,,40.0
+2009,Vila Verde,14.6,48.4
+2009,Vila Viçosa,23.1,58.6
+2009,Vila da Praia da Vitória,,
+2009,Vila de Rei,16.7,66.7
+2009,Vila do Bispo,,30.8
+2009,Vila do Conde,16.9,98.4
+2009,Vila do Porto,,
+2009,Vimioso,,28.6
+2009,Vinhais,31.1,13.6
+2009,Viseu,16.3,111.7
+2009,Vizela,18.2,17.1
+2009,Vouzela,18.7,20.0
+2009,Águeda,21.4,98.7
+2009,Évora,16.2,146.0
+2009,Ílhavo,21.0,103.2
+2009,Óbidos,20.8,24.0
+2010,Abrantes,17.5,132.7
+2010,Aguiar da Beira,6.7,16.7
+2010,Alandroal,9.1,37.5
+2010,Albergaria-a-Velha,12.8,76.4
+2010,Albufeira,24.5,26.7
+2010,Alcanena,18.0,94.1
+2010,Alcobaça,18.1,82.5
+2010,Alcochete,22.6,57.4
+2010,Alcoutim,16.7,
+2010,Alcácer do Sal,21.9,35.9
+2010,Alenquer,17.6,71.8
+2010,Alfândega da Fé,23.4,20.0
+2010,Alijó,26.0,37.1
+2010,Aljezur,,25.0
+2010,Aljustrel,25.3,31.6
+2010,Almada,24.6,256.8
+2010,Almeida,26.1,48.1
+2010,Almeirim,15.8,102.8
+2010,Almodôvar,13.4,30.0
+2010,Alpiarça,15.3,15.8
+2010,Alter do Chão,14.7,42.9
+2010,Alvaiázere,21.8,66.7
+2010,Alvito,,7.7
+2010,Amadora,29.5,173.8
+2010,Amarante,12.4,45.5
+2010,Amares,15.7,48.6
+2010,Anadia,13.2,134.1
+2010,Angra do Heroísmo,19.3,
+2010,Ansião,14.6,55.6
+2010,Arcos de Valdevez,18.4,74.3
+2010,Arganil,17.2,33.3
+2010,Armamar,,23.1
+2010,Arouca,9.1,35.4
+2010,Arraiolos,17.0,42.9
+2010,Arronches,,10.0
+2010,Arruda dos Vinhos,20.6,51.5
+2010,Aveiro,18.6,143.6
+2010,Avis,19.9,42.9
+2010,Azambuja,26.3,56.8
+2010,Baião,23.6,9.6
+2010,Barcelos,13.4,58.7
+2010,Barrancos,,42.9
+2010,Barreiro,20.9,229.8
+2010,Batalha,18.8,37.0
+2010,Beja,24.8,117.6
+2010,Belmonte,10.2,120.0
+2010,Benavente,22.7,42.9
+2010,Bombarral,25.3,126.3
+2010,Borba,,61.5
+2010,Boticas,,37.5
+2010,Braga,18.1,138.3
+2010,Bragança,20.9,198.6
+2010,Cabeceiras de Basto,17.9,13.4
+2010,Cadaval,22.9,41.4
+2010,Caldas da Rainha,21.6,88.5
+2010,Calheta [R.A.A.],30.6,
+2010,Calheta [R.A.M.],29.6,
+2010,Caminha,16.8,110.0
+2010,Campo Maior,24.3,22.9
+2010,Cantanhede,15.1,178.3
+2010,Carrazeda de Ansiães,10.4,57.1
+2010,Carregal do Sal,21.5,55.3
+2010,Cartaxo,23.8,123.8
+2010,Cascais,18.5,182.1
+2010,Castanheira de Pêra,,
+2010,Castelo Branco,18.7,214.7
+2010,Castelo de Paiva,16.4,5.9
+2010,Castelo de Vide,,40.0
+2010,Castro Daire,11.9,33.3
+2010,Castro Marim,,38.5
+2010,Castro Verde,13.8,28.6
+2010,Celorico da Beira,24.3,14.3
+2010,Celorico de Basto,16.5,22.2
+2010,Chamusca,25.2,85.7
+2010,Chaves,19.5,132.9
+2010,Cinfães,12.8,12.3
+2010,Coimbra,18.8,236.5
+2010,Condeixa-a-Nova,23.8,207.7
+2010,Constância,21.2,50.0
+2010,Coruche,14.3,115.6
+2010,Corvo,,
+2010,Covilhã,21.4,114.9
+2010,Crato,11.9,25.0
+2010,Cuba,12.2,80.0
+2010,Câmara de Lobos,29.6,
+2010,Elvas,18.1,69.9
+2010,Entroncamento,18.9,163.6
+2010,Espinho,15.2,160.3
+2010,Esposende,16.1,83.1
+2010,Estarreja,15.5,98.0
+2010,Estremoz,23.4,73.8
+2010,Fafe,11.2,52.5
+2010,Faro,20.9,117.6
+2010,Felgueiras,15.1,23.3
+2010,Ferreira do Alentejo,18.7,47.1
+2010,Ferreira do Zêzere,21.0,25.0
+2010,Figueira da Foz,18.1,288.9
+2010,Figueira de Castelo Rodrigo,26.1,36.0
+2010,Figueiró dos Vinhos,20.1,63.2
+2010,Fornos de Algodres,16.9,14.3
+2010,Freixo de Espada à Cinta,,23.1
+2010,Fronteira,0.0,
+2010,Funchal,23.4,
+2010,Fundão,10.5,106.3
+2010,Gavião,,14.3
+2010,Golegã,33.3,87.5
+2010,Gondomar,17.5,92.2
+2010,Gouveia,17.5,97.0
+2010,Grândola,13.9,50.0
+2010,Guarda,16.7,163.3
+2010,Guimarães,16.8,49.4
+2010,Góis,,33.3
+2010,Horta,18.6,
+2010,Idanha-a-Nova,18.1,50.0
+2010,Lagoa,25.5,26.1
+2010,Lagoa [R.A.A.],39.9,
+2010,Lagos,23.3,105.3
+2010,Lajes das Flores,,
+2010,Lajes do Pico,24.5,
+2010,Lamego,13.1,84.0
+2010,Leiria,19.2,110.4
+2010,Lisboa,18.7,202.2
+2010,Loulé,22.6,52.8
+2010,Loures,27.8,134.8
+2010,Lourinhã,17.0,50.0
+2010,Lousada,22.0,14.0
+2010,Lousã,18.9,315.4
+2010,Macedo de Cavaleiros,17.9,130.4
+2010,Machico,26.4,
+2010,Madalena,22.6,
+2010,Mafra,19.5,56.7
+2010,Maia,19.2,209.9
+2010,Mangualde,21.6,79.3
+2010,Manteigas,18.0,11.8
+2010,Marco de Canaveses,15.9,22.2
+2010,Marinha Grande,20.8,120.0
+2010,Marvão,,18.2
+2010,Matosinhos,21.7,193.8
+2010,Mação,26.3,69.2
+2010,Mealhada,18.1,240.0
+2010,Melgaço,18.0,36.8
+2010,Mesão Frio,21.3,16.0
+2010,Mira,11.9,185.7
+2010,Miranda do Corvo,22.9,144.4
+2010,Miranda do Douro,22.0,77.8
+2010,Mirandela,20.2,128.0
+2010,Mogadouro,33.0,95.5
+2010,Moimenta da Beira,13.5,31.8
+2010,Moita,22.0,113.8
+2010,Monchique,,33.3
+2010,Mondim de Basto,16.3,36.1
+2010,Monforte,,22.2
+2010,Montalegre,20.2,15.0
+2010,Montemor-o-Novo,23.0,88.0
+2010,Montemor-o-Velho,15.2,211.8
+2010,Montijo,23.0,130.9
+2010,Monção,12.3,61.1
+2010,Mora,24.5,27.8
+2010,Mortágua,13.8,121.4
+2010,Moura,17.8,59.6
+2010,Mourão,,8.3
+2010,Murtosa,14.0,44.0
+2010,Murça,10.9,57.1
+2010,Mértola,16.1,20.7
+2010,Mêda,16.3,26.7
+2010,Nazaré,16.6,57.1
+2010,Nelas,15.7,40.9
+2010,Nisa,26.8,45.0
+2010,Nordeste,33.8,
+2010,Odemira,23.6,45.3
+2010,Odivelas,25.5,164.4
+2010,Oeiras,21.0,254.3
+2010,Oleiros,11.5,36.4
+2010,Olhão,23.3,60.9
+2010,Oliveira de Azeméis,15.3,46.0
+2010,Oliveira de Frades,16.3,26.0
+2010,Oliveira do Bairro,15.4,56.7
+2010,Oliveira do Hospital,21.5,39.4
+2010,Ourique,17.3,16.7
+2010,Ourém,16.3,64.9
+2010,Ovar,17.1,119.5
+2010,Palmela,15.8,54.0
+2010,Pampilhosa da Serra,5.6,9.1
+2010,Paredes,17.0,37.4
+2010,Paredes de Coura,10.9,29.2
+2010,Paços de Ferreira,17.4,27.3
+2010,Pedrógão Grande,21.6,44.4
+2010,Penacova,16.8,200.0
+2010,Penafiel,17.5,39.9
+2010,Penalva do Castelo,16.5,34.5
+2010,Penamacor,21.3,38.5
+2010,Penedono,,14.3
+2010,Penela,17.4,83.3
+2010,Peniche,21.6,127.1
+2010,Peso da Régua,20.2,95.7
+2010,Pinhel,25.1,125.0
+2010,Pombal,17.2,72.8
+2010,Ponta Delgada,25.4,
+2010,Ponta do Sol,22.3,
+2010,Ponte da Barca,12.2,83.3
+2010,Ponte de Lima,11.0,80.0
+2010,Ponte de Sor,15.9,81.0
+2010,Portalegre,19.4,132.7
+2010,Portel,13.0,46.2
+2010,Portimão,21.7,104.4
+2010,Porto,17.7,110.9
+2010,Porto Moniz,36.0,
+2010,Porto Santo,24.4,
+2010,Porto de Mós,15.4,50.0
+2010,Portugal,19.3,102.6
+2010,Povoação,40.0,
+2010,Proença-a-Nova,18.0,60.0
+2010,Póvoa de Lanhoso,19.6,70.0
+2010,Póvoa de Varzim,14.8,74.7
+2010,Redondo,14.2,18.8
+2010,Reguengos de Monsaraz,26.5,44.4
+2010,Resende,14.0,18.6
+2010,Ribeira Brava,30.5,
+2010,Ribeira Grande,26.0,
+2010,Ribeira de Pena,19.3,26.9
+2010,Rio Maior,12.2,44.3
+2010,Sabrosa,19.6,26.3
+2010,Sabugal,17.3,90.0
+2010,Salvaterra de Magos,19.7,33.3
+2010,Santa Comba Dão,19.5,65.0
+2010,Santa Cruz,27.2,
+2010,Santa Cruz da Graciosa,37.2,
+2010,Santa Cruz das Flores,26.1,
+2010,Santa Maria da Feira,17.4,75.9
+2010,Santa Marta de Penaguião,,140.0
+2010,Santana,21.1,
+2010,Santarém,14.6,107.9
+2010,Santiago do Cacém,22.6,144.2
+2010,Santo Tirso,16.9,56.0
+2010,Sardoal,16.7,36.8
+2010,Seia,18.9,96.4
+2010,Seixal,23.9,201.9
+2010,Sernancelhe,14.4,21.4
+2010,Serpa,19.8,30.0
+2010,Sertã,11.8,33.3
+2010,Sesimbra,26.9,115.8
+2010,Setúbal,18.9,197.2
+2010,Sever do Vouga,18.1,30.8
+2010,Silves,21.1,56.1
+2010,Sines,20.9,60.6
+2010,Sintra,24.7,174.8
+2010,Sobral de Monte Agraço,20.0,112.5
+2010,Soure,15.6,122.9
+2010,Sousel,,17.6
+2010,Sátão,15.5,47.2
+2010,São Brás de Alportel,14.6,43.2
+2010,São João da Madeira,13.2,63.1
+2010,São João da Pesqueira,16.9,35.3
+2010,São Pedro do Sul,9.5,52.5
+2010,São Roque do Pico,41.6,
+2010,São Vicente,24.4,
+2010,Tabuaço,13.5,3.1
+2010,Tarouca,27.9,41.2
+2010,Tavira,24.3,98.1
+2010,Terras de Bouro,18.3,7.1
+2010,Tomar,11.7,144.6
+2010,Tondela,19.5,111.9
+2010,Torre de Moncorvo,20.0,105.9
+2010,Torres Novas,18.8,94.4
+2010,Torres Vedras,18.8,91.5
+2010,Trancoso,11.4,50.0
+2010,Trofa,14.4,64.1
+2010,Tábua,20.3,33.3
+2010,Vagos,17.9,73.7
+2010,Vale de Cambra,17.0,72.1
+2010,Valença,16.6,100.0
+2010,Valongo,22.3,164.1
+2010,Valpaços,26.4,41.7
+2010,Velas,17.8,
+2010,Vendas Novas,13.7,81.6
+2010,Viana do Alentejo,18.2,46.2
+2010,Viana do Castelo,12.8,107.7
+2010,Vidigueira,23.8,140.0
+2010,Vieira do Minho,18.7,41.5
+2010,Vila Flor,20.8,47.1
+2010,Vila Franca de Xira,22.3,108.3
+2010,Vila Franca do Campo,29.1,
+2010,Vila Nova da Barquinha,21.4,107.1
+2010,Vila Nova de Cerveira,21.5,33.3
+2010,Vila Nova de Famalicão,17.9,46.3
+2010,Vila Nova de Foz Côa,19.6,84.6
+2010,Vila Nova de Gaia,17.0,151.0
+2010,Vila Nova de Paiva,18.4,31.3
+2010,Vila Nova de Poiares,21.5,130.0
+2010,Vila Pouca de Aguiar,20.4,72.0
+2010,Vila Real,17.8,130.6
+2010,Vila Real de Santo António,26.4,54.7
+2010,Vila Velha de Ródão,,33.3
+2010,Vila Verde,14.2,56.8
+2010,Vila Viçosa,20.6,53.3
+2010,Vila da Praia da Vitória,23.5,
+2010,Vila de Rei,,16.7
+2010,Vila do Bispo,,25.0
+2010,Vila do Conde,16.0,103.1
+2010,Vila do Porto,32.4,
+2010,Vimioso,,42.9
+2010,Vinhais,22.6,13.3
+2010,Viseu,17.2,147.7
+2010,Vizela,16.9,45.6
+2010,Vouzela,16.8,39.4
+2010,Águeda,19.9,117.1
+2010,Évora,18.1,141.2
+2010,Ílhavo,21.2,172.7
+2010,Óbidos,12.9,26.3
+2011,Abrantes,22.0,182.5
+2011,Aguiar da Beira,14.9,18.2
+2011,Alandroal,20.7,46.2
+2011,Albergaria-a-Velha,25.5,90.4
+2011,Albufeira,24.9,43.3
+2011,Alcanena,29.0,133.3
+2011,Alcobaça,18.4,78.7
+2011,Alcochete,29.7,76.3
+2011,Alcoutim,0.0,5.3
+2011,Alcácer do Sal,17.5,45.2
+2011,Alenquer,26.8,120.0
+2011,Alfândega da Fé,16.7,33.3
+2011,Alijó,23.8,58.6
+2011,Aljezur,,50.0
+2011,Aljustrel,25.4,45.5
+2011,Almada,25.2,231.7
+2011,Almeida,9.1,93.3
+2011,Almeirim,16.5,108.1
+2011,Almodôvar,25.2,33.3
+2011,Alpiarça,16.3,50.0
+2011,Alter do Chão,19.2,46.2
+2011,Alvaiázere,15.7,72.7
+2011,Alvito,11.0,
+2011,Amadora,34.3,190.8
+2011,Amarante,12.2,37.7
+2011,Amares,15.0,80.6
+2011,Anadia,17.3,183.3
+2011,Angra do Heroísmo,28.6,
+2011,Ansião,15.2,76.9
+2011,Arcos de Valdevez,15.6,78.1
+2011,Arganil,18.7,60.0
+2011,Armamar,,42.9
+2011,Arouca,8.5,40.0
+2011,Arraiolos,20.5,50.0
+2011,Arronches,,14.3
+2011,Arruda dos Vinhos,9.1,38.9
+2011,Aveiro,20.0,157.1
+2011,Avis,10.1,100.0
+2011,Azambuja,18.9,47.6
+2011,Baião,16.4,10.1
+2011,Barcelos,14.8,63.2
+2011,Barrancos,,12.5
+2011,Barreiro,24.9,247.9
+2011,Batalha,20.4,50.0
+2011,Beja,26.9,138.6
+2011,Belmonte,24.3,216.7
+2011,Benavente,26.9,53.6
+2011,Bombarral,25.6,127.8
+2011,Borba,,112.5
+2011,Boticas,31.2,50.0
+2011,Braga,19.1,196.5
+2011,Bragança,21.5,257.6
+2011,Cabeceiras de Basto,23.6,15.6
+2011,Cadaval,25.2,60.7
+2011,Caldas da Rainha,21.9,112.3
+2011,Calheta [R.A.A.],35.7,
+2011,Calheta [R.A.M.],15.4,
+2011,Caminha,20.5,84.8
+2011,Campo Maior,30.6,22.6
+2011,Cantanhede,16.1,151.9
+2011,Carrazeda de Ansiães,7.6,50.0
+2011,Carregal do Sal,22.8,118.2
+2011,Cartaxo,27.6,154.5
+2011,Cascais,19.8,172.7
+2011,Castanheira de Pêra,,20.0
+2011,Castelo Branco,17.5,189.3
+2011,Castelo de Paiva,19.8,12.5
+2011,Castelo de Vide,,66.7
+2011,Castro Daire,16.0,42.5
+2011,Castro Marim,,60.0
+2011,Castro Verde,18.1,38.5
+2011,Celorico da Beira,18.0,30.8
+2011,Celorico de Basto,13.9,17.2
+2011,Chamusca,38.5,166.7
+2011,Chaves,19.3,135.0
+2011,Cinfães,15.2,16.1
+2011,Coimbra,19.6,228.9
+2011,Condeixa-a-Nova,17.4,350.0
+2011,Constância,25.0,54.5
+2011,Coruche,18.2,141.7
+2011,Corvo,,
+2011,Covilhã,20.8,143.8
+2011,Crato,9.4,42.9
+2011,Cuba,14.4,83.3
+2011,Câmara de Lobos,34.1,
+2011,Elvas,23.7,80.6
+2011,Entroncamento,15.5,206.7
+2011,Espinho,16.9,135.2
+2011,Esposende,16.7,96.4
+2011,Estarreja,23.0,116.0
+2011,Estremoz,18.2,91.4
+2011,Fafe,16.5,67.8
+2011,Faro,20.5,160.7
+2011,Felgueiras,16.1,27.6
+2011,Ferreira do Alentejo,23.6,42.1
+2011,Ferreira do Zêzere,19.8,25.9
+2011,Figueira da Foz,18.2,395.8
+2011,Figueira de Castelo Rodrigo,15.3,66.7
+2011,Figueiró dos Vinhos,21.9,86.7
+2011,Fornos de Algodres,18.5,21.4
+2011,Freixo de Espada à Cinta,41.7,41.7
+2011,Fronteira,12.9,
+2011,Funchal,23.8,
+2011,Fundão,16.4,117.4
+2011,Gavião,36.0,33.3
+2011,Golegã,31.0,128.6
+2011,Gondomar,17.9,112.0
+2011,Gouveia,14.8,126.9
+2011,Grândola,15.6,69.0
+2011,Guarda,18.9,183.8
+2011,Guimarães,16.0,60.8
+2011,Góis,,57.1
+2011,Horta,23.1,
+2011,Idanha-a-Nova,23.5,50.0
+2011,Lagoa,22.2,54.9
+2011,Lagoa [R.A.A.],47.1,
+2011,Lagos,27.2,116.9
+2011,Lajes das Flores,,
+2011,Lajes do Pico,17.2,
+2011,Lamego,17.9,100.0
+2011,Leiria,18.8,116.7
+2011,Lisboa,22.1,191.7
+2011,Loulé,25.5,65.6
+2011,Loures,29.1,151.8
+2011,Lourinhã,23.0,80.0
+2011,Lousada,23.1,19.9
+2011,Lousã,18.9,400.0
+2011,Macedo de Cavaleiros,29.4,138.1
+2011,Machico,33.6,
+2011,Madalena,16.4,
+2011,Mafra,21.7,54.1
+2011,Maia,20.5,222.9
+2011,Mangualde,23.3,211.5
+2011,Manteigas,16.9,20.0
+2011,Marco de Canaveses,17.4,22.6
+2011,Marinha Grande,20.8,132.3
+2011,Marvão,,18.2
+2011,Matosinhos,23.0,266.3
+2011,Mação,21.8,75.0
+2011,Mealhada,18.9,292.9
+2011,Melgaço,16.0,61.5
+2011,Mesão Frio,24.0,35.7
+2011,Mira,18.2,147.4
+2011,Miranda do Corvo,23.0,184.6
+2011,Miranda do Douro,16.4,166.7
+2011,Mirandela,16.1,125.5
+2011,Mogadouro,30.5,105.3
+2011,Moimenta da Beira,10.1,43.6
+2011,Moita,22.4,177.3
+2011,Monchique,,40.0
+2011,Mondim de Basto,18.5,63.6
+2011,Monforte,,14.3
+2011,Montalegre,25.8,24.1
+2011,Montemor-o-Novo,27.7,115.0
+2011,Montemor-o-Velho,21.1,231.3
+2011,Montijo,24.6,142.9
+2011,Monção,8.5,95.5
+2011,Mora,29.9,63.6
+2011,Mortágua,14.0,160.0
+2011,Moura,14.9,78.6
+2011,Mourão,,10.0
+2011,Murtosa,9.9,50.0
+2011,Murça,22.6,53.3
+2011,Mértola,15.9,31.0
+2011,Mêda,20.4,33.3
+2011,Nazaré,23.5,48.4
+2011,Nelas,15.0,71.9
+2011,Nisa,22.8,42.9
+2011,Nordeste,17.4,
+2011,Odemira,22.5,45.2
+2011,Odivelas,27.0,198.4
+2011,Oeiras,23.2,258.6
+2011,Oleiros,23.1,60.0
+2011,Olhão,26.9,91.8
+2011,Oliveira de Azeméis,15.2,62.4
+2011,Oliveira de Frades,17.5,56.3
+2011,Oliveira do Bairro,19.7,102.3
+2011,Oliveira do Hospital,16.8,40.3
+2011,Ourique,31.5,23.1
+2011,Ourém,16.9,50.9
+2011,Ovar,19.6,107.8
+2011,Palmela,20.6,89.4
+2011,Pampilhosa da Serra,13.5,33.3
+2011,Paredes,20.8,45.1
+2011,Paredes de Coura,10.6,33.3
+2011,Paços de Ferreira,20.0,38.8
+2011,Pedrógão Grande,18.1,100.0
+2011,Penacova,19.9,263.6
+2011,Penafiel,20.9,50.6
+2011,Penalva do Castelo,16.7,90.5
+2011,Penamacor,25.6,61.5
+2011,Penedono,,22.2
+2011,Penela,13.3,150.0
+2011,Peniche,23.1,121.2
+2011,Peso da Régua,20.6,135.5
+2011,Pinhel,30.5,187.5
+2011,Pombal,20.9,77.3
+2011,Ponta Delgada,22.9,
+2011,Ponta do Sol,27.2,
+2011,Ponte da Barca,16.7,126.7
+2011,Ponte de Lima,9.7,100.0
+2011,Ponte de Sor,16.4,87.2
+2011,Portalegre,18.5,141.1
+2011,Portel,7.7,112.5
+2011,Portimão,24.3,102.1
+2011,Porto,18.0,116.5
+2011,Porto Moniz,35.6,
+2011,Porto Santo,30.4,
+2011,Porto de Mós,22.5,45.6
+2011,Portugal,20.8,117.8
+2011,Povoação,37.5,
+2011,Proença-a-Nova,21.8,71.4
+2011,Póvoa de Lanhoso,15.9,97.3
+2011,Póvoa de Varzim,22.5,80.1
+2011,Redondo,11.8,42.9
+2011,Reguengos de Monsaraz,25.7,45.7
+2011,Resende,16.5,25.5
+2011,Ribeira Brava,23.4,
+2011,Ribeira Grande,23.7,
+2011,Ribeira de Pena,19.3,31.8
+2011,Rio Maior,16.4,63.8
+2011,Sabrosa,21.3,41.2
+2011,Sabugal,20.0,116.7
+2011,Salvaterra de Magos,20.2,60.5
+2011,Santa Comba Dão,23.2,90.0
+2011,Santa Cruz,24.9,
+2011,Santa Cruz da Graciosa,33.1,
+2011,Santa Cruz das Flores,45.4,
+2011,Santa Maria da Feira,19.3,95.7
+2011,Santa Marta de Penaguião,,225.0
+2011,Santana,19.0,
+2011,Santarém,16.5,141.4
+2011,Santiago do Cacém,21.0,180.0
+2011,Santo Tirso,13.7,65.1
+2011,Sardoal,13.6,72.7
+2011,Seia,12.4,188.2
+2011,Seixal,27.6,207.5
+2011,Sernancelhe,18.2,33.3
+2011,Serpa,19.2,38.5
+2011,Sertã,18.8,46.7
+2011,Sesimbra,30.8,126.2
+2011,Setúbal,21.4,195.3
+2011,Sever do Vouga,13.1,47.8
+2011,Silves,25.2,67.0
+2011,Sines,28.5,72.4
+2011,Sintra,28.2,182.8
+2011,Sobral de Monte Agraço,29.3,111.1
+2011,Soure,15.3,181.8
+2011,Sousel,,45.5
+2011,Sátão,20.5,115.0
+2011,São Brás de Alportel,17.7,93.8
+2011,São João da Madeira,16.5,80.2
+2011,São João da Pesqueira,24.1,41.2
+2011,São Pedro do Sul,12.0,64.7
+2011,São Roque do Pico,27.3,
+2011,São Vicente,25.4,
+2011,Tabuaço,20.8,4.5
+2011,Tarouca,26.1,50.0
+2011,Tavira,32.9,129.3
+2011,Terras de Bouro,22.7,8.0
+2011,Tomar,17.9,150.6
+2011,Tondela,18.1,193.9
+2011,Torre de Moncorvo,40.2,117.6
+2011,Torres Novas,19.5,150.0
+2011,Torres Vedras,20.6,86.8
+2011,Trancoso,14.7,59.1
+2011,Trofa,20.1,82.9
+2011,Tábua,23.7,56.3
+2011,Vagos,19.7,107.4
+2011,Vale de Cambra,13.2,97.4
+2011,Valença,15.3,100.0
+2011,Valongo,21.2,181.1
+2011,Valpaços,22.0,53.1
+2011,Velas,27.2,
+2011,Vendas Novas,17.9,117.9
+2011,Viana do Alentejo,23.9,84.6
+2011,Viana do Castelo,16.4,136.9
+2011,Vidigueira,8.5,140.0
+2011,Vieira do Minho,16.1,34.3
+2011,Vila Flor,28.7,71.4
+2011,Vila Franca de Xira,24.7,124.0
+2011,Vila Franca do Campo,32.4,
+2011,Vila Nova da Barquinha,23.1,111.8
+2011,Vila Nova de Cerveira,25.4,40.0
+2011,Vila Nova de Famalicão,14.6,49.1
+2011,Vila Nova de Foz Côa,22.1,127.3
+2011,Vila Nova de Gaia,17.6,150.1
+2011,Vila Nova de Paiva,22.7,58.8
+2011,Vila Nova de Poiares,25.0,187.5
+2011,Vila Pouca de Aguiar,22.9,60.6
+2011,Vila Real,19.5,151.2
+2011,Vila Real de Santo António,27.9,97.9
+2011,Vila Velha de Ródão,,66.7
+2011,Vila Verde,17.0,92.7
+2011,Vila Viçosa,17.6,105.9
+2011,Vila da Praia da Vitória,23.2,
+2011,Vila de Rei,40.0,18.2
+2011,Vila do Bispo,,50.0
+2011,Vila do Conde,17.3,105.8
+2011,Vila do Porto,23.8,
+2011,Vimioso,,40.0
+2011,Vinhais,26.3,28.6
+2011,Viseu,20.0,181.7
+2011,Vizela,19.7,55.6
+2011,Vouzela,18.2,53.3
+2011,Águeda,21.3,145.9
+2011,Évora,21.1,166.7
+2011,Ílhavo,21.0,266.7
+2011,Óbidos,18.4,20.9
+2012,Abrantes,21.8,259.4
+2012,Aguiar da Beira,14.6,26.7
+2012,Alandroal,0.0,75.0
+2012,Albergaria-a-Velha,22.4,227.3
+2012,Albufeira,20.1,65.1
+2012,Alcanena,18.0,370.0
+2012,Alcobaça,16.7,124.3
+2012,Alcochete,23.0,186.4
+2012,Alcoutim,,11.1
+2012,Alcácer do Sal,17.8,100.0
+2012,Alenquer,24.9,186.1
+2012,Alfândega da Fé,20.0,60.0
+2012,Alijó,14.6,100.0
+2012,Aljezur,,33.3
+2012,Aljustrel,15.7,75.0
+2012,Almada,24.9,348.6
+2012,Almeida,23.3,100.0
+2012,Almeirim,14.2,275.0
+2012,Almodôvar,19.0,50.0
+2012,Alpiarça,15.9,61.5
+2012,Alter do Chão,25.6,114.3
+2012,Alvaiázere,22.5,80.0
+2012,Alvito,13.6,
+2012,Amadora,33.5,239.5
+2012,Amarante,13.3,63.0
+2012,Amares,16.1,168.8
+2012,Anadia,17.9,384.2
+2012,Angra do Heroísmo,30.7,
+2012,Ansião,12.4,158.8
+2012,Arcos de Valdevez,11.0,126.9
+2012,Arganil,15.9,94.4
+2012,Armamar,,75.0
+2012,Arouca,13.5,111.5
+2012,Arraiolos,19.4,100.0
+2012,Arronches,,33.3
+2012,Arruda dos Vinhos,17.6,121.1
+2012,Aveiro,17.7,315.4
+2012,Avis,13.4,300.0
+2012,Azambuja,20.9,58.3
+2012,Baião,19.0,23.9
+2012,Barcelos,12.1,109.1
+2012,Barrancos,,50.0
+2012,Barreiro,24.0,392.2
+2012,Batalha,23.6,133.3
+2012,Beja,19.3,170.0
+2012,Belmonte,22.0,233.3
+2012,Benavente,22.7,86.1
+2012,Bombarral,31.0,272.7
+2012,Borba,,133.3
+2012,Boticas,0.0,80.0
+2012,Braga,18.6,240.1
+2012,Bragança,23.4,469.7
+2012,Cabeceiras de Basto,22.7,41.0
+2012,Cadaval,20.3,85.7
+2012,Caldas da Rainha,19.6,140.6
+2012,Calheta [R.A.A.],16.8,
+2012,Calheta [R.A.M.],27.6,
+2012,Caminha,33.1,307.7
+2012,Campo Maior,30.5,55.6
+2012,Cantanhede,19.7,465.0
+2012,Carrazeda de Ansiães,11.4,50.0
+2012,Carregal do Sal,22.7,281.8
+2012,Cartaxo,27.2,154.1
+2012,Cascais,18.6,245.8
+2012,Castanheira de Pêra,,100.0
+2012,Castelo Branco,18.3,342.6
+2012,Castelo de Paiva,17.3,24.5
+2012,Castelo de Vide,,62.5
+2012,Castro Daire,15.6,78.6
+2012,Castro Marim,,100.0
+2012,Castro Verde,19.1,59.1
+2012,Celorico da Beira,13.5,75.0
+2012,Celorico de Basto,12.6,21.1
+2012,Chamusca,22.1,433.3
+2012,Chaves,13.6,282.9
+2012,Cinfães,10.1,20.0
+2012,Coimbra,18.7,386.3
+2012,Condeixa-a-Nova,12.4,1033.3
+2012,Constância,16.7,116.7
+2012,Coruche,20.5,182.4
+2012,Corvo,,
+2012,Covilhã,18.4,230.9
+2012,Crato,7.3,100.0
+2012,Cuba,24.4,128.6
+2012,Câmara de Lobos,29.6,
+2012,Elvas,26.4,126.8
+2012,Entroncamento,12.8,295.2
+2012,Espinho,15.5,167.1
+2012,Esposende,13.1,193.9
+2012,Estarreja,14.5,219.2
+2012,Estremoz,16.4,120.7
+2012,Fafe,19.0,105.8
+2012,Faro,22.5,196.8
+2012,Felgueiras,18.9,36.8
+2012,Ferreira do Alentejo,20.3,90.0
+2012,Ferreira do Zêzere,19.3,69.2
+2012,Figueira da Foz,16.6,606.3
+2012,Figueira de Castelo Rodrigo,14.2,100.0
+2012,Figueiró dos Vinhos,12.8,162.5
+2012,Fornos de Algodres,13.1,70.0
+2012,Freixo de Espada à Cinta,0.0,57.1
+2012,Fronteira,21.4,9.1
+2012,Funchal,23.6,
+2012,Fundão,12.2,200.0
+2012,Gavião,0.0,100.0
+2012,Golegã,6.2,500.0
+2012,Gondomar,19.1,193.1
+2012,Gouveia,20.9,205.6
+2012,Grândola,18.5,158.3
+2012,Guarda,16.1,251.9
+2012,Guimarães,16.8,110.0
+2012,Góis,,133.3
+2012,Horta,32.3,
+2012,Idanha-a-Nova,23.5,85.7
+2012,Lagoa,24.4,60.4
+2012,Lagoa [R.A.A.],42.3,
+2012,Lagos,29.3,176.4
+2012,Lajes das Flores,,
+2012,Lajes do Pico,24.8,
+2012,Lamego,14.0,147.9
+2012,Leiria,20.0,238.3
+2012,Lisboa,21.2,250.8
+2012,Loulé,25.7,125.9
+2012,Loures,26.2,184.9
+2012,Lourinhã,20.9,102.8
+2012,Lousada,17.5,27.2
+2012,Lousã,23.7,500.0
+2012,Macedo de Cavaleiros,21.5,157.9
+2012,Machico,25.2,
+2012,Madalena,22.0,
+2012,Mafra,23.7,74.2
+2012,Maia,18.8,294.2
+2012,Mangualde,25.3,400.0
+2012,Manteigas,13.8,36.4
+2012,Marco de Canaveses,15.3,42.1
+2012,Marinha Grande,18.6,168.5
+2012,Marvão,,33.3
+2012,Matosinhos,19.5,309.5
+2012,Mação,16.0,108.3
+2012,Mealhada,17.3,716.7
+2012,Melgaço,23.0,100.0
+2012,Mesão Frio,13.5,41.7
+2012,Mira,15.1,300.0
+2012,Miranda do Corvo,18.5,210.0
+2012,Miranda do Douro,31.4,180.0
+2012,Mirandela,20.3,216.7
+2012,Mogadouro,36.0,129.4
+2012,Moimenta da Beira,15.6,65.5
+2012,Moita,20.8,168.6
+2012,Monchique,,37.5
+2012,Mondim de Basto,21.3,88.9
+2012,Monforte,,16.7
+2012,Montalegre,22.8,42.9
+2012,Montemor-o-Novo,17.0,192.3
+2012,Montemor-o-Velho,20.0,733.3
+2012,Montijo,21.6,273.2
+2012,Monção,7.8,241.7
+2012,Mora,27.8,150.0
+2012,Mortágua,11.1,228.6
+2012,Moura,13.7,100.0
+2012,Mourão,,33.3
+2012,Murtosa,16.0,107.1
+2012,Murça,23.1,100.0
+2012,Mértola,12.8,57.9
+2012,Mêda,23.3,
+2012,Nazaré,17.8,100.0
+2012,Nelas,14.5,155.0
+2012,Nisa,21.3,166.7
+2012,Nordeste,16.7,
+2012,Odemira,23.4,105.6
+2012,Odivelas,28.0,253.1
+2012,Oeiras,23.8,334.4
+2012,Oleiros,21.7,75.0
+2012,Olhão,27.3,123.6
+2012,Oliveira de Azeméis,18.5,120.0
+2012,Oliveira de Frades,19.1,85.7
+2012,Oliveira do Bairro,14.8,151.4
+2012,Oliveira do Hospital,18.5,70.7
+2012,Ourique,25.9,40.0
+2012,Ourém,17.9,161.5
+2012,Ovar,17.7,175.7
+2012,Palmela,19.5,103.4
+2012,Pampilhosa da Serra,8.6,37.5
+2012,Paredes,18.5,68.9
+2012,Paredes de Coura,10.0,46.2
+2012,Paços de Ferreira,19.0,71.3
+2012,Pedrógão Grande,19.1,100.0
+2012,Penacova,13.6,775.0
+2012,Penafiel,17.1,93.6
+2012,Penalva do Castelo,11.2,164.3
+2012,Penamacor,31.3,100.0
+2012,Penedono,,
+2012,Penela,13.7,166.7
+2012,Peniche,22.9,206.3
+2012,Peso da Régua,20.7,268.8
+2012,Pinhel,22.1,233.3
+2012,Pombal,24.6,174.5
+2012,Ponta Delgada,26.8,
+2012,Ponta do Sol,25.7,
+2012,Ponte da Barca,12.5,180.0
+2012,Ponte de Lima,10.1,152.1
+2012,Ponte de Sor,15.2,118.2
+2012,Portalegre,23.6,184.8
+2012,Portel,33.3,150.0
+2012,Portimão,27.5,170.8
+2012,Porto,18.0,128.0
+2012,Porto Moniz,33.3,
+2012,Porto Santo,35.1,
+2012,Porto de Mós,12.8,75.0
+2012,Portugal,20.1,179.8
+2012,Povoação,35.0,
+2012,Proença-a-Nova,15.3,84.2
+2012,Póvoa de Lanhoso,18.7,157.7
+2012,Póvoa de Varzim,18.3,122.2
+2012,Redondo,13.7,58.8
+2012,Reguengos de Monsaraz,25.1,105.6
+2012,Resende,19.9,32.5
+2012,Ribeira Brava,26.5,
+2012,Ribeira Grande,37.4,
+2012,Ribeira de Pena,12.1,47.4
+2012,Rio Maior,17.0,115.2
+2012,Sabrosa,15.2,61.5
+2012,Sabugal,18.6,200.0
+2012,Salvaterra de Magos,21.6,116.0
+2012,Santa Comba Dão,20.8,450.0
+2012,Santa Cruz,21.5,
+2012,Santa Cruz da Graciosa,34.5,
+2012,Santa Cruz das Flores,34.6,
+2012,Santa Maria da Feira,15.4,166.7
+2012,Santa Marta de Penaguião,,900.0
+2012,Santana,14.6,
+2012,Santarém,17.3,265.3
+2012,Santiago do Cacém,14.9,211.4
+2012,Santo Tirso,12.0,94.5
+2012,Sardoal,25.2,116.7
+2012,Seia,13.5,330.0
+2012,Seixal,23.2,283.1
+2012,Sernancelhe,0.0,60.0
+2012,Serpa,13.3,76.7
+2012,Sertã,15.3,117.4
+2012,Sesimbra,25.8,182.4
+2012,Setúbal,23.8,268.9
+2012,Sever do Vouga,12.8,93.3
+2012,Silves,24.5,98.4
+2012,Sines,21.6,96.3
+2012,Sintra,26.4,281.7
+2012,Sobral de Monte Agraço,13.7,600.0
+2012,Soure,11.6,372.7
+2012,Sousel,,87.5
+2012,Sátão,25.8,133.3
+2012,São Brás de Alportel,15.8,163.6
+2012,São João da Madeira,13.8,108.6
+2012,São João da Pesqueira,29.9,60.0
+2012,São Pedro do Sul,11.1,128.1
+2012,São Roque do Pico,24.4,
+2012,São Vicente,23.7,
+2012,Tabuaço,19.7,14.3
+2012,Tarouca,21.3,77.8
+2012,Tavira,23.7,208.0
+2012,Terras de Bouro,23.0,54.5
+2012,Tomar,20.1,270.2
+2012,Tondela,18.3,300.0
+2012,Torre de Moncorvo,28.1,161.5
+2012,Torres Novas,15.2,246.9
+2012,Torres Vedras,27.1,166.3
+2012,Trancoso,20.5,82.4
+2012,Trofa,11.5,121.4
+2012,Tábua,21.8,127.3
+2012,Vagos,16.4,144.0
+2012,Vale de Cambra,13.6,159.1
+2012,Valença,16.9,110.5
+2012,Valongo,23.1,389.5
+2012,Valpaços,15.3,95.0
+2012,Velas,22.6,
+2012,Vendas Novas,20.0,175.0
+2012,Viana do Alentejo,15.3,157.1
+2012,Viana do Castelo,12.6,239.0
+2012,Vidigueira,12.9,233.3
+2012,Vieira do Minho,17.3,61.9
+2012,Vila Flor,20.4,90.0
+2012,Vila Franca de Xira,24.5,185.8
+2012,Vila Franca do Campo,33.1,
+2012,Vila Nova da Barquinha,27.6,177.8
+2012,Vila Nova de Cerveira,19.2,84.6
+2012,Vila Nova de Famalicão,14.5,104.0
+2012,Vila Nova de Foz Côa,19.4,266.7
+2012,Vila Nova de Gaia,17.0,250.2
+2012,Vila Nova de Paiva,22.3,72.7
+2012,Vila Nova de Poiares,29.3,141.7
+2012,Vila Pouca de Aguiar,22.3,192.9
+2012,Vila Real,18.4,323.9
+2012,Vila Real de Santo António,23.8,122.9
+2012,Vila Velha de Ródão,,200.0
+2012,Vila Verde,19.3,196.8
+2012,Vila Viçosa,25.7,100.0
+2012,Vila da Praia da Vitória,23.4,
+2012,Vila de Rei,30.0,45.5
+2012,Vila do Bispo,,60.0
+2012,Vila do Conde,14.8,178.9
+2012,Vila do Porto,25.7,
+2012,Vimioso,,66.7
+2012,Vinhais,33.3,45.5
+2012,Viseu,20.4,287.6
+2012,Vizela,17.4,71.7
+2012,Vouzela,16.4,72.2
+2012,Águeda,19.3,236.8
+2012,Évora,18.6,280.6
+2012,Ílhavo,19.9,375.0
+2012,Óbidos,19.2,73.3
+2013,Abrantes,23.5,438.1
+2013,Aguiar da Beira,16.8,71.4
+2013,Alandroal,0.0,100.0
+2013,Albergaria-a-Velha,19.3,622.2
+2013,Albufeira,22.2,129.4
+2013,Alcanena,18.5,1850.0
+2013,Alcobaça,16.5,237.8
+2013,Alcochete,28.1,250.0
+2013,Alcoutim,,100.0
+2013,Alcácer do Sal,25.6,88.9
+2013,Alenquer,27.8,334.8
+2013,Alfândega da Fé,27.1,175.0
+2013,Alijó,15.5,138.5
+2013,Aljezur,,40.0
+2013,Aljustrel,10.4,118.2
+2013,Almada,24.2,675.5
+2013,Almeida,26.2,175.0
+2013,Almeirim,22.5,850.0
+2013,Almodôvar,12.8,100.0
+2013,Alpiarça,15.4,150.0
+2013,Alter do Chão,26.2,250.0
+2013,Alvaiázere,16.7,133.3
+2013,Alvito,9.9,
+2013,Amadora,29.4,379.5
+2013,Amarante,11.9,117.6
+2013,Amares,10.4,600.0
+2013,Anadia,14.5,646.2
+2013,Angra do Heroísmo,21.7,
+2013,Ansião,11.2,254.5
+2013,Arcos de Valdevez,19.1,350.0
+2013,Arganil,15.0,275.0
+2013,Armamar,14.3,150.0
+2013,Arouca,13.9,140.0
+2013,Arraiolos,9.2,214.3
+2013,Arronches,,50.0
+2013,Arruda dos Vinhos,18.5,184.6
+2013,Aveiro,18.8,651.1
+2013,Avis,22.4,133.3
+2013,Azambuja,20.1,100.0
+2013,Baião,17.7,58.8
+2013,Barcelos,11.7,196.9
+2013,Barrancos,,33.3
+2013,Barreiro,23.5,567.4
+2013,Batalha,12.8,216.7
+2013,Beja,21.7,336.7
+2013,Belmonte,28.6,425.0
+2013,Benavente,20.4,171.4
+2013,Bombarral,21.7,850.0
+2013,Borba,,175.0
+2013,Boticas,0.0,250.0
+2013,Braga,18.7,404.8
+2013,Bragança,18.7,662.5
+2013,Cabeceiras de Basto,21.3,72.7
+2013,Cadaval,21.5,163.6
+2013,Caldas da Rainha,21.2,150.4
+2013,Calheta [R.A.A.],26.8,
+2013,Calheta [R.A.M.],18.7,
+2013,Caminha,19.4,1850.0
+2013,Campo Maior,22.4,61.1
+2013,Cantanhede,17.6,547.1
+2013,Carrazeda de Ansiães,10.2,266.7
+2013,Carregal do Sal,14.0,288.9
+2013,Cartaxo,22.8,276.2
+2013,Cascais,19.2,332.4
+2013,Castanheira de Pêra,,66.7
+2013,Castelo Branco,17.7,541.9
+2013,Castelo de Paiva,17.8,46.4
+2013,Castelo de Vide,,166.7
+2013,Castro Daire,18.5,131.6
+2013,Castro Marim,,100.0
+2013,Castro Verde,6.1,177.8
+2013,Celorico da Beira,28.2,175.0
+2013,Celorico de Basto,15.1,47.8
+2013,Chamusca,28.7,340.0
+2013,Chaves,17.5,552.4
+2013,Cinfães,18.5,38.5
+2013,Coimbra,17.5,574.5
+2013,Condeixa-a-Nova,15.5,900.0
+2013,Constância,0.0,400.0
+2013,Coruche,13.8,320.0
+2013,Corvo,,
+2013,Covilhã,15.6,358.3
+2013,Crato,13.1,125.0
+2013,Cuba,8.8,300.0
+2013,Câmara de Lobos,25.7,
+2013,Elvas,21.9,203.7
+2013,Entroncamento,15.2,618.2
+2013,Espinho,16.2,287.2
+2013,Esposende,11.0,645.5
+2013,Estarreja,18.7,350.0
+2013,Estremoz,16.7,341.7
+2013,Fafe,15.1,166.7
+2013,Faro,20.2,343.6
+2013,Felgueiras,16.2,73.1
+2013,Ferreira do Alentejo,9.6,80.0
+2013,Ferreira do Zêzere,24.2,160.0
+2013,Figueira da Foz,14.1,970.0
+2013,Figueira de Castelo Rodrigo,23.8,200.0
+2013,Figueiró dos Vinhos,12.9,400.0
+2013,Fornos de Algodres,13.7,100.0
+2013,Freixo de Espada à Cinta,33.3,44.4
+2013,Fronteira,9.1,40.0
+2013,Funchal,19.6,
+2013,Fundão,12.2,357.1
+2013,Gavião,0.0,100.0
+2013,Golegã,5.5,1800.0
+2013,Gondomar,17.1,381.3
+2013,Gouveia,19.8,512.5
+2013,Grândola,11.8,366.7
+2013,Guarda,16.0,418.2
+2013,Guimarães,15.3,205.2
+2013,Góis,,400.0
+2013,Horta,28.8,
+2013,Idanha-a-Nova,22.9,216.7
+2013,Lagoa,18.8,100.0
+2013,Lagoa [R.A.A.],43.3,
+2013,Lagos,26.0,278.9
+2013,Lajes das Flores,,
+2013,Lajes do Pico,20.3,
+2013,Lamego,18.2,304.0
+2013,Leiria,15.4,338.8
+2013,Lisboa,20.5,387.8
+2013,Loulé,23.0,169.7
+2013,Loures,23.3,325.0
+2013,Lourinhã,17.3,287.5
+2013,Lousada,17.5,48.2
+2013,Lousã,23.3,2650.0
+2013,Macedo de Cavaleiros,25.6,206.7
+2013,Machico,25.6,
+2013,Madalena,19.7,
+2013,Mafra,18.1,118.9
+2013,Maia,19.1,379.3
+2013,Mangualde,28.3,1000.0
+2013,Manteigas,7.0,66.7
+2013,Marco de Canaveses,12.8,81.0
+2013,Marinha Grande,13.4,344.4
+2013,Marvão,,200.0
+2013,Matosinhos,20.0,642.7
+2013,Mação,21.9,66.7
+2013,Mealhada,12.9,1533.3
+2013,Melgaço,15.9,700.0
+2013,Mesão Frio,11.2,225.0
+2013,Mira,22.7,3400.0
+2013,Miranda do Corvo,18.4,362.5
+2013,Miranda do Douro,25.8,271.4
+2013,Mirandela,21.5,431.3
+2013,Mogadouro,29.2,157.1
+2013,Moimenta da Beira,18.9,147.1
+2013,Moita,17.9,515.4
+2013,Monchique,,75.0
+2013,Mondim de Basto,16.5,125.0
+2013,Monforte,,40.0
+2013,Montalegre,17.2,61.5
+2013,Montemor-o-Novo,20.3,480.0
+2013,Montemor-o-Velho,26.3,1080.0
+2013,Montijo,21.9,776.9
+2013,Monção,9.9,800.0
+2013,Mora,20.6,233.3
+2013,Mortágua,22.0,271.4
+2013,Moura,16.2,217.6
+2013,Mourão,,25.0
+2013,Murtosa,19.1,214.3
+2013,Murça,10.5,166.7
+2013,Mértola,15.7,125.0
+2013,Mêda,23.0,
+2013,Nazaré,14.2,262.5
+2013,Nelas,15.2,291.7
+2013,Nisa,10.6,300.0
+2013,Nordeste,28.9,
+2013,Odemira,24.5,133.3
+2013,Odivelas,27.6,457.3
+2013,Oeiras,22.4,693.6
+2013,Oleiros,9.9,166.7
+2013,Olhão,25.6,279.4
+2013,Oliveira de Azeméis,14.7,337.0
+2013,Oliveira de Frades,16.4,420.0
+2013,Oliveira do Bairro,12.5,266.7
+2013,Oliveira do Hospital,15.5,194.4
+2013,Ourique,39.0,100.0
+2013,Ourém,20.3,284.4
+2013,Ovar,19.3,559.1
+2013,Palmela,17.9,194.7
+2013,Pampilhosa da Serra,15.8,28.6
+2013,Paredes,19.9,120.8
+2013,Paredes de Coura,6.2,80.0
+2013,Paços de Ferreira,17.2,96.7
+2013,Pedrógão Grande,30.6,800.0
+2013,Penacova,18.6,1166.7
+2013,Penafiel,15.0,181.3
+2013,Penalva do Castelo,10.7,350.0
+2013,Penamacor,23.3,180.0
+2013,Penedono,,
+2013,Penela,14.9,1100.0
+2013,Peniche,16.6,253.8
+2013,Peso da Régua,22.9,328.6
+2013,Pinhel,17.6,475.0
+2013,Pombal,22.8,272.7
+2013,Ponta Delgada,26.8,
+2013,Ponta do Sol,21.3,
+2013,Ponte da Barca,21.6,550.0
+2013,Ponte de Lima,9.7,326.1
+2013,Ponte de Sor,16.8,200.0
+2013,Portalegre,18.1,296.6
+2013,Portel,25.0,133.3
+2013,Portimão,25.1,253.6
+2013,Porto,15.9,246.0
+2013,Porto Moniz,21.3,
+2013,Porto Santo,17.6,
+2013,Porto de Mós,13.6,129.2
+2013,Portugal,19.0,322.4
+2013,Povoação,17.6,
+2013,Proença-a-Nova,11.8,115.4
+2013,Póvoa de Lanhoso,21.3,562.5
+2013,Póvoa de Varzim,19.1,250.8
+2013,Redondo,11.7,133.3
+2013,Reguengos de Monsaraz,22.0,230.0
+2013,Resende,16.4,71.4
+2013,Ribeira Brava,13.4,
+2013,Ribeira Grande,25.9,
+2013,Ribeira de Pena,10.4,64.3
+2013,Rio Maior,16.8,209.5
+2013,Sabrosa,19.0,350.0
+2013,Sabugal,16.3,500.0
+2013,Salvaterra de Magos,15.5,200.0
+2013,Santa Comba Dão,18.7,900.0
+2013,Santa Cruz,23.5,
+2013,Santa Cruz da Graciosa,23.9,
+2013,Santa Cruz das Flores,26.5,
+2013,Santa Maria da Feira,13.9,318.8
+2013,Santa Marta de Penaguião,,275.0
+2013,Santana,14.9,
+2013,Santarém,18.6,416.1
+2013,Santiago do Cacém,19.1,334.8
+2013,Santo Tirso,11.5,171.3
+2013,Sardoal,17.9,1000.0
+2013,Seia,17.0,583.3
+2013,Seixal,23.9,674.1
+2013,Sernancelhe,9.6,75.0
+2013,Serpa,13.9,206.7
+2013,Sertã,14.5,166.7
+2013,Sesimbra,25.7,357.1
+2013,Setúbal,22.7,704.5
+2013,Sever do Vouga,13.4,350.0
+2013,Silves,20.0,295.7
+2013,Sines,24.4,414.3
+2013,Sintra,25.5,489.3
+2013,Sobral de Monte Agraço,12.6,
+2013,Soure,12.7,511.1
+2013,Sousel,,233.3
+2013,Sátão,20.9,250.0
+2013,São Brás de Alportel,16.1,200.0
+2013,São João da Madeira,12.3,183.7
+2013,São João da Pesqueira,26.8,100.0
+2013,São Pedro do Sul,9.0,306.3
+2013,São Roque do Pico,24.7,
+2013,São Vicente,16.2,
+2013,Tabuaço,17.2,42.9
+2013,Tarouca,18.6,88.9
+2013,Tavira,20.6,329.4
+2013,Terras de Bouro,19.1,180.0
+2013,Tomar,16.0,846.7
+2013,Tondela,19.8,523.1
+2013,Torre de Moncorvo,26.5,190.9
+2013,Torres Novas,23.2,533.3
+2013,Torres Vedras,19.9,342.6
+2013,Trancoso,17.9,140.0
+2013,Trofa,16.0,162.5
+2013,Tábua,22.1,214.3
+2013,Vagos,18.6,341.7
+2013,Vale de Cambra,17.2,528.6
+2013,Valença,18.7,342.9
+2013,Valongo,22.5,933.3
+2013,Valpaços,18.5,244.4
+2013,Velas,16.9,
+2013,Vendas Novas,14.2,211.1
+2013,Viana do Alentejo,20.4,350.0
+2013,Viana do Castelo,12.1,428.6
+2013,Vidigueira,8.2,175.0
+2013,Vieira do Minho,13.2,116.7
+2013,Vila Flor,22.5,66.7
+2013,Vila Franca de Xira,24.2,297.9
+2013,Vila Franca do Campo,31.4,
+2013,Vila Nova da Barquinha,10.8,285.7
+2013,Vila Nova de Cerveira,15.4,200.0
+2013,Vila Nova de Famalicão,14.2,226.9
+2013,Vila Nova de Foz Côa,26.8,500.0
+2013,Vila Nova de Gaia,15.9,554.1
+2013,Vila Nova de Paiva,17.6,220.0
+2013,Vila Nova de Poiares,19.1,450.0
+2013,Vila Pouca de Aguiar,25.5,337.5
+2013,Vila Real,17.7,592.6
+2013,Vila Real de Santo António,25.9,300.0
+2013,Vila Velha de Ródão,,300.0
+2013,Vila Verde,16.9,1333.3
+2013,Vila Viçosa,26.1,169.2
+2013,Vila da Praia da Vitória,19.3,
+2013,Vila de Rei,9.6,60.0
+2013,Vila do Bispo,,150.0
+2013,Vila do Conde,16.7,348.8
+2013,Vila do Porto,24.7,
+2013,Vimioso,,100.0
+2013,Vinhais,22.7,275.0
+2013,Viseu,15.0,409.0
+2013,Vizela,13.7,113.9
+2013,Vouzela,14.3,200.0
+2013,Águeda,19.0,454.5
+2013,Évora,18.5,411.4
+2013,Ílhavo,21.3,778.6
+2013,Óbidos,22.8,350.0
+2014,Abrantes,17.2,1442.9
+2014,Aguiar da Beira,15.1,80.0
+2014,Alandroal,,150.0
+2014,Albergaria-a-Velha,19.2,1625.0
+2014,Albufeira,25.4,405.3
+2014,Alcanena,15.9,3800.0
+2014,Alcobaça,17.6,536.4
+2014,Alcochete,20.1,341.7
+2014,Alcoutim,,50.0
+2014,Alcácer do Sal,20.4,200.0
+2014,Alenquer,19.1,690.9
+2014,Alfândega da Fé,22.7,300.0
+2014,Alijó,17.4,650.0
+2014,Aljezur,,40.0
+2014,Aljustrel,11.3,233.3
+2014,Almada,24.4,1151.8
+2014,Almeida,26.8,366.7
+2014,Almeirim,20.6,2033.3
+2014,Almodôvar,13.0,500.0
+2014,Alpiarça,18.5,200.0
+2014,Alter do Chão,18.8,300.0
+2014,Alvaiázere,12.6,350.0
+2014,Alvito,11.5,
+2014,Amadora,25.0,472.1
+2014,Amarante,10.0,167.3
+2014,Amares,16.1,4100.0
+2014,Anadia,13.2,1128.6
+2014,Angra do Heroísmo,27.7,
+2014,Ansião,16.7,272.7
+2014,Arcos de Valdevez,13.6,875.0
+2014,Arganil,16.7,420.0
+2014,Armamar,5.0,600.0
+2014,Arouca,16.1,542.9
+2014,Arraiolos,11.9,300.0
+2014,Arronches,,125.0
+2014,Arruda dos Vinhos,16.0,209.1
+2014,Aveiro,14.7,1220.8
+2014,Avis,16.4,100.0
+2014,Azambuja,19.4,185.7
+2014,Baião,14.1,106.7
+2014,Barcelos,12.5,363.3
+2014,Barrancos,,100.0
+2014,Barreiro,22.4,970.4
+2014,Batalha,15.8,300.0
+2014,Beja,19.9,1100.0
+2014,Belmonte,12.7,320.0
+2014,Benavente,21.5,716.7
+2014,Bombarral,20.0,1100.0
+2014,Borba,,600.0
+2014,Boticas,,300.0
+2014,Braga,17.1,417.9
+2014,Bragança,21.3,968.8
+2014,Cabeceiras de Basto,16.7,106.3
+2014,Cadaval,28.2,600.0
+2014,Caldas da Rainha,20.9,191.3
+2014,Calheta [R.A.A.],27.2,
+2014,Calheta [R.A.M.],17.1,
+2014,Caminha,16.5,4100.0
+2014,Campo Maior,28.8,133.3
+2014,Cantanhede,19.2,918.2
+2014,Carrazeda de Ansiães,18.5,450.0
+2014,Carregal do Sal,17.0,428.6
+2014,Cartaxo,25.0,645.5
+2014,Cascais,17.7,479.8
+2014,Castanheira de Pêra,,
+2014,Castelo Branco,19.3,944.4
+2014,Castelo de Paiva,22.8,222.2
+2014,Castelo de Vide,,200.0
+2014,Castro Daire,14.3,433.3
+2014,Castro Marim,,100.0
+2014,Castro Verde,14.8,533.3
+2014,Celorico da Beira,21.5,366.7
+2014,Celorico de Basto,15.6,750.0
+2014,Chamusca,12.5,
+2014,Chaves,16.9,786.7
+2014,Cinfães,13.6,92.0
+2014,Coimbra,17.2,841.7
+2014,Condeixa-a-Nova,13.4,
+2014,Constância,7.1,233.3
+2014,Coruche,13.8,450.0
+2014,Corvo,50.0,
+2014,Covilhã,15.9,715.0
+2014,Crato,11.4,150.0
+2014,Cuba,3.3,
+2014,Câmara de Lobos,23.7,
+2014,Elvas,23.3,239.1
+2014,Entroncamento,14.9,985.7
+2014,Espinho,17.0,615.0
+2014,Esposende,13.2,1100.0
+2014,Estarreja,19.2,1750.0
+2014,Estremoz,14.8,511.1
+2014,Fafe,14.4,261.1
+2014,Faro,20.5,521.1
+2014,Felgueiras,13.4,194.7
+2014,Ferreira do Alentejo,35.9,366.7
+2014,Ferreira do Zêzere,12.8,250.0
+2014,Figueira da Foz,14.3,2010.0
+2014,Figueira de Castelo Rodrigo,33.3,260.0
+2014,Figueiró dos Vinhos,10.6,750.0
+2014,Fornos de Algodres,18.7,333.3
+2014,Freixo de Espada à Cinta,0.0,100.0
+2014,Fronteira,,300.0
+2014,Funchal,20.2,
+2014,Fundão,15.5,780.0
+2014,Gavião,,133.3
+2014,Golegã,10.4,850.0
+2014,Gondomar,16.3,654.9
+2014,Gouveia,20.1,733.3
+2014,Grândola,17.8,575.0
+2014,Guarda,14.8,642.9
+2014,Guimarães,17.4,381.9
+2014,Góis,,400.0
+2014,Horta,24.2,
+2014,Idanha-a-Nova,16.1,650.0
+2014,Lagoa,17.3,105.9
+2014,Lagoa [R.A.A.],41.7,
+2014,Lagos,19.0,706.3
+2014,Lajes das Flores,,
+2014,Lajes do Pico,26.8,
+2014,Lamego,19.4,377.3
+2014,Leiria,18.4,487.9
+2014,Lisboa,20.6,461.3
+2014,Loulé,27.6,294.5
+2014,Loures,24.1,400.0
+2014,Lourinhã,17.0,816.7
+2014,Lousada,13.8,135.7
+2014,Lousã,19.7,
+2014,Macedo de Cavaleiros,21.3,300.0
+2014,Machico,27.4,
+2014,Madalena,18.4,
+2014,Mafra,18.6,119.0
+2014,Maia,18.9,525.4
+2014,Mangualde,16.6,900.0
+2014,Manteigas,11.0,100.0
+2014,Marco de Canaveses,11.4,172.4
+2014,Marinha Grande,12.9,568.4
+2014,Marvão,,100.0
+2014,Matosinhos,21.1,832.8
+2014,Mação,19.6,260.0
+2014,Mealhada,12.7,
+2014,Melgaço,11.2,300.0
+2014,Mesão Frio,12.3,500.0
+2014,Mira,15.6,
+2014,Miranda do Corvo,16.8,1133.3
+2014,Miranda do Douro,30.6,566.7
+2014,Mirandela,21.4,563.6
+2014,Mogadouro,22.6,220.0
+2014,Moimenta da Beira,17.8,362.5
+2014,Moita,20.8,475.0
+2014,Monchique,,100.0
+2014,Mondim de Basto,20.7,216.7
+2014,Monforte,,100.0
+2014,Montalegre,13.5,250.0
+2014,Montemor-o-Novo,11.5,420.0
+2014,Montemor-o-Velho,23.3,
+2014,Montijo,21.3,833.3
+2014,Monção,9.1,
+2014,Mora,30.2,300.0
+2014,Mortágua,16.6,1250.0
+2014,Moura,15.9,471.4
+2014,Mourão,,200.0
+2014,Murtosa,20.8,700.0
+2014,Murça,14.5,650.0
+2014,Mértola,13.1,150.0
+2014,Mêda,23.2,350.0
+2014,Nazaré,14.1,300.0
+2014,Nelas,17.7,542.9
+2014,Nisa,15.3,180.0
+2014,Nordeste,16.6,
+2014,Odemira,17.8,186.4
+2014,Odivelas,27.3,703.4
+2014,Oeiras,19.9,734.2
+2014,Oleiros,12.3,133.3
+2014,Olhão,24.5,505.3
+2014,Oliveira de Azeméis,14.4,807.7
+2014,Oliveira de Frades,14.8,250.0
+2014,Oliveira do Bairro,12.7,483.3
+2014,Oliveira do Hospital,20.1,323.1
+2014,Ourique,8.5,600.0
+2014,Ourém,16.0,570.6
+2014,Ovar,20.7,700.0
+2014,Palmela,19.9,277.3
+2014,Pampilhosa da Serra,11.1,100.0
+2014,Paredes,19.3,310.5
+2014,Paredes de Coura,7.1,200.0
+2014,Paços de Ferreira,15.1,205.6
+2014,Pedrógão Grande,25.3,600.0
+2014,Penacova,22.8,1133.3
+2014,Penafiel,12.8,373.5
+2014,Penalva do Castelo,14.9,766.7
+2014,Penamacor,16.7,366.7
+2014,Penedono,,100.0
+2014,Penela,21.8,
+2014,Peniche,18.4,660.0
+2014,Peso da Régua,20.4,860.0
+2014,Pinhel,20.9,475.0
+2014,Pombal,22.9,568.4
+2014,Ponta Delgada,25.1,
+2014,Ponta do Sol,23.1,
+2014,Ponte da Barca,13.1,1100.0
+2014,Ponte de Lima,12.4,573.3
+2014,Ponte de Sor,18.1,2000.0
+2014,Portalegre,19.2,404.8
+2014,Portel,0.0,333.3
+2014,Portimão,22.8,448.8
+2014,Porto,14.2,289.8
+2014,Porto Moniz,16.7,
+2014,Porto Santo,22.0,
+2014,Porto de Mós,13.9,585.7
+2014,Portugal,18.5,517.9
+2014,Povoação,33.2,
+2014,Proença-a-Nova,16.0,137.5
+2014,Póvoa de Lanhoso,17.1,1733.3
+2014,Póvoa de Varzim,18.6,424.3
+2014,Redondo,15.4,242.9
+2014,Reguengos de Monsaraz,19.8,200.0
+2014,Resende,12.6,166.7
+2014,Ribeira Brava,32.1,
+2014,Ribeira Grande,21.6,
+2014,Ribeira de Pena,14.6,137.5
+2014,Rio Maior,23.0,378.6
+2014,Sabrosa,22.4,1100.0
+2014,Sabugal,16.0,400.0
+2014,Salvaterra de Magos,17.6,370.0
+2014,Santa Comba Dão,15.3,833.3
+2014,Santa Cruz,17.5,
+2014,Santa Cruz da Graciosa,35.1,
+2014,Santa Cruz das Flores,47.7,
+2014,Santa Maria da Feira,13.9,589.2
+2014,Santa Marta de Penaguião,,500.0
+2014,Santana,22.0,
+2014,Santarém,18.4,503.8
+2014,Santiago do Cacém,25.3,1050.0
+2014,Santo Tirso,11.5,306.3
+2014,Sardoal,13.4,1100.0
+2014,Seia,19.7,770.0
+2014,Seixal,22.4,960.0
+2014,Sernancelhe,12.3,
+2014,Serpa,17.4,175.0
+2014,Sertã,10.3,258.3
+2014,Sesimbra,22.8,584.2
+2014,Setúbal,19.4,979.4
+2014,Sever do Vouga,13.9,766.7
+2014,Silves,24.1,268.0
+2014,Sines,24.2,866.7
+2014,Sintra,24.7,662.9
+2014,Sobral de Monte Agraço,9.6,1600.0
+2014,Soure,15.4,716.7
+2014,Sousel,,300.0
+2014,Sátão,13.5,483.3
+2014,São Brás de Alportel,23.7,220.0
+2014,São João da Madeira,12.2,244.4
+2014,São João da Pesqueira,22.0,150.0
+2014,São Pedro do Sul,18.7,1566.7
+2014,São Roque do Pico,21.8,
+2014,São Vicente,20.3,
+2014,Tabuaço,12.6,75.0
+2014,Tarouca,19.3,200.0
+2014,Tavira,26.9,666.7
+2014,Terras de Bouro,11.0,450.0
+2014,Tomar,18.9,1857.1
+2014,Tondela,14.8,625.0
+2014,Torre de Moncorvo,25.7,366.7
+2014,Torres Novas,22.8,1080.0
+2014,Torres Vedras,19.4,606.9
+2014,Trancoso,17.2,533.3
+2014,Trofa,13.0,244.8
+2014,Tábua,12.6,850.0
+2014,Vagos,19.6,714.3
+2014,Vale de Cambra,12.1,1000.0
+2014,Valença,18.3,766.7
+2014,Valongo,20.7,1458.8
+2014,Valpaços,21.4,380.0
+2014,Velas,22.6,
+2014,Vendas Novas,16.7,542.9
+2014,Viana do Alentejo,16.3,1500.0
+2014,Viana do Castelo,12.7,631.8
+2014,Vidigueira,12.1,600.0
+2014,Vieira do Minho,18.3,466.7
+2014,Vila Flor,15.5,
+2014,Vila Franca de Xira,19.4,375.3
+2014,Vila Franca do Campo,31.9,
+2014,Vila Nova da Barquinha,13.8,400.0
+2014,Vila Nova de Cerveira,15.0,200.0
+2014,Vila Nova de Famalicão,14.1,325.0
+2014,Vila Nova de Foz Côa,12.7,1900.0
+2014,Vila Nova de Gaia,15.5,749.5
+2014,Vila Nova de Paiva,23.8,220.0
+2014,Vila Nova de Poiares,22.3,2200.0
+2014,Vila Pouca de Aguiar,18.1,660.0
+2014,Vila Real,20.1,1031.3
+2014,Vila Real de Santo António,25.3,783.3
+2014,Vila Velha de Ródão,,150.0
+2014,Vila Verde,16.5,1457.1
+2014,Vila Viçosa,20.3,675.0
+2014,Vila da Praia da Vitória,25.0,
+2014,Vila de Rei,4.5,500.0
+2014,Vila do Bispo,,100.0
+2014,Vila do Conde,16.9,855.6
+2014,Vila do Porto,11.4,
+2014,Vimioso,,75.0
+2014,Vinhais,14.0,
+2014,Viseu,15.6,624.0
+2014,Vizela,19.6,208.7
+2014,Vouzela,12.1,260.0
+2014,Águeda,20.0,611.8
+2014,Évora,12.0,780.0
+2014,Ílhavo,19.5,1233.3
+2014,Óbidos,39.1,700.0
+2015,Abrantes,22.4,1337.5
+2015,Aguiar da Beira,18.5,150.0
+2015,Alandroal,,100.0
+2015,Albergaria-a-Velha,15.9,2300.0
+2015,Albufeira,22.4,600.0
+2015,Alcanena,12.6,
+2015,Alcobaça,15.8,1800.0
+2015,Alcochete,19.3,418.2
+2015,Alcoutim,,400.0
+2015,Alcácer do Sal,15.1,420.0
+2015,Alenquer,19.1,606.7
+2015,Alfândega da Fé,25.8,600.0
+2015,Alijó,13.5,1300.0
+2015,Aljezur,,100.0
+2015,Aljustrel,15.0,162.5
+2015,Almada,19.3,1119.4
+2015,Almeida,14.7,450.0
+2015,Almeirim,15.3,1340.0
+2015,Almodôvar,8.7,
+2015,Alpiarça,21.4,125.0
+2015,Alter do Chão,15.2,200.0
+2015,Alvaiázere,7.9,450.0
+2015,Alvito,13.2,
+2015,Amadora,23.9,500.0
+2015,Amarante,10.9,273.5
+2015,Amares,17.0,4100.0
+2015,Anadia,12.7,2900.0
+2015,Angra do Heroísmo,25.2,224.1
+2015,Ansião,9.9,660.0
+2015,Arcos de Valdevez,11.2,950.0
+2015,Arganil,10.6,366.7
+2015,Armamar,4.9,233.3
+2015,Arouca,17.3,1075.0
+2015,Arraiolos,20.1,360.0
+2015,Arronches,,200.0
+2015,Arruda dos Vinhos,18.2,650.0
+2015,Aveiro,12.5,1352.2
+2015,Avis,11.5,25.0
+2015,Azambuja,18.8,425.0
+2015,Baião,16.6,94.4
+2015,Barcelos,12.1,473.5
+2015,Barrancos,,28.6
+2015,Barreiro,18.2,1020.7
+2015,Batalha,16.8,330.0
+2015,Beja,19.8,1109.1
+2015,Belmonte,12.1,750.0
+2015,Benavente,18.8,383.3
+2015,Bombarral,10.8,925.0
+2015,Borba,,350.0
+2015,Boticas,,
+2015,Braga,15.0,559.8
+2015,Bragança,21.9,1214.3
+2015,Cabeceiras de Basto,16.1,157.1
+2015,Cadaval,23.5,1200.0
+2015,Caldas da Rainha,17.7,203.4
+2015,Calheta [R.A.A.],20.0,33.3
+2015,Calheta [R.A.M.],12.4,64.3
+2015,Caminha,15.7,1950.0
+2015,Campo Maior,19.6,107.7
+2015,Cantanhede,13.3,838.5
+2015,Carrazeda de Ansiães,18.0,900.0
+2015,Carregal do Sal,19.5,3800.0
+2015,Cartaxo,20.8,492.9
+2015,Cascais,18.3,497.7
+2015,Castanheira de Pêra,,
+2015,Castelo Branco,16.8,1131.3
+2015,Castelo de Paiva,18.5,200.0
+2015,Castelo de Vide,,233.3
+2015,Castro Daire,11.1,580.0
+2015,Castro Marim,,200.0
+2015,Castro Verde,17.5,475.0
+2015,Celorico da Beira,16.6,750.0
+2015,Celorico de Basto,15.2,300.0
+2015,Chamusca,8.1,2000.0
+2015,Chaves,12.5,1100.0
+2015,Cinfães,10.8,100.0
+2015,Coimbra,14.7,1160.0
+2015,Condeixa-a-Nova,16.4,
+2015,Constância,4.3,450.0
+2015,Coruche,11.5,1166.7
+2015,Corvo,0.0,
+2015,Covilhã,11.8,852.9
+2015,Crato,14.3,150.0
+2015,Cuba,15.5,
+2015,Câmara de Lobos,24.0,108.9
+2015,Elvas,21.6,622.2
+2015,Entroncamento,11.8,1057.1
+2015,Espinho,13.0,817.6
+2015,Esposende,12.0,1483.3
+2015,Estarreja,19.8,2150.0
+2015,Estremoz,16.7,488.9
+2015,Fafe,14.7,525.0
+2015,Faro,19.6,648.4
+2015,Felgueiras,14.3,369.6
+2015,Ferreira do Alentejo,14.5,500.0
+2015,Ferreira do Zêzere,4.6,266.7
+2015,Figueira da Foz,14.1,1954.5
+2015,Figueira de Castelo Rodrigo,13.6,433.3
+2015,Figueiró dos Vinhos,11.9,
+2015,Fornos de Algodres,18.0,700.0
+2015,Freixo de Espada à Cinta,0.0,66.7
+2015,Fronteira,,75.0
+2015,Funchal,16.6,690.7
+2015,Fundão,16.0,1037.5
+2015,Gavião,,200.0
+2015,Golegã,14.6,1800.0
+2015,Gondomar,14.7,822.2
+2015,Gouveia,18.5,
+2015,Grândola,12.4,580.0
+2015,Guarda,11.2,1030.8
+2015,Guimarães,12.4,661.7
+2015,Góis,,
+2015,Horta,20.5,144.4
+2015,Idanha-a-Nova,17.8,466.7
+2015,Lagoa,15.5,144.4
+2015,Lagoa [R.A.A.],43.0,93.8
+2015,Lagos,20.9,436.0
+2015,Lajes das Flores,,
+2015,Lajes do Pico,24.1,83.3
+2015,Lamego,16.0,452.6
+2015,Leiria,16.9,838.9
+2015,Lisboa,18.5,541.1
+2015,Loulé,23.5,346.7
+2015,Loures,20.2,504.4
+2015,Lourinhã,17.9,1866.7
+2015,Lousada,16.9,225.8
+2015,Lousã,19.1,1866.7
+2015,Macedo de Cavaleiros,18.1,330.0
+2015,Machico,15.2,485.7
+2015,Madalena,19.8,57.1
+2015,Mafra,17.8,170.9
+2015,Maia,18.6,724.5
+2015,Mangualde,20.7,3250.0
+2015,Manteigas,20.5,166.7
+2015,Marco de Canaveses,10.8,300.0
+2015,Marinha Grande,9.7,712.5
+2015,Marvão,,100.0
+2015,Matosinhos,18.3,908.2
+2015,Mação,23.5,300.0
+2015,Mealhada,14.8,1300.0
+2015,Melgaço,19.0,
+2015,Mesão Frio,7.1,150.0
+2015,Mira,10.6,
+2015,Miranda do Corvo,12.6,1800.0
+2015,Miranda do Douro,25.7,2000.0
+2015,Mirandela,22.3,722.2
+2015,Mogadouro,20.7,400.0
+2015,Moimenta da Beira,17.6,471.4
+2015,Moita,20.5,721.7
+2015,Monchique,,100.0
+2015,Mondim de Basto,28.1,350.0
+2015,Monforte,,100.0
+2015,Montalegre,16.3,325.0
+2015,Montemor-o-Novo,10.5,600.0
+2015,Montemor-o-Velho,25.8,5800.0
+2015,Montijo,21.0,1170.0
+2015,Monção,14.6,3500.0
+2015,Mora,16.3,600.0
+2015,Mortágua,16.7,2500.0
+2015,Moura,13.5,355.6
+2015,Mourão,,33.3
+2015,Murtosa,18.2,750.0
+2015,Murça,14.8,500.0
+2015,Mértola,13.2,466.7
+2015,Mêda,17.2,800.0
+2015,Nazaré,17.6,500.0
+2015,Nelas,9.7,1075.0
+2015,Nisa,16.0,900.0
+2015,Nordeste,17.4,40.0
+2015,Odemira,17.5,333.3
+2015,Odivelas,24.9,1045.2
+2015,Oeiras,18.8,1654.5
+2015,Oleiros,9.5,200.0
+2015,Olhão,18.9,456.5
+2015,Oliveira de Azeméis,13.3,1170.0
+2015,Oliveira de Frades,15.3,342.9
+2015,Oliveira do Bairro,11.4,885.7
+2015,Oliveira do Hospital,17.3,400.0
+2015,Ourique,15.1,300.0
+2015,Ourém,14.2,466.7
+2015,Ovar,16.7,835.3
+2015,Palmela,18.3,481.5
+2015,Pampilhosa da Serra,7.7,150.0
+2015,Paredes,14.1,469.0
+2015,Paredes de Coura,13.5,
+2015,Paços de Ferreira,16.2,310.7
+2015,Pedrógão Grande,10.6,
+2015,Penacova,22.0,
+2015,Penafiel,11.8,563.6
+2015,Penalva do Castelo,6.8,800.0
+2015,Penamacor,18.7,600.0
+2015,Penedono,,100.0
+2015,Penela,14.0,
+2015,Peniche,14.3,600.0
+2015,Peso da Régua,18.1,840.0
+2015,Pinhel,17.8,800.0
+2015,Pombal,17.8,958.3
+2015,Ponta Delgada,24.4,311.3
+2015,Ponta do Sol,19.1,107.7
+2015,Ponte da Barca,9.9,1200.0
+2015,Ponte de Lima,11.0,2350.0
+2015,Ponte de Sor,16.4,500.0
+2015,Portalegre,17.9,473.7
+2015,Portel,0.0,333.3
+2015,Portimão,20.8,527.8
+2015,Porto,12.7,331.4
+2015,Porto Moniz,11.5,12.5
+2015,Porto Santo,24.8,625.0
+2015,Porto de Mós,12.3,422.2
+2015,Portugal,16.6,595.7
+2015,Povoação,37.8,28.6
+2015,Proença-a-Nova,14.0,375.0
+2015,Póvoa de Lanhoso,10.1,1500.0
+2015,Póvoa de Varzim,14.7,590.0
+2015,Redondo,8.7,600.0
+2015,Reguengos de Monsaraz,23.0,275.0
+2015,Resende,15.5,190.9
+2015,Ribeira Brava,19.2,450.0
+2015,Ribeira Grande,18.0,127.3
+2015,Ribeira de Pena,14.0,600.0
+2015,Rio Maior,12.2,520.0
+2015,Sabrosa,19.0,
+2015,Sabugal,18.0,460.0
+2015,Salvaterra de Magos,26.0,444.4
+2015,Santa Comba Dão,18.8,132.0
+2015,Santa Cruz,14.6,221.1
+2015,Santa Cruz da Graciosa,29.5,40.0
+2015,Santa Cruz das Flores,27.4,33.3
+2015,Santa Maria da Feira,14.1,1347.1
+2015,Santa Marta de Penaguião,,900.0
+2015,Santana,13.4,60.0
+2015,Santarém,12.5,617.4
+2015,Santiago do Cacém,18.0,790.9
+2015,Santo Tirso,10.4,387.8
+2015,Sardoal,10.9,433.3
+2015,Seia,15.3,600.0
+2015,Seixal,19.6,904.4
+2015,Sernancelhe,12.2,
+2015,Serpa,18.5,350.0
+2015,Sertã,23.4,485.7
+2015,Sesimbra,16.6,807.1
+2015,Setúbal,18.1,943.2
+2015,Sever do Vouga,9.7,440.0
+2015,Silves,21.8,426.3
+2015,Sines,22.3,
+2015,Sintra,22.6,942.2
+2015,Sobral de Monte Agraço,6.1,850.0
+2015,Soure,10.8,2300.0
+2015,Sousel,,450.0
+2015,Sátão,12.0,850.0
+2015,São Brás de Alportel,24.7,575.0
+2015,São João da Madeira,11.5,440.9
+2015,São João da Pesqueira,22.7,333.3
+2015,São Pedro do Sul,13.8,1225.0
+2015,São Roque do Pico,20.0,125.0
+2015,São Vicente,22.7,100.0
+2015,Tabuaço,14.4,400.0
+2015,Tarouca,15.7,350.0
+2015,Tavira,27.2,928.6
+2015,Terras de Bouro,17.8,225.0
+2015,Tomar,16.5,1511.1
+2015,Tondela,11.4,866.7
+2015,Torre de Moncorvo,17.0,2300.0
+2015,Torres Novas,17.2,1657.1
+2015,Torres Vedras,17.8,703.6
+2015,Trancoso,17.7,1700.0
+2015,Trofa,7.3,395.2
+2015,Tábua,14.6,600.0
+2015,Vagos,15.2,1040.0
+2015,Vale de Cambra,13.8,4200.0
+2015,Valença,15.4,
+2015,Valongo,16.6,1675.0
+2015,Valpaços,23.2,500.0
+2015,Velas,18.5,71.4
+2015,Vendas Novas,15.5,444.4
+2015,Viana do Alentejo,18.2,425.0
+2015,Viana do Castelo,10.5,862.9
+2015,Vidigueira,8.6,
+2015,Vieira do Minho,16.0,375.0
+2015,Vila Flor,12.5,
+2015,Vila Franca de Xira,20.5,521.3
+2015,Vila Franca do Campo,23.6,84.6
+2015,Vila Nova da Barquinha,12.5,1700.0
+2015,Vila Nova de Cerveira,15.4,283.3
+2015,Vila Nova de Famalicão,14.7,364.3
+2015,Vila Nova de Foz Côa,23.6,575.0
+2015,Vila Nova de Gaia,12.4,1001.3
+2015,Vila Nova de Paiva,19.2,225.0
+2015,Vila Nova de Poiares,18.5,1150.0
+2015,Vila Pouca de Aguiar,14.1,600.0
+2015,Vila Real,14.1,1292.9
+2015,Vila Real de Santo António,18.9,766.7
+2015,Vila Velha de Ródão,,66.7
+2015,Vila Verde,10.8,2340.0
+2015,Vila Viçosa,21.3,675.0
+2015,Vila da Praia da Vitória,21.3,137.5
+2015,Vila de Rei,15.4,300.0
+2015,Vila do Bispo,,
+2015,Vila do Conde,17.3,1055.6
+2015,Vila do Porto,12.2,162.5
+2015,Vimioso,,400.0
+2015,Vinhais,17.7,1000.0
+2015,Viseu,15.4,905.4
+2015,Vizela,14.1,273.7
+2015,Vouzela,13.6,1400.0
+2015,Águeda,16.1,1170.0
+2015,Évora,15.1,1115.0
+2015,Ílhavo,16.8,1288.9
+2015,Óbidos,23.1,533.3
+2016,Abrantes,18.5,1130.0
+2016,Aguiar da Beira,18.5,
+2016,Alandroal,,125.0
+2016,Albergaria-a-Velha,11.6,7600.0
+2016,Albufeira,23.0,758.3
+2016,Alcanena,13.5,2200.0
+2016,Alcobaça,16.6,1742.9
+2016,Alcochete,20.1,771.4
+2016,Alcoutim,,150.0
+2016,Alcácer do Sal,14.5,383.3
+2016,Alenquer,16.8,1250.0
+2016,Alfândega da Fé,23.7,800.0
+2016,Alijó,21.6,1700.0
+2016,Aljezur,,250.0
+2016,Aljustrel,14.7,750.0
+2016,Almada,19.7,1465.3
+2016,Almeida,26.5,700.0
+2016,Almeirim,13.4,1675.0
+2016,Almodôvar,7.1,1000.0
+2016,Alpiarça,23.1,240.0
+2016,Alter do Chão,11.4,233.3
+2016,Alvaiázere,17.3,
+2016,Alvito,10.5,33.3
+2016,Amadora,20.1,709.5
+2016,Amarante,8.3,329.0
+2016,Amares,16.4,1566.7
+2016,Anadia,8.9,2250.0
+2016,Angra do Heroísmo,24.5,312.5
+2016,Ansião,9.1,1700.0
+2016,Arcos de Valdevez,15.5,1433.3
+2016,Arganil,12.3,933.3
+2016,Armamar,13.0,400.0
+2016,Arouca,9.3,685.7
+2016,Arraiolos,23.5,420.0
+2016,Arronches,,50.0
+2016,Arruda dos Vinhos,14.8,2700.0
+2016,Aveiro,11.5,2576.9
+2016,Avis,4.0,14.3
+2016,Azambuja,17.3,466.7
+2016,Baião,14.6,126.3
+2016,Barcelos,11.3,705.7
+2016,Barrancos,,66.7
+2016,Barreiro,20.1,1200.0
+2016,Batalha,9.3,700.0
+2016,Beja,17.9,991.7
+2016,Belmonte,10.2,1800.0
+2016,Benavente,22.2,500.0
+2016,Bombarral,16.1,2150.0
+2016,Borba,,700.0
+2016,Boticas,,400.0
+2016,Braga,13.9,775.8
+2016,Bragança,18.5,2983.3
+2016,Cabeceiras de Basto,15.2,322.2
+2016,Cadaval,21.7,1050.0
+2016,Caldas da Rainha,14.0,397.9
+2016,Calheta [R.A.A.],15.6,33.3
+2016,Calheta [R.A.M.],12.2,100.0
+2016,Caminha,12.2,2000.0
+2016,Campo Maior,14.1,187.5
+2016,Cantanhede,17.4,1614.3
+2016,Carrazeda de Ansiães,11.5,1100.0
+2016,Carregal do Sal,7.7,1850.0
+2016,Cartaxo,15.5,822.2
+2016,Cascais,16.7,606.9
+2016,Castanheira de Pêra,,300.0
+2016,Castelo Branco,17.1,1870.0
+2016,Castelo de Paiva,17.0,600.0
+2016,Castelo de Vide,,900.0
+2016,Castro Daire,13.3,1500.0
+2016,Castro Marim,,200.0
+2016,Castro Verde,14.5,1050.0
+2016,Celorico da Beira,17.3,1050.0
+2016,Celorico de Basto,13.4,1050.0
+2016,Chamusca,19.4,2100.0
+2016,Chaves,11.7,1511.1
+2016,Cinfães,9.9,120.8
+2016,Coimbra,13.2,1431.9
+2016,Condeixa-a-Nova,11.6,1466.7
+2016,Constância,2.0,350.0
+2016,Coruche,13.7,900.0
+2016,Corvo,20.0,
+2016,Covilhã,11.6,993.8
+2016,Crato,7.0,500.0
+2016,Cuba,9.3,300.0
+2016,Câmara de Lobos,19.7,188.9
+2016,Elvas,13.2,483.3
+2016,Entroncamento,12.5,1185.7
+2016,Espinho,12.4,1028.6
+2016,Esposende,10.0,2350.0
+2016,Estarreja,18.4,3133.3
+2016,Estremoz,14.6,391.7
+2016,Fafe,15.3,605.9
+2016,Faro,18.1,981.8
+2016,Felgueiras,12.1,357.1
+2016,Ferreira do Alentejo,16.1,1200.0
+2016,Ferreira do Zêzere,9.6,200.0
+2016,Figueira da Foz,13.1,2762.5
+2016,Figueira de Castelo Rodrigo,16.5,650.0
+2016,Figueiró dos Vinhos,13.3,1500.0
+2016,Fornos de Algodres,8.8,566.7
+2016,Freixo de Espada à Cinta,33.3,100.0
+2016,Fronteira,,75.0
+2016,Funchal,16.9,1021.8
+2016,Fundão,10.8,922.2
+2016,Gavião,,200.0
+2016,Golegã,6.1,1800.0
+2016,Gondomar,12.7,1355.2
+2016,Gouveia,10.1,2200.0
+2016,Grândola,13.0,1350.0
+2016,Guarda,13.3,1825.0
+2016,Guimarães,12.5,875.6
+2016,Góis,,
+2016,Horta,22.9,350.0
+2016,Idanha-a-Nova,15.6,200.0
+2016,Lagoa,19.6,375.0
+2016,Lagoa [R.A.A.],26.5,222.2
+2016,Lagos,21.4,1045.5
+2016,Lajes das Flores,,
+2016,Lajes do Pico,22.8,150.0
+2016,Lamego,13.9,450.0
+2016,Leiria,15.2,982.4
+2016,Lisboa,17.5,614.0
+2016,Loulé,17.6,443.2
+2016,Loures,21.1,702.9
+2016,Lourinhã,19.4,1116.7
+2016,Lousada,13.5,284.0
+2016,Lousã,20.9,
+2016,Macedo de Cavaleiros,15.6,350.0
+2016,Machico,18.3,1125.0
+2016,Madalena,27.5,100.0
+2016,Mafra,16.2,288.2
+2016,Maia,17.9,1043.6
+2016,Mangualde,17.2,6300.0
+2016,Manteigas,6.3,200.0
+2016,Marco de Canaveses,11.1,600.0
+2016,Marinha Grande,12.3,1562.5
+2016,Marvão,,300.0
+2016,Matosinhos,15.5,1490.2
+2016,Mação,16.0,316.7
+2016,Mealhada,15.2,
+2016,Melgaço,17.0,1000.0
+2016,Mesão Frio,9.0,450.0
+2016,Mira,12.4,3800.0
+2016,Miranda do Corvo,14.8,2250.0
+2016,Miranda do Douro,22.0,
+2016,Mirandela,19.3,600.0
+2016,Mogadouro,18.1,766.7
+2016,Moimenta da Beira,15.4,462.5
+2016,Moita,16.7,781.8
+2016,Monchique,,125.0
+2016,Mondim de Basto,20.0,
+2016,Monforte,,83.3
+2016,Montalegre,24.2,283.3
+2016,Montemor-o-Novo,17.8,620.0
+2016,Montemor-o-Velho,17.2,7500.0
+2016,Montijo,20.9,893.3
+2016,Monção,13.3,
+2016,Mora,26.3,1000.0
+2016,Mortágua,15.6,2800.0
+2016,Moura,14.9,377.8
+2016,Mourão,,200.0
+2016,Murtosa,36.2,
+2016,Murça,16.4,850.0
+2016,Mértola,13.6,1400.0
+2016,Mêda,19.4,1100.0
+2016,Nazaré,16.2,450.0
+2016,Nelas,10.0,916.7
+2016,Nisa,27.0,900.0
+2016,Nordeste,15.7,71.4
+2016,Odemira,18.0,500.0
+2016,Odivelas,24.2,1275.7
+2016,Oeiras,17.1,2177.8
+2016,Oleiros,8.4,700.0
+2016,Olhão,16.6,876.9
+2016,Oliveira de Azeméis,12.3,711.1
+2016,Oliveira de Frades,15.2,1033.3
+2016,Oliveira do Bairro,9.2,2100.0
+2016,Oliveira do Hospital,14.7,1175.0
+2016,Ourique,16.4,400.0
+2016,Ourém,11.5,605.9
+2016,Ovar,14.9,1300.0
+2016,Palmela,17.5,486.7
+2016,Pampilhosa da Serra,25.0,42.9
+2016,Paredes,16.3,551.9
+2016,Paredes de Coura,9.7,900.0
+2016,Paços de Ferreira,15.2,426.9
+2016,Pedrógão Grande,15.9,
+2016,Penacova,16.7,
+2016,Penafiel,13.2,591.3
+2016,Penalva do Castelo,8.0,2500.0
+2016,Penamacor,16.5,325.0
+2016,Penedono,,
+2016,Penela,9.1,
+2016,Peniche,18.9,788.9
+2016,Peso da Régua,18.8,1083.3
+2016,Pinhel,10.6,
+2016,Pombal,14.8,1344.4
+2016,Ponta Delgada,22.6,480.4
+2016,Ponta do Sol,14.4,366.7
+2016,Ponte da Barca,11.1,
+2016,Ponte de Lima,11.3,2080.0
+2016,Ponte de Sor,7.7,685.7
+2016,Portalegre,16.4,494.7
+2016,Portel,7.7,333.3
+2016,Portimão,20.5,870.8
+2016,Porto,12.2,418.9
+2016,Porto Moniz,14.8,42.9
+2016,Porto Santo,22.3,1450.0
+2016,Porto de Mós,13.3,783.3
+2016,Portugal,15.7,802.9
+2016,Povoação,30.4,71.4
+2016,Proença-a-Nova,16.2,566.7
+2016,Póvoa de Lanhoso,17.1,3450.0
+2016,Póvoa de Varzim,16.4,780.0
+2016,Redondo,6.9,350.0
+2016,Reguengos de Monsaraz,29.2,184.6
+2016,Resende,18.4,366.7
+2016,Ribeira Brava,19.1,1266.7
+2016,Ribeira Grande,17.6,195.0
+2016,Ribeira de Pena,14.4,750.0
+2016,Rio Maior,11.1,1400.0
+2016,Sabrosa,13.0,1400.0
+2016,Sabugal,8.7,2900.0
+2016,Salvaterra de Magos,12.6,671.4
+2016,Santa Comba Dão,17.3,194.4
+2016,Santa Cruz,12.9,263.2
+2016,Santa Cruz da Graciosa,22.8,125.0
+2016,Santa Cruz das Flores,30.1,33.3
+2016,Santa Maria da Feira,10.9,2084.6
+2016,Santa Marta de Penaguião,,1000.0
+2016,Santana,16.4,88.9
+2016,Santarém,13.0,993.8
+2016,Santiago do Cacém,21.4,2375.0
+2016,Santo Tirso,10.0,590.0
+2016,Sardoal,9.2,280.0
+2016,Seia,17.3,1142.9
+2016,Seixal,20.4,1350.0
+2016,Sernancelhe,12.4,400.0
+2016,Serpa,10.7,533.3
+2016,Sertã,21.3,720.0
+2016,Sesimbra,19.8,2800.0
+2016,Setúbal,17.5,1306.9
+2016,Sever do Vouga,13.5,
+2016,Silves,24.6,493.8
+2016,Sines,14.3,1400.0
+2016,Sintra,23.1,1310.5
+2016,Sobral de Monte Agraço,16.1,1000.0
+2016,Soure,8.8,5300.0
+2016,Sousel,,200.0
+2016,Sátão,11.8,1800.0
+2016,São Brás de Alportel,18.2,500.0
+2016,São João da Madeira,10.0,846.2
+2016,São João da Pesqueira,21.5,
+2016,São Pedro do Sul,8.9,1833.3
+2016,São Roque do Pico,19.7,80.0
+2016,São Vicente,24.2,85.7
+2016,Tabuaço,24.5,125.0
+2016,Tarouca,23.0,800.0
+2016,Tavira,24.0,1440.0
+2016,Terras de Bouro,25.0,600.0
+2016,Tomar,13.5,4800.0
+2016,Tondela,11.6,2633.3
+2016,Torre de Moncorvo,11.7,1250.0
+2016,Torres Novas,15.9,1400.0
+2016,Torres Vedras,16.1,1110.5
+2016,Trancoso,11.7,1900.0
+2016,Trofa,9.9,586.7
+2016,Tábua,18.4,525.0
+2016,Vagos,16.1,1160.0
+2016,Vale de Cambra,12.0,
+2016,Valença,12.3,
+2016,Valongo,16.5,1782.4
+2016,Valpaços,16.2,1000.0
+2016,Velas,21.9,166.7
+2016,Vendas Novas,12.2,410.0
+2016,Viana do Alentejo,14.0,300.0
+2016,Viana do Castelo,11.5,1040.0
+2016,Vidigueira,5.3,450.0
+2016,Vieira do Minho,18.0,380.0
+2016,Vila Flor,20.3,
+2016,Vila Franca de Xira,21.3,571.7
+2016,Vila Franca do Campo,22.9,171.4
+2016,Vila Nova da Barquinha,10.1,850.0
+2016,Vila Nova de Cerveira,17.1,950.0
+2016,Vila Nova de Famalicão,12.3,635.4
+2016,Vila Nova de Foz Côa,22.1,1300.0
+2016,Vila Nova de Gaia,12.5,1174.0
+2016,Vila Nova de Paiva,16.1,1000.0
+2016,Vila Nova de Poiares,20.2,2400.0
+2016,Vila Pouca de Aguiar,7.5,
+2016,Vila Real,13.3,3233.3
+2016,Vila Real de Santo António,21.4,445.5
+2016,Vila Velha de Ródão,,
+2016,Vila Verde,9.6,1016.7
+2016,Vila Viçosa,17.4,600.0
+2016,Vila da Praia da Vitória,24.1,315.4
+2016,Vila de Rei,22.4,600.0
+2016,Vila do Bispo,,500.0
+2016,Vila do Conde,18.2,1158.8
+2016,Vila do Porto,19.9,200.0
+2016,Vimioso,,
+2016,Vinhais,29.0,1000.0
+2016,Viseu,12.7,1306.9
+2016,Vizela,14.1,272.7
+2016,Vouzela,10.5,466.7
+2016,Águeda,15.2,1942.9
+2016,Évora,13.7,975.0
+2016,Ílhavo,15.0,1814.3
+2016,Óbidos,21.7,1050.0
+2017,Abrantes,14.6,1344.4
+2017,Aguiar da Beira,6.2,250.0
+2017,Alandroal,,600.0
+2017,Albergaria-a-Velha,10.4,8200.0
+2017,Albufeira,24.4,612.5
+2017,Alcanena,14.0,
+2017,Alcobaça,12.2,4666.7
+2017,Alcochete,20.4,644.4
+2017,Alcoutim,,33.3
+2017,Alcácer do Sal,13.7,833.3
+2017,Alenquer,17.7,1628.6
+2017,Alfândega da Fé,8.5,1000.0
+2017,Alijó,19.1,2200.0
+2017,Aljezur,,600.0
+2017,Aljustrel,12.6,2200.0
+2017,Almada,20.9,1875.6
+2017,Almeida,15.0,500.0
+2017,Almeirim,18.1,777.8
+2017,Almodôvar,16.3,233.3
+2017,Alpiarça,14.4,1400.0
+2017,Alter do Chão,17.2,200.0
+2017,Alvaiázere,7.7,
+2017,Alvito,8.0,100.0
+2017,Amadora,21.3,1187.0
+2017,Amarante,8.8,542.9
+2017,Amares,19.0,2750.0
+2017,Anadia,9.0,1880.0
+2017,Angra do Heroísmo,21.5,571.4
+2017,Ansião,8.5,1900.0
+2017,Arcos de Valdevez,11.7,2550.0
+2017,Arganil,11.1,1033.3
+2017,Armamar,12.6,1000.0
+2017,Arouca,10.8,842.9
+2017,Arraiolos,18.6,
+2017,Arronches,,75.0
+2017,Arruda dos Vinhos,14.3,
+2017,Aveiro,12.4,3108.3
+2017,Avis,9.0,50.0
+2017,Azambuja,15.0,2200.0
+2017,Baião,10.1,233.3
+2017,Barcelos,9.8,960.7
+2017,Barrancos,,300.0
+2017,Barreiro,18.4,1357.7
+2017,Batalha,13.4,2200.0
+2017,Beja,16.3,1023.1
+2017,Belmonte,21.3,
+2017,Benavente,18.7,885.7
+2017,Bombarral,10.8,2050.0
+2017,Borba,,1000.0
+2017,Boticas,,400.0
+2017,Braga,13.2,960.9
+2017,Bragança,14.9,1475.0
+2017,Cabeceiras de Basto,13.4,1066.7
+2017,Cadaval,15.7,
+2017,Caldas da Rainha,12.9,820.8
+2017,Calheta [R.A.A.],23.0,50.0
+2017,Calheta [R.A.M.],20.0,425.0
+2017,Caminha,13.1,800.0
+2017,Campo Maior,14.8,320.0
+2017,Cantanhede,12.2,4100.0
+2017,Carrazeda de Ansiães,18.3,600.0
+2017,Carregal do Sal,10.0,4000.0
+2017,Cartaxo,14.1,1300.0
+2017,Cascais,16.1,856.5
+2017,Castanheira de Pêra,,400.0
+2017,Castelo Branco,16.1,3233.3
+2017,Castelo de Paiva,18.4,933.3
+2017,Castelo de Vide,,1000.0
+2017,Castro Daire,10.5,1650.0
+2017,Castro Marim,,500.0
+2017,Castro Verde,16.0,1250.0
+2017,Celorico da Beira,13.2,633.3
+2017,Celorico de Basto,11.9,
+2017,Chamusca,5.2,
+2017,Chaves,14.2,4833.3
+2017,Cinfães,8.6,142.9
+2017,Coimbra,14.6,1275.4
+2017,Condeixa-a-Nova,9.5,4300.0
+2017,Constância,12.4,240.0
+2017,Coruche,11.9,766.7
+2017,Corvo,33.3,
+2017,Covilhã,11.0,994.1
+2017,Crato,8.3,600.0
+2017,Cuba,10.5,
+2017,Câmara de Lobos,19.9,361.1
+2017,Elvas,13.1,442.9
+2017,Entroncamento,12.5,1820.0
+2017,Espinho,12.6,1660.0
+2017,Esposende,9.5,5450.0
+2017,Estarreja,20.7,10900.0
+2017,Estremoz,19.8,1000.0
+2017,Fafe,10.3,712.5
+2017,Faro,15.4,1200.0
+2017,Felgueiras,11.1,681.3
+2017,Ferreira do Alentejo,13.6,600.0
+2017,Ferreira do Zêzere,12.4,300.0
+2017,Figueira da Foz,11.5,7933.3
+2017,Figueira de Castelo Rodrigo,25.0,375.0
+2017,Figueiró dos Vinhos,15.2,
+2017,Fornos de Algodres,5.8,1700.0
+2017,Freixo de Espada à Cinta,,300.0
+2017,Fronteira,,200.0
+2017,Funchal,16.6,1965.6
+2017,Fundão,12.5,1740.0
+2017,Gavião,,350.0
+2017,Golegã,11.1,2100.0
+2017,Gondomar,11.4,1460.0
+2017,Gouveia,14.6,
+2017,Grândola,10.0,466.7
+2017,Guarda,10.4,1987.5
+2017,Guimarães,13.9,1315.2
+2017,Góis,,700.0
+2017,Horta,24.3,640.0
+2017,Idanha-a-Nova,14.1,500.0
+2017,Lagoa,24.6,650.0
+2017,Lagoa [R.A.A.],34.9,580.0
+2017,Lagos,22.4,938.5
+2017,Lajes das Flores,,
+2017,Lajes do Pico,21.1,266.7
+2017,Lamego,13.8,800.0
+2017,Leiria,14.0,1900.0
+2017,Lisboa,17.8,825.3
+2017,Loulé,18.4,577.4
+2017,Loures,18.0,794.2
+2017,Lourinhã,18.0,971.4
+2017,Lousada,14.1,404.5
+2017,Lousã,12.9,
+2017,Macedo de Cavaleiros,20.8,666.7
+2017,Machico,17.2,1275.0
+2017,Madalena,25.2,266.7
+2017,Mafra,17.4,367.4
+2017,Maia,14.7,1493.1
+2017,Mangualde,16.5,6800.0
+2017,Manteigas,7.7,233.3
+2017,Marco de Canaveses,11.0,955.6
+2017,Marinha Grande,10.9,1675.0
+2017,Marvão,,
+2017,Matosinhos,14.7,2258.6
+2017,Mação,7.6,425.0
+2017,Mealhada,8.3,
+2017,Melgaço,17.1,
+2017,Mesão Frio,11.0,
+2017,Mira,12.9,
+2017,Miranda do Corvo,14.9,
+2017,Miranda do Douro,19.2,2400.0
+2017,Mirandela,16.6,1440.0
+2017,Mogadouro,19.5,2700.0
+2017,Moimenta da Beira,12.7,585.7
+2017,Moita,16.7,1253.3
+2017,Monchique,,600.0
+2017,Mondim de Basto,14.5,
+2017,Monforte,,62.5
+2017,Montalegre,23.2,475.0
+2017,Montemor-o-Novo,14.9,1233.3
+2017,Montemor-o-Velho,11.0,8000.0
+2017,Montijo,19.3,1928.6
+2017,Monção,14.8,4300.0
+2017,Mora,21.4,300.0
+2017,Mortágua,12.5,2900.0
+2017,Moura,15.9,566.7
+2017,Mourão,,100.0
+2017,Murtosa,18.0,1500.0
+2017,Murça,18.1,1000.0
+2017,Mértola,11.0,333.3
+2017,Mêda,14.3,
+2017,Nazaré,10.7,375.0
+2017,Nelas,8.4,1933.3
+2017,Nisa,23.1,
+2017,Nordeste,16.3,300.0
+2017,Odemira,11.5,522.2
+2017,Odivelas,23.4,2300.0
+2017,Oeiras,17.1,1981.3
+2017,Oleiros,20.4,700.0
+2017,Olhão,16.3,1400.0
+2017,Oliveira de Azeméis,8.7,1530.0
+2017,Oliveira de Frades,15.3,1133.3
+2017,Oliveira do Bairro,9.4,1071.4
+2017,Oliveira do Hospital,17.5,2000.0
+2017,Ourique,12.1,500.0
+2017,Ourém,11.9,780.0
+2017,Ovar,15.4,2850.0
+2017,Palmela,15.6,777.3
+2017,Pampilhosa da Serra,22.2,75.0
+2017,Paredes,13.5,1041.2
+2017,Paredes de Coura,8.8,
+2017,Paços de Ferreira,12.7,463.0
+2017,Pedrógão Grande,22.0,
+2017,Penacova,12.9,4500.0
+2017,Penafiel,13.0,943.8
+2017,Penalva do Castelo,10.5,2800.0
+2017,Penamacor,17.8,800.0
+2017,Penedono,,500.0
+2017,Penela,9.1,1500.0
+2017,Peniche,15.7,2533.3
+2017,Peso da Régua,14.9,1120.0
+2017,Pinhel,12.6,2800.0
+2017,Pombal,14.5,2000.0
+2017,Ponta Delgada,16.2,823.3
+2017,Ponta do Sol,14.0,
+2017,Ponte da Barca,11.1,
+2017,Ponte de Lima,9.8,2140.0
+2017,Ponte de Sor,14.8,685.7
+2017,Portalegre,16.3,707.1
+2017,Portel,,333.3
+2017,Portimão,22.1,904.2
+2017,Porto,10.3,559.0
+2017,Porto Moniz,7.8,
+2017,Porto Santo,15.1,3000.0
+2017,Porto de Mós,14.3,612.5
+2017,Portugal,15.1,1117.9
+2017,Povoação,26.8,150.0
+2017,Proença-a-Nova,16.8,1900.0
+2017,Póvoa de Lanhoso,15.4,7700.0
+2017,Póvoa de Varzim,15.1,1222.2
+2017,Redondo,11.0,900.0
+2017,Reguengos de Monsaraz,25.3,700.0
+2017,Resende,9.8,520.0
+2017,Ribeira Brava,13.2,5700.0
+2017,Ribeira Grande,21.4,200.0
+2017,Ribeira de Pena,13.9,800.0
+2017,Rio Maior,11.7,650.0
+2017,Sabrosa,9.7,1400.0
+2017,Sabugal,14.6,725.0
+2017,Salvaterra de Magos,12.4,1350.0
+2017,Santa Comba Dão,16.3,253.3
+2017,Santa Cruz,13.2,1280.0
+2017,Santa Cruz da Graciosa,8.6,250.0
+2017,Santa Cruz das Flores,18.7,22.2
+2017,Santa Maria da Feira,10.2,1495.0
+2017,Santa Marta de Penaguião,,1000.0
+2017,Santana,18.8,375.0
+2017,Santarém,14.1,1933.3
+2017,Santiago do Cacém,17.0,1666.7
+2017,Santo Tirso,9.2,1137.5
+2017,Sardoal,3.8,566.7
+2017,Seia,15.0,4200.0
+2017,Seixal,21.1,1693.3
+2017,Sernancelhe,12.5,500.0
+2017,Serpa,15.4,1133.3
+2017,Sertã,13.9,1100.0
+2017,Sesimbra,20.9,2583.3
+2017,Setúbal,15.9,1623.1
+2017,Sever do Vouga,10.7,2500.0
+2017,Silves,18.9,772.7
+2017,Sines,12.7,640.0
+2017,Sintra,21.9,1368.5
+2017,Sobral de Monte Agraço,6.8,2600.0
+2017,Soure,15.5,1800.0
+2017,Sousel,8.7,225.0
+2017,Sátão,16.7,760.0
+2017,São Brás de Alportel,15.3,1450.0
+2017,São João da Madeira,9.9,1512.5
+2017,São João da Pesqueira,18.5,600.0
+2017,São Pedro do Sul,9.1,5400.0
+2017,São Roque do Pico,20.8,300.0
+2017,São Vicente,11.9,300.0
+2017,Tabuaço,17.0,150.0
+2017,Tarouca,8.1,333.3
+2017,Tavira,24.6,2400.0
+2017,Terras de Bouro,4.5,350.0
+2017,Tomar,18.1,7700.0
+2017,Tondela,12.5,3033.3
+2017,Torre de Moncorvo,22.1,1400.0
+2017,Torres Novas,15.6,1488.9
+2017,Torres Vedras,16.8,1991.7
+2017,Trancoso,9.8,700.0
+2017,Trofa,8.2,686.7
+2017,Tábua,15.3,2300.0
+2017,Vagos,19.5,1600.0
+2017,Vale de Cambra,9.3,
+2017,Valença,9.7,1800.0
+2017,Valongo,14.8,1783.3
+2017,Valpaços,14.0,1200.0
+2017,Velas,13.5,200.0
+2017,Vendas Novas,13.5,642.9
+2017,Viana do Alentejo,23.9,
+2017,Viana do Castelo,9.8,1618.2
+2017,Vidigueira,2.9,700.0
+2017,Vieira do Minho,15.9,733.3
+2017,Vila Flor,14.0,650.0
+2017,Vila Franca de Xira,21.9,886.7
+2017,Vila Franca do Campo,24.5,340.0
+2017,Vila Nova da Barquinha,16.7,2200.0
+2017,Vila Nova de Cerveira,14.8,633.3
+2017,Vila Nova de Famalicão,11.5,1117.2
+2017,Vila Nova de Foz Côa,18.1,1200.0
+2017,Vila Nova de Gaia,12.7,1641.1
+2017,Vila Nova de Paiva,13.6,
+2017,Vila Nova de Poiares,16.9,
+2017,Vila Pouca de Aguiar,17.6,3400.0
+2017,Vila Real,14.9,2422.2
+2017,Vila Real de Santo António,20.9,1140.0
+2017,Vila Velha de Ródão,,300.0
+2017,Vila Verde,10.1,2350.0
+2017,Vila Viçosa,18.9,875.0
+2017,Vila da Praia da Vitória,17.7,500.0
+2017,Vila de Rei,15.4,
+2017,Vila do Bispo,,
+2017,Vila do Conde,17.0,2444.4
+2017,Vila do Porto,17.0,170.0
+2017,Vimioso,,300.0
+2017,Vinhais,19.0,
+2017,Viseu,11.2,3230.8
+2017,Vizela,15.1,405.9
+2017,Vouzela,7.7,600.0
+2017,Águeda,12.1,2366.7
+2017,Évora,14.8,1108.3
+2017,Ílhavo,17.1,2014.3
+2017,Óbidos,22.8,580.0
+2018,Abrantes,14.7,1066.7
+2018,Aguiar da Beira,5.5,275.0
+2018,Alandroal,,500.0
+2018,Albergaria-a-Velha,10.4,
+2018,Albufeira,23.4,1462.5
+2018,Alcanena,6.8,2350.0
+2018,Alcobaça,13.1,2616.7
+2018,Alcochete,15.2,914.3
+2018,Alcoutim,,
+2018,Alcácer do Sal,11.2,3300.0
+2018,Alenquer,20.2,5950.0
+2018,Alfândega da Fé,11.8,700.0
+2018,Alijó,19.1,1900.0
+2018,Aljezur,,300.0
+2018,Aljustrel,10.3,850.0
+2018,Almada,17.9,2438.2
+2018,Almeida,10.5,475.0
+2018,Almeirim,19.2,837.5
+2018,Almodôvar,15.3,1500.0
+2018,Alpiarça,13.3,
+2018,Alter do Chão,14.6,200.0
+2018,Alvaiázere,13.5,
+2018,Alvito,8.2,
+2018,Amadora,23.2,1575.0
+2018,Amarante,6.4,496.2
+2018,Amares,12.5,
+2018,Anadia,10.5,1287.5
+2018,Angra do Heroísmo,19.7,500.0
+2018,Ansião,6.9,
+2018,Arcos de Valdevez,15.0,1260.0
+2018,Arganil,9.8,1850.0
+2018,Armamar,11.3,900.0
+2018,Arouca,13.3,1750.0
+2018,Arraiolos,3.6,900.0
+2018,Arronches,14.3,150.0
+2018,Arruda dos Vinhos,11.9,
+2018,Aveiro,12.3,3023.1
+2018,Avis,5.9,133.3
+2018,Azambuja,13.7,1533.3
+2018,Baião,10.8,800.0
+2018,Barcelos,9.0,1317.4
+2018,Barrancos,,200.0
+2018,Barreiro,15.6,1677.3
+2018,Batalha,16.1,2700.0
+2018,Beja,12.8,1133.3
+2018,Belmonte,6.6,1900.0
+2018,Benavente,19.1,2333.3
+2018,Bombarral,10.2,975.0
+2018,Borba,,1300.0
+2018,Boticas,,250.0
+2018,Braga,12.2,1189.2
+2018,Bragança,15.4,3100.0
+2018,Cabeceiras de Basto,14.3,775.0
+2018,Cadaval,17.9,700.0
+2018,Caldas da Rainha,14.5,1550.0
+2018,Calheta [R.A.A.],20.3,50.0
+2018,Calheta [R.A.M.],21.1,385.7
+2018,Caminha,11.5,4400.0
+2018,Campo Maior,12.9,314.3
+2018,Cantanhede,12.3,1477.8
+2018,Carrazeda de Ansiães,19.7,700.0
+2018,Carregal do Sal,12.3,4300.0
+2018,Cartaxo,19.3,1257.1
+2018,Cascais,16.8,991.3
+2018,Castanheira de Pêra,,
+2018,Castelo Branco,17.1,2900.0
+2018,Castelo de Paiva,13.4,725.0
+2018,Castelo de Vide,,900.0
+2018,Castro Daire,13.9,3600.0
+2018,Castro Marim,,
+2018,Castro Verde,8.0,650.0
+2018,Celorico da Beira,10.7,766.7
+2018,Celorico de Basto,12.6,2800.0
+2018,Chamusca,12.6,
+2018,Chaves,11.2,4050.0
+2018,Cinfães,9.7,190.0
+2018,Coimbra,11.5,1095.6
+2018,Condeixa-a-Nova,12.7,
+2018,Constância,7.4,750.0
+2018,Coruche,15.3,2400.0
+2018,Corvo,20.0,
+2018,Covilhã,11.9,1960.0
+2018,Crato,13.8,250.0
+2018,Cuba,10.9,
+2018,Câmara de Lobos,24.5,1440.0
+2018,Elvas,8.8,1000.0
+2018,Entroncamento,12.9,3033.3
+2018,Espinho,11.3,3440.0
+2018,Esposende,7.7,2900.0
+2018,Estarreja,9.3,6300.0
+2018,Estremoz,11.1,2650.0
+2018,Fafe,7.3,940.0
+2018,Faro,16.2,1647.1
+2018,Felgueiras,9.8,572.7
+2018,Ferreira do Alentejo,30.0,1100.0
+2018,Ferreira do Zêzere,4.7,
+2018,Figueira da Foz,10.8,8700.0
+2018,Figueira de Castelo Rodrigo,22.4,300.0
+2018,Figueiró dos Vinhos,17.6,450.0
+2018,Fornos de Algodres,10.2,500.0
+2018,Freixo de Espada à Cinta,,
+2018,Fronteira,,125.0
+2018,Funchal,16.8,2112.1
+2018,Fundão,11.1,3466.7
+2018,Gavião,,350.0
+2018,Golegã,5.7,
+2018,Gondomar,11.1,1556.7
+2018,Gouveia,12.5,
+2018,Grândola,16.5,
+2018,Guarda,9.1,3400.0
+2018,Guimarães,10.8,1838.5
+2018,Góis,,
+2018,Horta,22.9,900.0
+2018,Idanha-a-Nova,19.0,300.0
+2018,Lagoa,15.8,622.2
+2018,Lagoa [R.A.A.],33.9,616.7
+2018,Lagos,21.9,1310.0
+2018,Lajes das Flores,,
+2018,Lajes do Pico,13.8,600.0
+2018,Lamego,11.1,766.7
+2018,Leiria,12.9,2010.0
+2018,Lisboa,15.6,888.5
+2018,Loulé,13.8,1035.0
+2018,Loures,18.0,889.2
+2018,Lourinhã,19.2,709.1
+2018,Lousada,13.3,626.7
+2018,Lousã,17.8,
+2018,Macedo de Cavaleiros,20.7,477.8
+2018,Machico,14.2,1260.0
+2018,Madalena,16.7,900.0
+2018,Mafra,17.0,566.7
+2018,Maia,16.0,2181.8
+2018,Mangualde,11.9,2000.0
+2018,Manteigas,18.2,175.0
+2018,Marco de Canaveses,8.5,1011.1
+2018,Marinha Grande,9.0,1470.0
+2018,Marvão,,300.0
+2018,Matosinhos,14.4,2017.6
+2018,Mação,12.4,400.0
+2018,Mealhada,9.5,
+2018,Melgaço,18.6,1100.0
+2018,Mesão Frio,22.4,700.0
+2018,Mira,18.6,
+2018,Miranda do Corvo,8.7,5000.0
+2018,Miranda do Douro,23.5,
+2018,Mirandela,11.8,2433.3
+2018,Mogadouro,16.6,2400.0
+2018,Moimenta da Beira,11.9,537.5
+2018,Moita,16.2,1592.9
+2018,Monchique,,
+2018,Mondim de Basto,11.1,
+2018,Monforte,,75.0
+2018,Montalegre,20.9,540.0
+2018,Montemor-o-Novo,14.6,1433.3
+2018,Montemor-o-Velho,10.1,
+2018,Montijo,19.2,1688.9
+2018,Monção,7.7,1666.7
+2018,Mora,16.1,300.0
+2018,Mortágua,10.0,
+2018,Moura,15.3,444.4
+2018,Mourão,,150.0
+2018,Murtosa,15.9,
+2018,Murça,12.7,733.3
+2018,Mértola,14.6,1300.0
+2018,Mêda,16.9,
+2018,Nazaré,14.2,625.0
+2018,Nelas,9.1,5500.0
+2018,Nisa,29.2,900.0
+2018,Nordeste,25.7,100.0
+2018,Odemira,16.2,1475.0
+2018,Odivelas,22.4,2104.0
+2018,Oeiras,16.1,2518.5
+2018,Oleiros,12.3,266.7
+2018,Olhão,11.5,3100.0
+2018,Oliveira de Azeméis,8.5,4375.0
+2018,Oliveira de Frades,7.2,1266.7
+2018,Oliveira do Bairro,11.2,2000.0
+2018,Oliveira do Hospital,13.1,3400.0
+2018,Ourique,20.3,400.0
+2018,Ourém,9.9,1033.3
+2018,Ovar,13.9,1860.0
+2018,Palmela,16.4,800.0
+2018,Pampilhosa da Serra,4.3,166.7
+2018,Paredes,12.3,1675.0
+2018,Paredes de Coura,6.8,
+2018,Paços de Ferreira,9.8,681.0
+2018,Pedrógão Grande,13.9,800.0
+2018,Penacova,11.4,2600.0
+2018,Penafiel,10.7,1106.7
+2018,Penalva do Castelo,11.5,3400.0
+2018,Penamacor,15.0,375.0
+2018,Penedono,,
+2018,Penela,0.0,750.0
+2018,Peniche,13.9,7900.0
+2018,Peso da Régua,12.5,1033.3
+2018,Pinhel,7.5,1550.0
+2018,Pombal,9.2,1862.5
+2018,Ponta Delgada,20.9,1985.7
+2018,Ponta do Sol,8.2,1000.0
+2018,Ponte da Barca,10.1,2900.0
+2018,Ponte de Lima,8.0,3050.0
+2018,Ponte de Sor,15.7,916.7
+2018,Portalegre,13.8,668.8
+2018,Portel,0.0,
+2018,Portimão,18.1,1068.2
+2018,Porto,10.5,683.4
+2018,Porto Moniz,16.0,200.0
+2018,Porto Santo,20.1,1750.0
+2018,Porto de Mós,10.9,1250.0
+2018,Portugal,13.9,1352.3
+2018,Povoação,30.3,180.0
+2018,Proença-a-Nova,18.4,
+2018,Póvoa de Lanhoso,12.4,4150.0
+2018,Póvoa de Varzim,14.5,1411.1
+2018,Redondo,11.1,2000.0
+2018,Reguengos de Monsaraz,15.7,3300.0
+2018,Resende,12.1,550.0
+2018,Ribeira Brava,13.4,5800.0
+2018,Ribeira Grande,22.1,418.2
+2018,Ribeira de Pena,8.4,850.0
+2018,Rio Maior,18.0,2466.7
+2018,Sabrosa,9.3,1300.0
+2018,Sabugal,8.5,725.0
+2018,Salvaterra de Magos,10.2,942.9
+2018,Santa Comba Dão,12.1,390.0
+2018,Santa Cruz,13.1,1028.6
+2018,Santa Cruz da Graciosa,11.0,
+2018,Santa Cruz das Flores,9.9,60.0
+2018,Santa Maria da Feira,10.0,1635.0
+2018,Santa Marta de Penaguião,,600.0
+2018,Santana,15.5,750.0
+2018,Santarém,11.6,2144.4
+2018,Santiago do Cacém,15.8,1485.7
+2018,Santo Tirso,7.8,1050.0
+2018,Sardoal,3.9,
+2018,Seia,11.6,
+2018,Seixal,18.1,1862.1
+2018,Sernancelhe,4.0,
+2018,Serpa,11.0,800.0
+2018,Sertã,11.9,2350.0
+2018,Sesimbra,19.7,4050.0
+2018,Setúbal,13.5,5700.0
+2018,Sever do Vouga,10.8,3300.0
+2018,Silves,17.3,1187.5
+2018,Sines,12.8,2800.0
+2018,Sintra,21.5,1596.3
+2018,Sobral de Monte Agraço,15.8,1400.0
+2018,Soure,16.7,1500.0
+2018,Sousel,0.0,225.0
+2018,Sátão,10.1,4600.0
+2018,São Brás de Alportel,14.9,
+2018,São João da Madeira,9.4,1466.7
+2018,São João da Pesqueira,8.8,1600.0
+2018,São Pedro do Sul,9.3,2750.0
+2018,São Roque do Pico,19.4,300.0
+2018,São Vicente,7.8,1100.0
+2018,Tabuaço,19.3,166.7
+2018,Tarouca,18.2,650.0
+2018,Tavira,23.0,4050.0
+2018,Terras de Bouro,18.2,1800.0
+2018,Tomar,14.2,3825.0
+2018,Tondela,8.9,3500.0
+2018,Torre de Moncorvo,19.0,3100.0
+2018,Torres Novas,15.2,2880.0
+2018,Torres Vedras,13.4,1740.0
+2018,Trancoso,8.1,
+2018,Trofa,7.6,1230.0
+2018,Tábua,12.4,2900.0
+2018,Vagos,12.0,1460.0
+2018,Vale de Cambra,10.6,3350.0
+2018,Valença,11.4,3500.0
+2018,Valongo,13.9,1994.1
+2018,Valpaços,13.0,2800.0
+2018,Velas,16.1,200.0
+2018,Vendas Novas,12.0,866.7
+2018,Viana do Alentejo,14.8,700.0
+2018,Viana do Castelo,8.0,1910.0
+2018,Vidigueira,7.6,900.0
+2018,Vieira do Minho,14.6,2500.0
+2018,Vila Flor,18.4,550.0
+2018,Vila Franca de Xira,19.5,1200.0
+2018,Vila Franca do Campo,21.4,233.3
+2018,Vila Nova da Barquinha,9.9,1200.0
+2018,Vila Nova de Cerveira,10.9,550.0
+2018,Vila Nova de Famalicão,10.0,1488.0
+2018,Vila Nova de Foz Côa,12.5,2600.0
+2018,Vila Nova de Gaia,10.6,1691.2
+2018,Vila Nova de Paiva,17.4,1400.0
+2018,Vila Nova de Poiares,14.7,2600.0
+2018,Vila Pouca de Aguiar,8.7,3300.0
+2018,Vila Real,11.9,4840.0
+2018,Vila Real de Santo António,18.1,478.6
+2018,Vila Velha de Ródão,,
+2018,Vila Verde,7.2,
+2018,Vila Viçosa,13.6,720.0
+2018,Vila da Praia da Vitória,11.4,2700.0
+2018,Vila de Rei,18.3,350.0
+2018,Vila do Bispo,,800.0
+2018,Vila do Conde,13.4,3075.0
+2018,Vila do Porto,11.3,250.0
+2018,Vimioso,,
+2018,Vinhais,12.8,466.7
+2018,Viseu,10.7,4045.5
+2018,Vizela,9.0,452.9
+2018,Vouzela,7.1,300.0
+2018,Águeda,11.5,7750.0
+2018,Évora,12.8,1184.0
+2018,Ílhavo,16.4,2100.0
+2018,Óbidos,18.1,1400.0
+2019,Abrantes,14.6,1015.4
+2019,Aguiar da Beira,4.3,
+2019,Alandroal,,900.0
+2019,Albergaria-a-Velha,5.7,
+2019,Albufeira,21.2,1127.3
+2019,Alcanena,10.6,5500.0
+2019,Alcobaça,12.0,2062.5
+2019,Alcochete,14.2,2433.3
+2019,Alcoutim,,200.0
+2019,Alcácer do Sal,12.7,3200.0
+2019,Alenquer,23.3,1787.5
+2019,Alfândega da Fé,2.5,600.0
+2019,Alijó,18.9,1150.0
+2019,Aljezur,,
+2019,Aljustrel,8.0,1900.0
+2019,Almada,18.0,2205.3
+2019,Almeida,12.9,2200.0
+2019,Almeirim,15.0,2600.0
+2019,Almodôvar,9.9,
+2019,Alpiarça,12.4,
+2019,Alter do Chão,9.8,200.0
+2019,Alvaiázere,5.6,650.0
+2019,Alvito,13.7,100.0
+2019,Amadora,22.8,2013.3
+2019,Amarante,7.5,622.7
+2019,Amares,5.5,3300.0
+2019,Anadia,8.5,1337.5
+2019,Angra do Heroísmo,21.2,1333.3
+2019,Ansião,8.7,1533.3
+2019,Arcos de Valdevez,12.6,1700.0
+2019,Arganil,9.7,2000.0
+2019,Armamar,16.1,
+2019,Arouca,16.4,1625.0
+2019,Arraiolos,4.1,950.0
+2019,Arronches,0.0,700.0
+2019,Arruda dos Vinhos,13.4,
+2019,Aveiro,11.9,4700.0
+2019,Avis,,600.0
+2019,Azambuja,14.2,1800.0
+2019,Baião,12.0,287.5
+2019,Barcelos,8.7,3163.6
+2019,Barrancos,,
+2019,Barreiro,13.3,1626.1
+2019,Batalha,9.7,2800.0
+2019,Beja,17.4,2042.9
+2019,Belmonte,3.6,
+2019,Benavente,17.2,3500.0
+2019,Bombarral,14.0,2150.0
+2019,Borba,,700.0
+2019,Boticas,,900.0
+2019,Braga,12.1,1744.4
+2019,Bragança,15.3,4950.0
+2019,Cabeceiras de Basto,11.3,466.7
+2019,Cadaval,17.1,1200.0
+2019,Caldas da Rainha,13.0,908.0
+2019,Calheta [R.A.A.],22.5,300.0
+2019,Calheta [R.A.M.],14.1,1400.0
+2019,Caminha,8.6,4400.0
+2019,Campo Maior,12.1,1000.0
+2019,Cantanhede,8.6,3725.0
+2019,Carrazeda de Ansiães,9.3,800.0
+2019,Carregal do Sal,17.2,4600.0
+2019,Cartaxo,18.0,1185.7
+2019,Cascais,16.0,911.8
+2019,Castanheira de Pêra,,
+2019,Castelo Branco,15.0,7500.0
+2019,Castelo de Paiva,10.1,1000.0
+2019,Castelo de Vide,,1100.0
+2019,Castro Daire,9.4,3700.0
+2019,Castro Marim,,
+2019,Castro Verde,12.4,1450.0
+2019,Celorico da Beira,13.6,2100.0
+2019,Celorico de Basto,14.6,725.0
+2019,Chamusca,16.2,3000.0
+2019,Chaves,12.0,4250.0
+2019,Cinfães,7.2,194.4
+2019,Coimbra,10.6,1578.4
+2019,Condeixa-a-Nova,12.3,
+2019,Constância,11.2,
+2019,Coruche,9.6,1120.0
+2019,Corvo,0.0,50.0
+2019,Covilhã,10.5,3028.6
+2019,Crato,14.8,700.0
+2019,Cuba,7.0,
+2019,Câmara de Lobos,15.9,1850.0
+2019,Elvas,15.9,1100.0
+2019,Entroncamento,14.1,4600.0
+2019,Espinho,9.5,6500.0
+2019,Esposende,10.8,
+2019,Estarreja,13.0,6750.0
+2019,Estremoz,10.4,1475.0
+2019,Fafe,10.1,1191.7
+2019,Faro,12.8,1415.0
+2019,Felgueiras,9.1,768.4
+2019,Ferreira do Alentejo,8.1,
+2019,Ferreira do Zêzere,16.2,
+2019,Figueira da Foz,9.4,6775.0
+2019,Figueira de Castelo Rodrigo,14.1,1000.0
+2019,Figueiró dos Vinhos,11.2,1000.0
+2019,Fornos de Algodres,11.1,1800.0
+2019,Freixo de Espada à Cinta,,
+2019,Fronteira,,200.0
+2019,Funchal,15.6,2979.2
+2019,Fundão,10.0,3733.3
+2019,Gavião,,600.0
+2019,Golegã,13.3,2800.0
+2019,Gondomar,10.5,2182.6
+2019,Gouveia,9.4,
+2019,Grândola,18.3,933.3
+2019,Guarda,6.5,3880.0
+2019,Guimarães,9.2,1853.6
+2019,Góis,,800.0
+2019,Horta,19.7,1850.0
+2019,Idanha-a-Nova,16.5,566.7
+2019,Lagoa,14.8,435.7
+2019,Lagoa [R.A.A.],21.7,1750.0
+2019,Lagos,16.5,985.7
+2019,Lajes das Flores,,
+2019,Lajes do Pico,21.3,
+2019,Lamego,12.2,1237.5
+2019,Leiria,11.5,1913.6
+2019,Lisboa,14.5,974.1
+2019,Loulé,15.5,1305.9
+2019,Loures,18.0,1900.0
+2019,Lourinhã,17.8,1128.6
+2019,Lousada,10.4,605.6
+2019,Lousã,7.8,
+2019,Macedo de Cavaleiros,14.4,587.5
+2019,Machico,12.8,1580.0
+2019,Madalena,22.0,
+2019,Mafra,16.5,621.9
+2019,Maia,14.7,6487.5
+2019,Mangualde,9.7,2833.3
+2019,Manteigas,10.3,233.3
+2019,Marco de Canaveses,9.4,5200.0
+2019,Marinha Grande,8.2,2125.0
+2019,Marvão,,250.0
+2019,Matosinhos,12.5,1975.7
+2019,Mação,6.1,500.0
+2019,Mealhada,10.8,6600.0
+2019,Melgaço,6.3,
+2019,Mesão Frio,5.2,
+2019,Mira,13.2,
+2019,Miranda do Corvo,10.0,5300.0
+2019,Miranda do Douro,10.3,2800.0
+2019,Mirandela,9.6,740.0
+2019,Mogadouro,17.1,1000.0
+2019,Moimenta da Beira,12.6,683.3
+2019,Moita,16.2,1753.8
+2019,Monchique,,600.0
+2019,Mondim de Basto,8.3,525.0
+2019,Monforte,,100.0
+2019,Montalegre,11.2,2000.0
+2019,Montemor-o-Novo,17.3,5600.0
+2019,Montemor-o-Velho,12.2,
+2019,Montijo,18.6,1825.0
+2019,Monção,8.3,5200.0
+2019,Mora,23.2,600.0
+2019,Mortágua,5.3,
+2019,Moura,15.4,550.0
+2019,Mourão,,500.0
+2019,Murtosa,17.7,2600.0
+2019,Murça,13.7,500.0
+2019,Mértola,21.6,
+2019,Mêda,21.2,550.0
+2019,Nazaré,17.4,550.0
+2019,Nelas,12.2,5900.0
+2019,Nisa,18.3,1100.0
+2019,Nordeste,25.0,350.0
+2019,Odemira,14.7,1425.0
+2019,Odivelas,22.3,2625.0
+2019,Oeiras,15.6,2629.6
+2019,Oleiros,1.0,
+2019,Olhão,10.5,1183.3
+2019,Oliveira de Azeméis,7.2,6633.3
+2019,Oliveira de Frades,13.7,3900.0
+2019,Oliveira do Bairro,8.3,3600.0
+2019,Oliveira do Hospital,11.5,
+2019,Ourique,15.1,700.0
+2019,Ourém,7.6,1512.5
+2019,Ovar,18.2,4900.0
+2019,Palmela,15.1,832.0
+2019,Pampilhosa da Serra,18.2,150.0
+2019,Paredes,12.4,2150.0
+2019,Paredes de Coura,5.2,
+2019,Paços de Ferreira,10.3,952.9
+2019,Pedrógão Grande,16.9,900.0
+2019,Penacova,10.7,
+2019,Penafiel,8.4,2614.3
+2019,Penalva do Castelo,13.4,3300.0
+2019,Penamacor,15.4,1700.0
+2019,Penedono,,
+2019,Penela,2.4,1400.0
+2019,Peniche,16.4,9500.0
+2019,Peso da Régua,11.2,1066.7
+2019,Pinhel,5.7,
+2019,Pombal,11.8,1670.0
+2019,Ponta Delgada,17.4,2466.7
+2019,Ponta do Sol,9.7,3000.0
+2019,Ponte da Barca,6.7,
+2019,Ponte de Lima,6.5,6850.0
+2019,Ponte de Sor,9.0,590.0
+2019,Portalegre,11.6,547.6
+2019,Portel,16.7,
+2019,Portimão,14.9,831.0
+2019,Porto,10.2,905.7
+2019,Porto Moniz,15.4,600.0
+2019,Porto Santo,17.1,1550.0
+2019,Porto de Mós,9.6,5400.0
+2019,Portugal,13.1,1643.2
+2019,Povoação,20.6,500.0
+2019,Proença-a-Nova,8.5,2400.0
+2019,Póvoa de Lanhoso,11.7,2800.0
+2019,Póvoa de Varzim,12.9,3111.1
+2019,Redondo,11.0,633.3
+2019,Reguengos de Monsaraz,17.6,1133.3
+2019,Resende,11.1,540.0
+2019,Ribeira Brava,16.8,2266.7
+2019,Ribeira Grande,16.2,662.5
+2019,Ribeira de Pena,14.3,850.0
+2019,Rio Maior,14.5,1000.0
+2019,Sabrosa,6.7,
+2019,Sabugal,11.6,2800.0
+2019,Salvaterra de Magos,10.3,2233.3
+2019,Santa Comba Dão,12.0,372.7
+2019,Santa Cruz,7.5,4500.0
+2019,Santa Cruz da Graciosa,21.1,
+2019,Santa Cruz das Flores,9.7,33.3
+2019,Santa Maria da Feira,8.8,1466.7
+2019,Santa Marta de Penaguião,,450.0
+2019,Santana,17.2,
+2019,Santarém,10.5,1608.3
+2019,Santiago do Cacém,14.1,1750.0
+2019,Santo Tirso,7.6,1270.6
+2019,Sardoal,11.2,900.0
+2019,Seia,11.1,4400.0
+2019,Seixal,17.0,1781.3
+2019,Sernancelhe,7.6,
+2019,Serpa,12.6,1400.0
+2019,Sertã,13.0,1125.0
+2019,Sesimbra,16.7,1500.0
+2019,Setúbal,12.4,3950.0
+2019,Sever do Vouga,10.0,
+2019,Silves,16.4,1733.3
+2019,Sines,13.8,966.7
+2019,Sintra,19.7,2080.0
+2019,Sobral de Monte Agraço,13.5,2900.0
+2019,Soure,6.2,
+2019,Sousel,14.4,375.0
+2019,Sátão,8.2,
+2019,São Brás de Alportel,14.1,3100.0
+2019,São João da Madeira,9.0,1530.0
+2019,São João da Pesqueira,15.2,1500.0
+2019,São Pedro do Sul,8.4,2850.0
+2019,São Roque do Pico,27.3,1400.0
+2019,São Vicente,6.5,
+2019,Tabuaço,13.0,200.0
+2019,Tarouca,11.6,1600.0
+2019,Tavira,17.6,2150.0
+2019,Terras de Bouro,7.6,
+2019,Tomar,13.9,1346.7
+2019,Tondela,9.8,5450.0
+2019,Torre de Moncorvo,16.7,3200.0
+2019,Torres Novas,10.9,3000.0
+2019,Torres Vedras,12.3,2084.6
+2019,Trancoso,5.1,1600.0
+2019,Trofa,7.0,1525.0
+2019,Tábua,11.9,3600.0
+2019,Vagos,12.1,2800.0
+2019,Vale de Cambra,5.2,3200.0
+2019,Valença,14.0,
+2019,Valongo,15.0,4412.5
+2019,Valpaços,15.4,
+2019,Velas,16.5,266.7
+2019,Vendas Novas,6.3,1375.0
+2019,Viana do Alentejo,15.7,900.0
+2019,Viana do Castelo,9.4,5642.9
+2019,Vidigueira,10.5,
+2019,Vieira do Minho,16.8,
+2019,Vila Flor,19.4,1100.0
+2019,Vila Franca de Xira,17.2,1555.2
+2019,Vila Franca do Campo,19.3,850.0
+2019,Vila Nova da Barquinha,10.7,
+2019,Vila Nova de Cerveira,10.5,
+2019,Vila Nova de Famalicão,7.5,2075.0
+2019,Vila Nova de Foz Côa,11.0,2400.0
+2019,Vila Nova de Gaia,10.8,1745.9
+2019,Vila Nova de Paiva,10.3,2100.0
+2019,Vila Nova de Poiares,17.4,
+2019,Vila Pouca de Aguiar,12.2,
+2019,Vila Real,12.0,6400.0
+2019,Vila Real de Santo António,15.7,1183.3
+2019,Vila Velha de Ródão,,
+2019,Vila Verde,9.0,4125.0
+2019,Vila Viçosa,7.5,3600.0
+2019,Vila da Praia da Vitória,10.6,1766.7
+2019,Vila de Rei,16.3,900.0
+2019,Vila do Bispo,,350.0
+2019,Vila do Conde,14.3,3200.0
+2019,Vila do Porto,14.6,1100.0
+2019,Vimioso,,600.0
+2019,Vinhais,20.8,1400.0
+2019,Viseu,11.0,4830.0
+2019,Vizela,9.3,428.6
+2019,Vouzela,4.5,575.0
+2019,Águeda,9.2,5600.0
+2019,Évora,12.4,1514.3
+2019,Ílhavo,15.6,1777.8
+2019,Óbidos,14.6,1033.3
+2020,Abrantes,9.6,1107.7
+2020,Aguiar da Beira,5.4,
+2020,Alandroal,,
+2020,Albergaria-a-Velha,8.3,
+2020,Albufeira,16.0,825.0
+2020,Alcanena,5.1,5600.0
+2020,Alcobaça,9.3,2000.0
+2020,Alcochete,6.9,1975.0
+2020,Alcoutim,,200.0
+2020,Alcácer do Sal,6.1,1700.0
+2020,Alenquer,11.0,1655.6
+2020,Alfândega da Fé,7.0,
+2020,Alijó,10.5,2500.0
+2020,Aljezur,0.0,600.0
+2020,Aljustrel,7.5,3000.0
+2020,Almada,12.0,2340.5
+2020,Almeida,3.1,900.0
+2020,Almeirim,6.6,1680.0
+2020,Almodôvar,2.3,750.0
+2020,Alpiarça,6.9,
+2020,Alter do Chão,7.6,
+2020,Alvaiázere,6.4,
+2020,Alvito,9.8,100.0
+2020,Amadora,13.7,1369.6
+2020,Amarante,6.7,484.4
+2020,Amares,2.0,7600.0
+2020,Anadia,8.1,2200.0
+2020,Angra do Heroísmo,11.4,1820.0
+2020,Ansião,4.0,4700.0
+2020,Arcos de Valdevez,8.2,1200.0
+2020,Arganil,2.9,3800.0
+2020,Armamar,5.6,1500.0
+2020,Arouca,5.0,3900.0
+2020,Arraiolos,4.2,
+2020,Arronches,0.0,500.0
+2020,Arruda dos Vinhos,6.9,
+2020,Aveiro,6.5,8860.0
+2020,Avis,,100.0
+2020,Azambuja,13.2,2100.0
+2020,Baião,4.3,350.0
+2020,Barcelos,4.6,3690.0
+2020,Barrancos,,75.0
+2020,Barreiro,8.6,2068.4
+2020,Batalha,5.1,5800.0
+2020,Beja,11.9,5500.0
+2020,Belmonte,2.7,
+2020,Benavente,8.5,1000.0
+2020,Bombarral,8.2,1766.7
+2020,Borba,,
+2020,Boticas,,900.0
+2020,Braga,7.1,2261.4
+2020,Bragança,6.7,7433.3
+2020,Cabeceiras de Basto,4.0,1066.7
+2020,Cadaval,11.6,
+2020,Caldas da Rainha,9.8,1657.1
+2020,Calheta [R.A.A.],6.0,
+2020,Calheta [R.A.M.],8.7,1750.0
+2020,Caminha,4.8,
+2020,Campo Maior,4.4,1100.0
+2020,Cantanhede,3.4,5233.3
+2020,Carrazeda de Ansiães,8.9,
+2020,Carregal do Sal,10.2,4700.0
+2020,Cartaxo,11.5,1242.9
+2020,Cascais,9.9,795.3
+2020,Castanheira de Pêra,,800.0
+2020,Castelo Branco,9.6,6050.0
+2020,Castelo de Paiva,6.0,1366.7
+2020,Castelo de Vide,,800.0
+2020,Castro Daire,6.0,4300.0
+2020,Castro Marim,,1000.0
+2020,Castro Verde,5.7,1066.7
+2020,Celorico da Beira,5.0,
+2020,Celorico de Basto,5.1,3500.0
+2020,Chamusca,5.8,2900.0
+2020,Chaves,6.2,3800.0
+2020,Cinfães,4.5,233.3
+2020,Coimbra,6.3,2377.1
+2020,Condeixa-a-Nova,3.6,5500.0
+2020,Constância,3.1,2100.0
+2020,Coruche,5.1,1933.3
+2020,Corvo,0.0,50.0
+2020,Covilhã,7.1,2072.7
+2020,Crato,6.7,600.0
+2020,Cuba,3.3,
+2020,Câmara de Lobos,8.2,1900.0
+2020,Elvas,9.2,4100.0
+2020,Entroncamento,8.7,
+2020,Espinho,5.1,5375.0
+2020,Esposende,3.0,13300.0
+2020,Estarreja,6.8,6600.0
+2020,Estremoz,8.7,6500.0
+2020,Fafe,5.9,1372.7
+2020,Faro,8.0,2672.7
+2020,Felgueiras,5.3,2200.0
+2020,Ferreira do Alentejo,1.4,700.0
+2020,Ferreira do Zêzere,6.2,1500.0
+2020,Figueira da Foz,5.4,14350.0
+2020,Figueira de Castelo Rodrigo,6.9,
+2020,Figueiró dos Vinhos,3.4,2100.0
+2020,Fornos de Algodres,7.4,800.0
+2020,Freixo de Espada à Cinta,,133.3
+2020,Fronteira,,100.0
+2020,Funchal,11.3,3400.0
+2020,Fundão,3.5,5700.0
+2020,Gavião,5.0,700.0
+2020,Golegã,13.2,2800.0
+2020,Gondomar,5.8,3176.5
+2020,Gouveia,4.9,
+2020,Grândola,8.2,3600.0
+2020,Guarda,3.4,5000.0
+2020,Guimarães,5.4,3971.4
+2020,Góis,,600.0
+2020,Horta,9.5,1333.3
+2020,Idanha-a-Nova,10.9,2000.0
+2020,Lagoa,9.9,426.7
+2020,Lagoa [R.A.A.],29.6,4300.0
+2020,Lagos,13.1,1300.0
+2020,Lajes das Flores,,
+2020,Lajes do Pico,3.4,1200.0
+2020,Lamego,7.5,1325.0
+2020,Leiria,7.7,3350.0
+2020,Lisboa,10.4,944.9
+2020,Loulé,12.2,1181.0
+2020,Loures,12.7,2036.7
+2020,Lourinhã,9.8,1400.0
+2020,Lousada,6.8,781.3
+2020,Lousã,6.3,8100.0
+2020,Macedo de Cavaleiros,7.1,1060.0
+2020,Machico,7.5,2075.0
+2020,Madalena,18.9,
+2020,Mafra,12.0,962.5
+2020,Maia,7.9,6687.5
+2020,Mangualde,8.7,
+2020,Manteigas,1.3,600.0
+2020,Marco de Canaveses,6.3,4100.0
+2020,Marinha Grande,6.3,2011.1
+2020,Marvão,,700.0
+2020,Matosinhos,8.6,2432.3
+2020,Mação,2.2,2300.0
+2020,Mealhada,2.8,
+2020,Melgaço,4.6,2000.0
+2020,Mesão Frio,2.1,850.0
+2020,Mira,9.8,
+2020,Miranda do Corvo,6.4,
+2020,Miranda do Douro,11.3,1250.0
+2020,Mirandela,5.9,833.3
+2020,Mogadouro,8.7,3400.0
+2020,Moimenta da Beira,4.9,716.7
+2020,Moita,8.5,1784.6
+2020,Monchique,,300.0
+2020,Mondim de Basto,5.9,633.3
+2020,Monforte,,150.0
+2020,Montalegre,9.8,2100.0
+2020,Montemor-o-Novo,6.1,2750.0
+2020,Montemor-o-Velho,6.9,8800.0
+2020,Montijo,13.5,1950.0
+2020,Monção,4.7,2033.3
+2020,Mora,25.0,750.0
+2020,Mortágua,3.1,
+2020,Moura,9.5,4700.0
+2020,Mourão,,250.0
+2020,Murtosa,10.0,
+2020,Murça,10.5,520.0
+2020,Mértola,5.2,650.0
+2020,Mêda,3.2,450.0
+2020,Nazaré,13.0,1300.0
+2020,Nelas,7.4,
+2020,Nisa,2.4,850.0
+2020,Nordeste,6.1,400.0
+2020,Odemira,10.9,2300.0
+2020,Odivelas,13.6,2554.5
+2020,Oeiras,9.3,3012.5
+2020,Oleiros,1.1,800.0
+2020,Olhão,10.7,870.6
+2020,Oliveira de Azeméis,5.3,5575.0
+2020,Oliveira de Frades,8.1,
+2020,Oliveira do Bairro,5.5,7300.0
+2020,Oliveira do Hospital,9.6,8200.0
+2020,Ourique,8.9,433.3
+2020,Ourém,7.5,1650.0
+2020,Ovar,8.4,4200.0
+2020,Palmela,8.7,1070.0
+2020,Pampilhosa da Serra,10.7,700.0
+2020,Paredes,7.8,1512.5
+2020,Paredes de Coura,2.4,
+2020,Paços de Ferreira,7.0,1137.5
+2020,Pedrógão Grande,11.6,
+2020,Penacova,8.5,
+2020,Penafiel,6.5,4550.0
+2020,Penalva do Castelo,5.7,3700.0
+2020,Penamacor,1.4,
+2020,Penedono,,
+2020,Penela,10.0,
+2020,Peniche,9.8,9800.0
+2020,Peso da Régua,5.9,2300.0
+2020,Pinhel,1.1,
+2020,Pombal,5.3,1581.8
+2020,Ponta Delgada,13.2,4471.4
+2020,Ponta do Sol,6.5,700.0
+2020,Ponte da Barca,7.7,4300.0
+2020,Ponte de Lima,5.8,14700.0
+2020,Ponte de Sor,9.3,2066.7
+2020,Portalegre,6.1,915.4
+2020,Portel,0.0,
+2020,Portimão,11.1,1007.7
+2020,Porto,6.6,963.2
+2020,Porto Moniz,10.0,200.0
+2020,Porto Santo,12.8,600.0
+2020,Porto de Mós,4.5,2166.7
+2020,Portugal,8.5,1912.6
+2020,Povoação,13.2,
+2020,Proença-a-Nova,3.6,2300.0
+2020,Póvoa de Lanhoso,6.3,9300.0
+2020,Póvoa de Varzim,11.9,2845.5
+2020,Redondo,5.8,
+2020,Reguengos de Monsaraz,11.7,4000.0
+2020,Resende,6.7,500.0
+2020,Ribeira Brava,12.3,2300.0
+2020,Ribeira Grande,8.0,536.4
+2020,Ribeira de Pena,5.0,1700.0
+2020,Rio Maior,7.1,2800.0
+2020,Sabrosa,4.1,
+2020,Sabugal,4.9,
+2020,Salvaterra de Magos,7.4,3600.0
+2020,Santa Comba Dão,7.2,550.0
+2020,Santa Cruz,4.7,1980.0
+2020,Santa Cruz da Graciosa,9.2,1100.0
+2020,Santa Cruz das Flores,9.6,140.0
+2020,Santa Maria da Feira,5.7,2526.7
+2020,Santa Marta de Penaguião,,1400.0
+2020,Santana,4.8,
+2020,Santarém,6.6,2522.2
+2020,Santiago do Cacém,9.3,5650.0
+2020,Santo Tirso,4.6,2400.0
+2020,Sardoal,4.9,1700.0
+2020,Seia,4.1,9300.0
+2020,Seixal,11.1,3338.9
+2020,Sernancelhe,8.8,
+2020,Serpa,6.1,2200.0
+2020,Sertã,5.5,2600.0
+2020,Sesimbra,12.2,6400.0
+2020,Setúbal,9.8,3466.7
+2020,Sever do Vouga,4.5,
+2020,Silves,11.2,2260.0
+2020,Sines,9.7,1025.0
+2020,Sintra,13.2,1608.0
+2020,Sobral de Monte Agraço,10.8,3600.0
+2020,Soure,2.7,1800.0
+2020,Sousel,4.6,500.0
+2020,Sátão,7.5,
+2020,São Brás de Alportel,4.9,3100.0
+2020,São João da Madeira,6.4,1744.4
+2020,São João da Pesqueira,9.7,750.0
+2020,São Pedro do Sul,4.8,1966.7
+2020,São Roque do Pico,3.2,1300.0
+2020,São Vicente,2.9,
+2020,Tabuaço,9.3,240.0
+2020,Tarouca,4.1,
+2020,Tavira,12.6,4700.0
+2020,Terras de Bouro,7.9,
+2020,Tomar,7.8,938.1
+2020,Tondela,6.6,11600.0
+2020,Torre de Moncorvo,8.9,
+2020,Torres Novas,9.3,8150.0
+2020,Torres Vedras,8.4,2491.7
+2020,Trancoso,5.9,3200.0
+2020,Trofa,2.3,1900.0
+2020,Tábua,7.3,3600.0
+2020,Vagos,9.3,3066.7
+2020,Vale de Cambra,3.2,7500.0
+2020,Valença,6.9,4500.0
+2020,Valongo,10.0,4255.6
+2020,Valpaços,6.8,3000.0
+2020,Velas,9.8,1200.0
+2020,Vendas Novas,6.1,2650.0
+2020,Viana do Alentejo,6.0,500.0
+2020,Viana do Castelo,9.7,8440.0
+2020,Vidigueira,11.6,
+2020,Vieira do Minho,7.9,
+2020,Vila Flor,10.3,1400.0
+2020,Vila Franca de Xira,13.3,1811.5
+2020,Vila Franca do Campo,12.9,700.0
+2020,Vila Nova da Barquinha,4.3,
+2020,Vila Nova de Cerveira,3.1,
+2020,Vila Nova de Famalicão,4.3,2753.3
+2020,Vila Nova de Foz Côa,5.8,2700.0
+2020,Vila Nova de Gaia,6.3,2258.3
+2020,Vila Nova de Paiva,10.5,
+2020,Vila Nova de Poiares,7.8,
+2020,Vila Pouca de Aguiar,4.4,1850.0
+2020,Vila Real,5.8,7075.0
+2020,Vila Real de Santo António,11.5,1114.3
+2020,Vila Velha de Ródão,,800.0
+2020,Vila Verde,7.1,17300.0
+2020,Vila Viçosa,2.8,3600.0
+2020,Vila da Praia da Vitória,7.0,6100.0
+2020,Vila de Rei,9.5,
+2020,Vila do Bispo,,
+2020,Vila do Conde,8.9,3657.1
+2020,Vila do Porto,4.2,
+2020,Vimioso,,700.0
+2020,Vinhais,9.5,
+2020,Viseu,6.3,7414.3
+2020,Vizela,3.9,2175.0
+2020,Vouzela,7.4,1300.0
+2020,Águeda,7.3,17000.0
+2020,Évora,8.4,2523.1
+2020,Ílhavo,12.4,6033.3
+2020,Óbidos,11.2,1700.0
+2021,Abrantes,10.9,858.8
+2021,Aguiar da Beira,3.0,
+2021,Alandroal,,
+2021,Albergaria-a-Velha,5.3,5200.0
+2021,Albufeira,13.8,1021.4
+2021,Alcanena,2.4,5400.0
+2021,Alcobaça,7.4,4875.0
+2021,Alcochete,6.0,820.0
+2021,Alcoutim,,
+2021,Alcácer do Sal,9.8,1750.0
+2021,Alenquer,15.1,2371.4
+2021,Alfândega da Fé,4.6,500.0
+2021,Alijó,9.8,1350.0
+2021,Aljezur,0.0,650.0
+2021,Aljustrel,11.3,866.7
+2021,Almada,12.3,1625.0
+2021,Almeida,4.2,900.0
+2021,Almeirim,9.6,1533.3
+2021,Almodôvar,7.6,400.0
+2021,Alpiarça,3.2,1200.0
+2021,Alter do Chão,7.3,800.0
+2021,Alvaiázere,4.4,
+2021,Alvito,12.8,50.0
+2021,Amadora,14.4,1431.8
+2021,Amarante,3.6,866.7
+2021,Amares,1.9,8400.0
+2021,Anadia,7.1,2033.3
+2021,Angra do Heroísmo,14.9,1485.7
+2021,Ansião,3.7,2500.0
+2021,Arcos de Valdevez,3.7,1520.0
+2021,Arganil,7.3,975.0
+2021,Armamar,1.8,1600.0
+2021,Arouca,7.9,4100.0
+2021,Arraiolos,2.1,
+2021,Arronches,0.0,500.0
+2021,Arruda dos Vinhos,9.4,3700.0
+2021,Aveiro,6.9,5311.1
+2021,Avis,,600.0
+2021,Azambuja,10.2,3500.0
+2021,Baião,8.2,850.0
+2021,Barcelos,3.7,1768.2
+2021,Barrancos,,300.0
+2021,Barreiro,7.5,1514.3
+2021,Batalha,7.1,
+2021,Beja,12.4,2225.0
+2021,Belmonte,3.3,
+2021,Benavente,11.3,708.3
+2021,Bombarral,6.2,1833.3
+2021,Borba,,1300.0
+2021,Boticas,,500.0
+2021,Braga,6.4,2054.9
+2021,Bragança,8.9,3100.0
+2021,Cabeceiras de Basto,2.5,3800.0
+2021,Cadaval,13.7,2800.0
+2021,Caldas da Rainha,9.7,1268.4
+2021,Calheta [R.A.A.],17.2,250.0
+2021,Calheta [R.A.M.],8.1,4000.0
+2021,Caminha,3.5,5100.0
+2021,Campo Maior,2.4,633.3
+2021,Cantanhede,5.7,5433.3
+2021,Carrazeda de Ansiães,5.3,1800.0
+2021,Carregal do Sal,13.4,4600.0
+2021,Cartaxo,7.1,1077.8
+2021,Cascais,10.1,747.0
+2021,Castanheira de Pêra,,
+2021,Castelo Branco,8.4,5180.0
+2021,Castelo de Paiva,4.9,2150.0
+2021,Castelo de Vide,,
+2021,Castro Daire,3.7,
+2021,Castro Marim,,1300.0
+2021,Castro Verde,7.9,850.0
+2021,Celorico da Beira,6.4,
+2021,Celorico de Basto,2.9,3000.0
+2021,Chamusca,4.4,3500.0
+2021,Chaves,6.0,2625.0
+2021,Cinfães,6.0,222.2
+2021,Coimbra,6.8,2434.3
+2021,Condeixa-a-Nova,6.7,2133.3
+2021,Constância,9.8,1900.0
+2021,Coruche,6.3,
+2021,Corvo,11.8,66.7
+2021,Covilhã,5.7,2127.3
+2021,Crato,13.7,700.0
+2021,Cuba,7.5,700.0
+2021,Câmara de Lobos,19.1,9100.0
+2021,Elvas,7.4,1066.7
+2021,Entroncamento,6.0,10100.0
+2021,Espinho,7.1,4540.0
+2021,Esposende,5.1,7150.0
+2021,Estarreja,7.1,
+2021,Estremoz,6.3,3400.0
+2021,Fafe,4.3,1053.3
+2021,Faro,9.0,2200.0
+2021,Felgueiras,4.8,1371.4
+2021,Ferreira do Alentejo,11.2,1300.0
+2021,Ferreira do Zêzere,11.9,800.0
+2021,Figueira da Foz,4.9,14500.0
+2021,Figueira de Castelo Rodrigo,10.4,750.0
+2021,Figueiró dos Vinhos,5.8,
+2021,Fornos de Algodres,5.4,1700.0
+2021,Freixo de Espada à Cinta,,150.0
+2021,Fronteira,,100.0
+2021,Funchal,12.2,4712.5
+2021,Fundão,3.5,2925.0
+2021,Gavião,8.8,800.0
+2021,Golegã,5.2,2500.0
+2021,Gondomar,4.7,3282.4
+2021,Gouveia,6.3,2700.0
+2021,Grândola,10.1,633.3
+2021,Guarda,6.6,5250.0
+2021,Guimarães,4.6,2352.0
+2021,Góis,,700.0
+2021,Horta,15.7,716.7
+2021,Idanha-a-Nova,12.9,1050.0
+2021,Lagoa,11.9,370.0
+2021,Lagoa [R.A.A.],22.1,
+2021,Lagos,14.4,1157.1
+2021,Lajes das Flores,,
+2021,Lajes do Pico,0.0,466.7
+2021,Lamego,4.6,1614.3
+2021,Leiria,7.1,2319.0
+2021,Lisboa,10.1,796.2
+2021,Loulé,10.9,893.3
+2021,Loures,11.7,1011.1
+2021,Lourinhã,15.1,1650.0
+2021,Lousada,5.3,671.4
+2021,Lousã,7.4,8100.0
+2021,Macedo de Cavaleiros,8.1,687.5
+2021,Machico,8.1,9000.0
+2021,Madalena,12.4,
+2021,Mafra,13.2,940.0
+2021,Maia,6.3,3038.9
+2021,Mangualde,11.6,4750.0
+2021,Manteigas,1.4,1200.0
+2021,Marco de Canaveses,5.6,1828.6
+2021,Marinha Grande,6.4,2966.7
+2021,Marvão,,300.0
+2021,Matosinhos,8.7,3064.0
+2021,Mação,2.5,1100.0
+2021,Mealhada,3.3,
+2021,Melgaço,2.6,1150.0
+2021,Mesão Frio,1.7,1800.0
+2021,Mira,4.7,
+2021,Miranda do Corvo,5.7,5900.0
+2021,Miranda do Douro,6.2,766.7
+2021,Mirandela,8.2,833.3
+2021,Mogadouro,10.7,750.0
+2021,Moimenta da Beira,6.3,488.9
+2021,Moita,11.5,1220.0
+2021,Monchique,,140.0
+2021,Mondim de Basto,5.7,1150.0
+2021,Monforte,,300.0
+2021,Montalegre,10.5,1350.0
+2021,Montemor-o-Novo,8.5,
+2021,Montemor-o-Velho,6.7,9200.0
+2021,Montijo,10.9,878.9
+2021,Monção,2.5,3250.0
+2021,Mora,25.5,400.0
+2021,Mortágua,3.7,
+2021,Moura,11.4,742.9
+2021,Mourão,,233.3
+2021,Murtosa,7.6,
+2021,Murça,5.5,540.0
+2021,Mértola,12.4,466.7
+2021,Mêda,3.6,1000.0
+2021,Nazaré,5.0,1600.0
+2021,Nelas,5.6,1675.0
+2021,Nisa,3.9,633.3
+2021,Nordeste,12.1,
+2021,Odemira,9.4,1700.0
+2021,Odivelas,15.9,1513.5
+2021,Oeiras,8.0,1560.9
+2021,Oleiros,7.0,
+2021,Olhão,11.2,1680.0
+2021,Oliveira de Azeméis,3.8,4150.0
+2021,Oliveira de Frades,6.2,
+2021,Oliveira do Bairro,3.8,4200.0
+2021,Oliveira do Hospital,5.4,4250.0
+2021,Ourique,11.5,1300.0
+2021,Ourém,6.1,7700.0
+2021,Ovar,10.4,2700.0
+2021,Palmela,8.4,711.8
+2021,Pampilhosa da Serra,14.3,800.0
+2021,Paredes,6.8,1900.0
+2021,Paredes de Coura,3.3,2400.0
+2021,Paços de Ferreira,6.2,972.7
+2021,Pedrógão Grande,13.7,
+2021,Penacova,7.6,
+2021,Penafiel,5.7,2487.5
+2021,Penalva do Castelo,1.0,
+2021,Penamacor,10.3,
+2021,Penedono,,
+2021,Penela,0.0,
+2021,Peniche,10.0,3566.7
+2021,Peso da Régua,5.6,1085.7
+2021,Pinhel,1.7,1650.0
+2021,Pombal,4.8,2212.5
+2021,Ponta Delgada,13.8,2220.0
+2021,Ponta do Sol,2.7,3200.0
+2021,Ponte da Barca,5.4,5000.0
+2021,Ponte de Lima,4.9,3320.0
+2021,Ponte de Sor,5.0,1420.0
+2021,Portalegre,7.4,928.6
+2021,Portel,40.0,
+2021,Portimão,10.7,660.0
+2021,Porto,6.4,1055.6
+2021,Porto Moniz,2.9,166.7
+2021,Porto Santo,7.6,1100.0
+2021,Porto de Mós,3.6,3400.0
+2021,Portugal,8.3,1628.2
+2021,Povoação,9.3,650.0
+2021,Proença-a-Nova,3.0,
+2021,Póvoa de Lanhoso,5.2,3466.7
+2021,Póvoa de Varzim,7.9,3270.0
+2021,Redondo,5.2,950.0
+2021,Reguengos de Monsaraz,15.0,2250.0
+2021,Resende,3.9,1700.0
+2021,Ribeira Brava,4.8,
+2021,Ribeira Grande,11.0,1166.7
+2021,Ribeira de Pena,3.5,566.7
+2021,Rio Maior,5.8,3300.0
+2021,Sabrosa,2.0,
+2021,Sabugal,4.8,
+2021,Salvaterra de Magos,9.7,3700.0
+2021,Santa Comba Dão,6.5,575.0
+2021,Santa Cruz,5.3,5400.0
+2021,Santa Cruz da Graciosa,4.8,300.0
+2021,Santa Cruz das Flores,6.1,85.7
+2021,Santa Maria da Feira,4.8,3092.3
+2021,Santa Marta de Penaguião,,
+2021,Santana,2.6,2100.0
+2021,Santarém,6.5,2733.3
+2021,Santiago do Cacém,7.4,2000.0
+2021,Santo Tirso,3.3,1143.5
+2021,Sardoal,3.0,2100.0
+2021,Seia,3.8,9800.0
+2021,Seixal,12.5,1335.4
+2021,Sernancelhe,1.7,
+2021,Serpa,10.3,4600.0
+2021,Sertã,3.8,5600.0
+2021,Sesimbra,11.6,1225.0
+2021,Setúbal,9.7,1776.7
+2021,Sever do Vouga,11.9,
+2021,Silves,11.8,1487.5
+2021,Sines,9.0,671.4
+2021,Sintra,12.8,1331.2
+2021,Sobral de Monte Agraço,14.9,4300.0
+2021,Soure,6.9,3750.0
+2021,Sousel,9.2,750.0
+2021,Sátão,3.4,5000.0
+2021,São Brás de Alportel,3.9,3500.0
+2021,São João da Madeira,4.9,1120.0
+2021,São João da Pesqueira,13.8,1200.0
+2021,São Pedro do Sul,5.8,2133.3
+2021,São Roque do Pico,17.6,1300.0
+2021,São Vicente,5.1,
+2021,Tabuaço,6.3,700.0
+2021,Tarouca,5.3,2200.0
+2021,Tavira,15.7,2000.0
+2021,Terras de Bouro,4.3,1150.0
+2021,Tomar,9.2,1492.3
+2021,Tondela,6.5,
+2021,Torre de Moncorvo,13.7,1650.0
+2021,Torres Novas,6.9,17100.0
+2021,Torres Vedras,9.2,2407.7
+2021,Trancoso,3.6,
+2021,Trofa,4.9,2028.6
+2021,Tábua,6.7,
+2021,Vagos,9.3,2350.0
+2021,Vale de Cambra,2.7,8900.0
+2021,Valença,5.4,4900.0
+2021,Valongo,6.4,4030.0
+2021,Valpaços,7.5,966.7
+2021,Velas,7.1,1400.0
+2021,Vendas Novas,5.3,1325.0
+2021,Viana do Alentejo,8.1,366.7
+2021,Viana do Castelo,4.7,5550.0
+2021,Vidigueira,3.0,800.0
+2021,Vieira do Minho,8.5,
+2021,Vila Flor,9.4,1500.0
+2021,Vila Franca de Xira,11.2,1696.7
+2021,Vila Franca do Campo,10.1,833.3
+2021,Vila Nova da Barquinha,4.4,3300.0
+2021,Vila Nova de Cerveira,4.5,2600.0
+2021,Vila Nova de Famalicão,5.0,3691.7
+2021,Vila Nova de Foz Côa,6.2,
+2021,Vila Nova de Gaia,6.9,2290.0
+2021,Vila Nova de Paiva,6.4,
+2021,Vila Nova de Poiares,7.5,3500.0
+2021,Vila Pouca de Aguiar,5.4,3800.0
+2021,Vila Real,5.7,3687.5
+2021,Vila Real de Santo António,10.1,1011.1
+2021,Vila Velha de Ródão,,233.3
+2021,Vila Verde,3.9,19600.0
+2021,Vila Viçosa,5.7,3700.0
+2021,Vila da Praia da Vitória,9.2,928.6
+2021,Vila de Rei,14.5,
+2021,Vila do Bispo,,1100.0
+2021,Vila do Conde,6.2,3650.0
+2021,Vila do Porto,5.9,
+2021,Vimioso,,600.0
+2021,Vinhais,12.0,1400.0
+2021,Viseu,7.3,4890.9
+2021,Vizela,4.8,2400.0
+2021,Vouzela,4.9,1300.0
+2021,Águeda,5.5,19300.0
+2021,Évora,8.1,2220.0
+2021,Ílhavo,8.0,2671.4
+2021,Óbidos,12.6,1166.7
+2022,Abrantes,7.4,773.7
+2022,Aguiar da Beira,4.4,
+2022,Alandroal,,600.0
+2022,Albergaria-a-Velha,5.7,10400.0
+2022,Albufeira,13.1,1250.0
+2022,Alcanena,1.7,2600.0
+2022,Alcobaça,7.4,4120.0
+2022,Alcochete,8.6,725.0
+2022,Alcoutim,,250.0
+2022,Alcácer do Sal,6.4,1266.7
+2022,Alenquer,10.8,1650.0
+2022,Alfândega da Fé,6.5,1100.0
+2022,Alijó,6.6,3500.0
+2022,Aljezur,,300.0
+2022,Aljustrel,9.7,725.0
+2022,Almada,11.8,998.9
+2022,Almeida,2.6,
+2022,Almeirim,7.0,2000.0
+2022,Almodôvar,4.6,400.0
+2022,Alpiarça,3.1,1500.0
+2022,Alter do Chão,11.9,300.0
+2022,Alvaiázere,7.1,
+2022,Alvito,14.3,
+2022,Amadora,13.9,870.3
+2022,Amarante,2.1,921.1
+2022,Amares,4.7,
+2022,Anadia,7.3,2166.7
+2022,Angra do Heroísmo,13.1,1471.4
+2022,Ansião,5.4,2150.0
+2022,Arcos de Valdevez,6.0,2733.3
+2022,Arganil,4.8,1125.0
+2022,Armamar,1.1,
+2022,Arouca,5.3,2800.0
+2022,Arraiolos,10.8,1400.0
+2022,Arronches,16.7,250.0
+2022,Arruda dos Vinhos,8.3,1300.0
+2022,Aveiro,5.7,5090.0
+2022,Avis,,233.3
+2022,Azambuja,6.0,2466.7
+2022,Baião,6.1,820.0
+2022,Barcelos,3.8,1913.6
+2022,Barrancos,,100.0
+2022,Barreiro,9.6,1300.0
+2022,Batalha,6.4,3050.0
+2022,Beja,11.2,1870.0
+2022,Belmonte,3.6,1400.0
+2022,Benavente,12.9,1090.0
+2022,Bombarral,10.4,2800.0
+2022,Borba,,
+2022,Boticas,,466.7
+2022,Braga,7.6,2253.1
+2022,Bragança,8.1,3850.0
+2022,Cabeceiras de Basto,1.7,4700.0
+2022,Cadaval,12.9,1100.0
+2022,Caldas da Rainha,11.1,1108.7
+2022,Calheta [R.A.A.],9.6,500.0
+2022,Calheta [R.A.M.],9.7,1400.0
+2022,Caminha,5.9,5700.0
+2022,Campo Maior,4.8,300.0
+2022,Cantanhede,4.1,1330.8
+2022,Carrazeda de Ansiães,4.0,
+2022,Carregal do Sal,3.9,4700.0
+2022,Cartaxo,12.8,846.2
+2022,Cascais,9.5,763.1
+2022,Castanheira de Pêra,,
+2022,Castelo Branco,9.9,3814.3
+2022,Castelo de Paiva,5.3,4000.0
+2022,Castelo de Vide,,800.0
+2022,Castro Daire,2.8,2250.0
+2022,Castro Marim,,
+2022,Castro Verde,6.2,900.0
+2022,Celorico da Beira,1.5,3700.0
+2022,Celorico de Basto,1.8,1950.0
+2022,Chamusca,2.2,3500.0
+2022,Chaves,3.5,2180.0
+2022,Cinfães,5.1,313.3
+2022,Coimbra,5.8,2310.3
+2022,Condeixa-a-Nova,7.1,2466.7
+2022,Constância,8.3,2100.0
+2022,Coruche,7.4,5200.0
+2022,Corvo,0.0,100.0
+2022,Covilhã,6.1,1263.2
+2022,Crato,16.7,800.0
+2022,Cuba,9.8,
+2022,Câmara de Lobos,23.8,2000.0
+2022,Elvas,6.9,1133.3
+2022,Entroncamento,10.5,10600.0
+2022,Espinho,6.5,5800.0
+2022,Esposende,4.7,3725.0
+2022,Estarreja,8.8,14600.0
+2022,Estremoz,5.3,2033.3
+2022,Fafe,2.6,1178.6
+2022,Faro,9.6,1911.8
+2022,Felgueiras,4.6,2055.6
+2022,Ferreira do Alentejo,6.9,366.7
+2022,Ferreira do Zêzere,4.2,1150.0
+2022,Figueira da Foz,4.9,10000.0
+2022,Figueira de Castelo Rodrigo,10.6,1900.0
+2022,Figueiró dos Vinhos,5.7,1200.0
+2022,Fornos de Algodres,3.0,1000.0
+2022,Freixo de Espada à Cinta,,
+2022,Fronteira,,300.0
+2022,Funchal,12.0,5300.0
+2022,Fundão,7.5,1585.7
+2022,Gavião,0.0,900.0
+2022,Golegã,14.8,2500.0
+2022,Gondomar,6.1,2055.2
+2022,Gouveia,6.6,1833.3
+2022,Grândola,7.8,650.0
+2022,Guarda,4.8,3316.7
+2022,Guimarães,3.6,2734.8
+2022,Góis,,550.0
+2022,Horta,16.8,450.0
+2022,Idanha-a-Nova,10.3,2200.0
+2022,Lagoa,17.3,380.0
+2022,Lagoa [R.A.A.],25.9,6300.0
+2022,Lagos,19.0,1257.1
+2022,Lajes das Flores,,
+2022,Lajes do Pico,1.1,
+2022,Lamego,6.5,1700.0
+2022,Leiria,7.9,2038.5
+2022,Lisboa,10.9,737.2
+2022,Loulé,11.1,811.1
+2022,Loures,12.4,928.8
+2022,Lourinhã,14.3,1783.3
+2022,Lousada,6.2,980.0
+2022,Lousã,6.0,8200.0
+2022,Macedo de Cavaleiros,6.4,712.5
+2022,Machico,5.0,5100.0
+2022,Madalena,24.5,1500.0
+2022,Mafra,12.8,1048.0
+2022,Maia,7.1,3042.1
+2022,Mangualde,8.5,2250.0
+2022,Manteigas,3.7,1300.0
+2022,Marco de Canaveses,3.4,3800.0
+2022,Marinha Grande,5.4,1800.0
+2022,Marvão,,300.0
+2022,Matosinhos,8.4,3160.0
+2022,Mação,3.7,1300.0
+2022,Mealhada,4.4,
+2022,Melgaço,2.9,1200.0
+2022,Mesão Frio,1.4,950.0
+2022,Mira,5.4,6400.0
+2022,Miranda do Corvo,1.7,5700.0
+2022,Miranda do Douro,5.1,2200.0
+2022,Mirandela,3.9,830.0
+2022,Mogadouro,3.3,1550.0
+2022,Moimenta da Beira,9.7,500.0
+2022,Moita,11.2,991.7
+2022,Monchique,,800.0
+2022,Mondim de Basto,3.6,1500.0
+2022,Monforte,,266.7
+2022,Montalegre,10.1,966.7
+2022,Montemor-o-Novo,8.3,6800.0
+2022,Montemor-o-Velho,9.3,
+2022,Montijo,13.3,1407.7
+2022,Monção,4.9,1825.0
+2022,Mora,13.8,1700.0
+2022,Mortágua,1.2,
+2022,Moura,6.7,530.0
+2022,Mourão,,500.0
+2022,Murtosa,13.1,
+2022,Murça,3.2,933.3
+2022,Mértola,7.4,1600.0
+2022,Mêda,18.6,650.0
+2022,Nazaré,10.3,3100.0
+2022,Nelas,7.6,3500.0
+2022,Nisa,2.2,950.0
+2022,Nordeste,16.8,550.0
+2022,Odemira,11.3,877.8
+2022,Odivelas,15.2,1250.0
+2022,Oeiras,8.6,1310.5
+2022,Oleiros,5.3,275.0
+2022,Olhão,10.2,1400.0
+2022,Oliveira de Azeméis,3.6,6675.0
+2022,Oliveira de Frades,5.2,
+2022,Oliveira do Bairro,4.8,8800.0
+2022,Oliveira do Hospital,7.9,8900.0
+2022,Ourique,16.1,533.3
+2022,Ourém,7.1,2766.7
+2022,Ovar,11.4,2181.8
+2022,Palmela,8.8,678.9
+2022,Pampilhosa da Serra,5.7,700.0
+2022,Paredes,5.7,1390.5
+2022,Paredes de Coura,3.3,1300.0
+2022,Paços de Ferreira,4.8,1277.8
+2022,Pedrógão Grande,21.2,900.0
+2022,Penacova,7.5,
+2022,Penafiel,4.4,2625.0
+2022,Penalva do Castelo,4.1,
+2022,Penamacor,10.0,
+2022,Penedono,,
+2022,Penela,30.8,
+2022,Peniche,14.3,3666.7
+2022,Peso da Régua,4.8,1460.0
+2022,Pinhel,2.1,
+2022,Pombal,7.1,1827.3
+2022,Ponta Delgada,14.6,5185.7
+2022,Ponta do Sol,8.0,1366.7
+2022,Ponte da Barca,4.9,
+2022,Ponte de Lima,3.5,3740.0
+2022,Ponte de Sor,5.4,1950.0
+2022,Portalegre,7.1,2166.7
+2022,Portel,0.0,
+2022,Portimão,13.7,705.3
+2022,Porto,6.7,1056.3
+2022,Porto Moniz,0.0,150.0
+2022,Porto Santo,8.4,1266.7
+2022,Porto de Mós,5.2,937.5
+2022,Portugal,8.6,1495.4
+2022,Povoação,15.9,1200.0
+2022,Proença-a-Nova,3.5,2200.0
+2022,Póvoa de Lanhoso,7.5,1557.1
+2022,Póvoa de Varzim,8.6,3844.4
+2022,Redondo,2.7,800.0
+2022,Reguengos de Monsaraz,10.5,2350.0
+2022,Resende,6.5,1233.3
+2022,Ribeira Brava,14.7,2250.0
+2022,Ribeira Grande,11.7,675.0
+2022,Ribeira de Pena,4.7,2200.0
+2022,Rio Maior,8.4,2200.0
+2022,Sabrosa,0.7,1900.0
+2022,Sabugal,5.9,3400.0
+2022,Salvaterra de Magos,6.3,1200.0
+2022,Santa Comba Dão,7.4,2300.0
+2022,Santa Cruz,7.3,6250.0
+2022,Santa Cruz da Graciosa,7.9,850.0
+2022,Santa Cruz das Flores,7.9,85.7
+2022,Santa Maria da Feira,4.2,2612.5
+2022,Santa Marta de Penaguião,,1100.0
+2022,Santana,6.9,
+2022,Santarém,7.4,1821.4
+2022,Santiago do Cacém,11.7,1250.0
+2022,Santo Tirso,4.0,1806.7
+2022,Sardoal,1.1,2000.0
+2022,Seia,6.4,1414.3
+2022,Seixal,12.1,1234.0
+2022,Sernancelhe,3.0,
+2022,Serpa,7.5,940.0
+2022,Sertã,7.3,1833.3
+2022,Sesimbra,13.2,1100.0
+2022,Setúbal,11.2,1913.8
+2022,Sever do Vouga,8.2,
+2022,Silves,14.0,860.0
+2022,Sines,8.6,433.3
+2022,Sintra,13.9,974.7
+2022,Sobral de Monte Agraço,10.1,4800.0
+2022,Soure,6.1,3850.0
+2022,Sousel,9.7,350.0
+2022,Sátão,5.1,2950.0
+2022,São Brás de Alportel,8.1,720.0
+2022,São João da Madeira,3.3,1364.3
+2022,São João da Pesqueira,7.8,
+2022,São Pedro do Sul,3.5,1116.7
+2022,São Roque do Pico,12.1,700.0
+2022,São Vicente,10.3,1700.0
+2022,Tabuaço,5.1,1300.0
+2022,Tarouca,6.0,1200.0
+2022,Tavira,17.0,1657.1
+2022,Terras de Bouro,2.4,2600.0
+2022,Tomar,5.8,2040.0
+2022,Tondela,7.8,4366.7
+2022,Torre de Moncorvo,5.0,
+2022,Torres Novas,8.3,2933.3
+2022,Torres Vedras,8.2,1816.7
+2022,Trancoso,7.7,
+2022,Trofa,6.1,3650.0
+2022,Tábua,6.1,
+2022,Vagos,8.9,2150.0
+2022,Vale de Cambra,3.7,9800.0
+2022,Valença,11.0,4900.0
+2022,Valongo,6.0,4722.2
+2022,Valpaços,9.2,825.0
+2022,Velas,14.4,1300.0
+2022,Vendas Novas,5.3,2900.0
+2022,Viana do Alentejo,7.0,525.0
+2022,Viana do Castelo,4.5,3292.9
+2022,Vidigueira,14.1,300.0
+2022,Vieira do Minho,6.9,
+2022,Vila Flor,6.3,850.0
+2022,Vila Franca de Xira,14.3,1121.3
+2022,Vila Franca do Campo,9.7,1500.0
+2022,Vila Nova da Barquinha,7.5,3600.0
+2022,Vila Nova de Cerveira,3.1,2700.0
+2022,Vila Nova de Famalicão,4.5,5366.7
+2022,Vila Nova de Foz Côa,2.7,2900.0
+2022,Vila Nova de Gaia,6.3,2147.3
+2022,Vila Nova de Paiva,6.7,
+2022,Vila Nova de Poiares,4.9,
+2022,Vila Pouca de Aguiar,5.7,1433.3
+2022,Vila Real,6.2,3962.5
+2022,Vila Real de Santo António,9.4,1442.9
+2022,Vila Velha de Ródão,,400.0
+2022,Vila Verde,3.5,4000.0
+2022,Vila Viçosa,7.8,1050.0
+2022,Vila da Praia da Vitória,12.4,1014.3
+2022,Vila de Rei,12.3,1100.0
+2022,Vila do Bispo,,
+2022,Vila do Conde,5.7,2353.8
+2022,Vila do Porto,11.9,1450.0
+2022,Vimioso,,500.0
+2022,Vinhais,9.4,1500.0
+2022,Viseu,8.2,8157.1
+2022,Vizela,4.2,10900.0
+2022,Vouzela,6.4,1000.0
+2022,Águeda,6.3,9750.0
+2022,Évora,7.8,2035.3
+2022,Ílhavo,11.4,5075.0
+2022,Óbidos,17.0,950.0
+2023,Abrantes,8.5,1064.3
+2023,Aguiar da Beira,5.7,2300.0
+2023,Alandroal,,700.0
+2023,Albergaria-a-Velha,6.9,
+2023,Albufeira,14.9,1113.3
+2023,Alcanena,4.3,
+2023,Alcobaça,8.0,3666.7
+2023,Alcochete,9.4,990.0
+2023,Alcoutim,,150.0
+2023,Alcácer do Sal,11.8,
+2023,Alenquer,11.8,1250.0
+2023,Alfândega da Fé,15.9,
+2023,Alijó,7.1,4500.0
+2023,Aljezur,,300.0
+2023,Aljustrel,13.3,875.0
+2023,Almada,14.2,853.8
+2023,Almeida,4.3,2300.0
+2023,Almeirim,15.0,1671.4
+2023,Almodôvar,5.0,340.0
+2023,Alpiarça,7.1,3600.0
+2023,Alter do Chão,8.4,400.0
+2023,Alvaiázere,11.1,
+2023,Alvito,10.2,66.7
+2023,Amadora,17.4,963.6
+2023,Amarante,3.6,1010.0
+2023,Amares,6.0,4400.0
+2023,Anadia,8.8,4400.0
+2023,Angra do Heroísmo,19.0,1210.0
+2023,Ansião,9.2,2500.0
+2023,Arcos de Valdevez,5.2,1880.0
+2023,Arganil,8.0,1300.0
+2023,Armamar,0.0,2100.0
+2023,Arouca,4.5,9300.0
+2023,Arraiolos,3.4,1133.3
+2023,Arronches,0.0,
+2023,Arruda dos Vinhos,8.0,1400.0
+2023,Aveiro,6.6,6000.0
+2023,Avis,,175.0
+2023,Azambuja,12.9,1142.9
+2023,Baião,8.9,1666.7
+2023,Barcelos,4.6,1244.7
+2023,Barrancos,,100.0
+2023,Barreiro,9.8,1258.3
+2023,Batalha,5.3,1650.0
+2023,Beja,12.1,1533.3
+2023,Belmonte,5.5,2400.0
+2023,Benavente,18.2,990.9
+2023,Bombarral,7.7,983.3
+2023,Borba,,1600.0
+2023,Boticas,,700.0
+2023,Braga,7.1,2153.1
+2023,Bragança,7.4,4340.0
+2023,Cabeceiras de Basto,1.5,2550.0
+2023,Cadaval,9.4,3600.0
+2023,Caldas da Rainha,12.9,914.3
+2023,Calheta [R.A.A.],14.9,500.0
+2023,Calheta [R.A.M.],7.8,880.0
+2023,Caminha,1.7,
+2023,Campo Maior,2.7,600.0
+2023,Cantanhede,4.1,1341.7
+2023,Carrazeda de Ansiães,0.8,2200.0
+2023,Carregal do Sal,8.4,
+2023,Cartaxo,14.5,1244.4
+2023,Cascais,11.7,697.1
+2023,Castanheira de Pêra,,1000.0
+2023,Castelo Branco,11.2,2372.7
+2023,Castelo de Paiva,1.2,
+2023,Castelo de Vide,,
+2023,Castro Daire,2.9,2750.0
+2023,Castro Marim,,
+2023,Castro Verde,7.9,1333.3
+2023,Celorico da Beira,5.1,1266.7
+2023,Celorico de Basto,2.9,840.0
+2023,Chamusca,14.7,1950.0
+2023,Chaves,7.1,2488.9
+2023,Cinfães,3.6,771.4
+2023,Coimbra,6.5,1564.8
+2023,Condeixa-a-Nova,5.9,8500.0
+2023,Constância,8.9,2200.0
+2023,Coruche,8.2,1400.0
+2023,Corvo,0.0,40.0
+2023,Covilhã,7.8,1350.0
+2023,Crato,5.3,400.0
+2023,Cuba,4.8,
+2023,Câmara de Lobos,7.9,875.0
+2023,Elvas,8.7,680.0
+2023,Entroncamento,14.0,3566.7
+2023,Espinho,8.2,3485.7
+2023,Esposende,7.0,3925.0
+2023,Estarreja,10.7,
+2023,Estremoz,7.0,1100.0
+2023,Fafe,1.8,1730.0
+2023,Faro,8.7,1836.8
+2023,Felgueiras,4.6,2355.6
+2023,Ferreira do Alentejo,9.7,750.0
+2023,Ferreira do Zêzere,4.4,1150.0
+2023,Figueira da Foz,7.8,4514.3
+2023,Figueira de Castelo Rodrigo,11.4,1100.0
+2023,Figueiró dos Vinhos,1.7,2700.0
+2023,Fornos de Algodres,6.1,700.0
+2023,Freixo de Espada à Cinta,,250.0
+2023,Fronteira,,
+2023,Funchal,10.8,3358.3
+2023,Fundão,8.1,1671.4
+2023,Gavião,8.6,
+2023,Golegã,15.7,2900.0
+2023,Gondomar,6.6,2127.6
+2023,Gouveia,4.6,3000.0
+2023,Grândola,17.3,1125.0
+2023,Guarda,5.0,4100.0
+2023,Guimarães,5.2,2696.0
+2023,Góis,,1100.0
+2023,Horta,20.5,433.3
+2023,Idanha-a-Nova,9.8,2500.0
+2023,Lagoa,14.9,488.2
+2023,Lagoa [R.A.A.],28.7,8000.0
+2023,Lagos,16.7,1017.6
+2023,Lajes das Flores,,
+2023,Lajes do Pico,3.2,
+2023,Lamego,5.3,1233.3
+2023,Leiria,9.1,1647.1
+2023,Lisboa,11.9,663.8
+2023,Loulé,14.2,684.1
+2023,Loures,16.4,735.5
+2023,Lourinhã,13.3,1700.0
+2023,Lousada,7.7,634.6
+2023,Lousã,7.5,1760.0
+2023,Macedo de Cavaleiros,4.9,1575.0
+2023,Machico,9.7,5600.0
+2023,Madalena,15.4,
+2023,Mafra,13.6,1195.8
+2023,Maia,8.1,2650.0
+2023,Mangualde,11.8,
+2023,Manteigas,3.5,
+2023,Marco de Canaveses,5.8,2485.7
+2023,Marinha Grande,7.0,2475.0
+2023,Marvão,,233.3
+2023,Matosinhos,8.5,3100.0
+2023,Mação,5.8,933.3
+2023,Mealhada,3.6,7900.0
+2023,Melgaço,3.8,
+2023,Mesão Frio,7.5,1050.0
+2023,Mira,12.8,3300.0
+2023,Miranda do Corvo,5.5,1320.0
+2023,Miranda do Douro,10.1,1350.0
+2023,Mirandela,7.0,517.6
+2023,Mogadouro,10.5,1033.3
+2023,Moimenta da Beira,5.6,662.5
+2023,Moita,13.9,1037.5
+2023,Monchique,,900.0
+2023,Mondim de Basto,11.9,1500.0
+2023,Monforte,,225.0
+2023,Montalegre,6.1,3000.0
+2023,Montemor-o-Novo,10.4,1650.0
+2023,Montemor-o-Velho,6.0,10000.0
+2023,Montijo,16.8,1666.7
+2023,Monção,4.7,4300.0
+2023,Mora,15.2,600.0
+2023,Mortágua,4.8,4000.0
+2023,Moura,11.7,570.0
+2023,Mourão,,200.0
+2023,Murtosa,10.6,
+2023,Murça,6.7,725.0
+2023,Mértola,3.4,533.3
+2023,Mêda,10.6,900.0
+2023,Nazaré,12.1,3500.0
+2023,Nelas,5.6,7500.0
+2023,Nisa,2.5,633.3
+2023,Nordeste,14.3,300.0
+2023,Odemira,10.6,576.9
+2023,Odivelas,15.3,854.4
+2023,Oeiras,10.0,1166.2
+2023,Oleiros,8.3,280.0
+2023,Olhão,15.0,900.0
+2023,Oliveira de Azeméis,4.6,6925.0
+2023,Oliveira de Frades,6.0,
+2023,Oliveira do Bairro,5.5,
+2023,Oliveira do Hospital,11.8,1820.0
+2023,Ourique,10.1,433.3
+2023,Ourém,8.8,3133.3
+2023,Ovar,8.1,2611.1
+2023,Palmela,12.4,665.9
+2023,Pampilhosa da Serra,10.3,1000.0
+2023,Paredes,6.2,1631.6
+2023,Paredes de Coura,6.4,2500.0
+2023,Paços de Ferreira,4.8,1168.2
+2023,Pedrógão Grande,14.7,450.0
+2023,Penacova,7.3,6000.0
+2023,Penafiel,4.7,3950.0
+2023,Penalva do Castelo,12.9,4000.0
+2023,Penamacor,8.6,2200.0
+2023,Penedono,,
+2023,Penela,7.1,
+2023,Peniche,14.2,1883.3
+2023,Peso da Régua,7.8,2800.0
+2023,Pinhel,1.1,
+2023,Pombal,7.8,2511.1
+2023,Ponta Delgada,15.6,2362.5
+2023,Ponta do Sol,1.8,1566.7
+2023,Ponte da Barca,2.5,
+2023,Ponte de Lima,4.2,2742.9
+2023,Ponte de Sor,8.9,1283.3
+2023,Portalegre,5.6,1857.1
+2023,Portel,0.0,600.0
+2023,Portimão,15.2,672.1
+2023,Porto,7.0,1180.5
+2023,Porto Moniz,10.0,500.0
+2023,Porto Santo,7.7,925.0
+2023,Porto de Mós,6.0,1075.0
+2023,Portugal,9.8,1376.9
+2023,Povoação,15.7,500.0
+2023,Proença-a-Nova,3.0,1200.0
+2023,Póvoa de Lanhoso,7.9,1170.0
+2023,Póvoa de Varzim,9.2,3354.5
+2023,Redondo,9.3,675.0
+2023,Reguengos de Monsaraz,17.0,1733.3
+2023,Resende,2.9,1333.3
+2023,Ribeira Brava,6.7,4800.0
+2023,Ribeira Grande,15.5,1225.0
+2023,Ribeira de Pena,2.2,1200.0
+2023,Rio Maior,11.6,1528.6
+2023,Sabrosa,1.5,
+2023,Sabugal,6.5,
+2023,Salvaterra de Magos,11.7,888.9
+2023,Santa Comba Dão,5.1,2350.0
+2023,Santa Cruz,2.5,2483.3
+2023,Santa Cruz da Graciosa,8.7,633.3
+2023,Santa Cruz das Flores,6.8,100.0
+2023,Santa Maria da Feira,7.7,2787.5
+2023,Santa Marta de Penaguião,,650.0
+2023,Santana,6.3,
+2023,Santarém,9.3,2833.3
+2023,Santiago do Cacém,13.2,1100.0
+2023,Santo Tirso,3.8,1781.3
+2023,Sardoal,2.1,2300.0
+2023,Seia,5.3,2040.0
+2023,Seixal,13.9,1095.1
+2023,Sernancelhe,8.9,
+2023,Serpa,7.2,1633.3
+2023,Sertã,9.4,733.3
+2023,Sesimbra,14.1,760.7
+2023,Setúbal,12.3,1054.7
+2023,Sever do Vouga,3.4,6000.0
+2023,Silves,17.8,942.9
+2023,Sines,12.1,983.3
+2023,Sintra,16.3,832.0
+2023,Sobral de Monte Agraço,9.1,1666.7
+2023,Soure,6.5,3950.0
+2023,Sousel,16.8,300.0
+2023,Sátão,8.7,3000.0
+2023,São Brás de Alportel,13.0,585.7
+2023,São João da Madeira,5.7,2130.0
+2023,São João da Pesqueira,13.1,1700.0
+2023,São Pedro do Sul,7.7,2333.3
+2023,São Roque do Pico,8.6,
+2023,São Vicente,9.0,1100.0
+2023,Tabuaço,5.7,1700.0
+2023,Tarouca,5.8,3000.0
+2023,Tavira,19.0,861.5
+2023,Terras de Bouro,4.4,2300.0
+2023,Tomar,9.3,1421.4
+2023,Tondela,7.9,
+2023,Torre de Moncorvo,5.0,
+2023,Torres Novas,10.0,1840.0
+2023,Torres Vedras,10.5,1508.7
+2023,Trancoso,9.1,2900.0
+2023,Trofa,7.3,1722.2
+2023,Tábua,8.9,3400.0
+2023,Vagos,11.3,1485.7
+2023,Vale de Cambra,4.0,
+2023,Valença,10.4,2166.7
+2023,Valongo,7.0,3775.0
+2023,Valpaços,4.8,1150.0
+2023,Velas,18.6,700.0
+2023,Vendas Novas,7.1,1966.7
+2023,Viana do Alentejo,2.9,725.0
+2023,Viana do Castelo,6.5,4790.0
+2023,Vidigueira,11.6,200.0
+2023,Vieira do Minho,7.8,2350.0
+2023,Vila Flor,11.6,2200.0
+2023,Vila Franca de Xira,14.9,937.3
+2023,Vila Franca do Campo,15.5,1066.7
+2023,Vila Nova da Barquinha,9.1,
+2023,Vila Nova de Cerveira,3.5,2800.0
+2023,Vila Nova de Famalicão,5.2,4441.7
+2023,Vila Nova de Foz Côa,5.9,
+2023,Vila Nova de Gaia,7.5,2223.6
+2023,Vila Nova de Paiva,11.3,
+2023,Vila Nova de Poiares,7.8,3700.0
+2023,Vila Pouca de Aguiar,5.4,2450.0
+2023,Vila Real,6.2,2221.4
+2023,Vila Real de Santo António,11.6,1140.0
+2023,Vila Velha de Ródão,,800.0
+2023,Vila Verde,5.4,7133.3
+2023,Vila Viçosa,7.4,2150.0
+2023,Vila da Praia da Vitória,11.5,1300.0
+2023,Vila de Rei,23.4,1400.0
+2023,Vila do Bispo,,1300.0
+2023,Vila do Conde,6.7,3611.1
+2023,Vila do Porto,20.7,425.0
+2023,Vimioso,,
+2023,Vinhais,11.5,950.0
+2023,Viseu,8.4,6033.3
+2023,Vizela,4.0,11400.0
+2023,Vouzela,3.8,1033.3
+2023,Águeda,6.8,20700.0
+2023,Évora,7.8,2225.0
+2023,Ílhavo,9.9,10700.0
+2023,Óbidos,11.9,1333.3
